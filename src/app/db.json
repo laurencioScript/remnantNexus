@@ -1,0 +1,2689 @@
+{
+  "rings": [
+    {
+      "name": "Acid Stone",
+      "img": "1691936583411.png",
+      "img_short": "1691936583411_short.png",
+      "description": "Increases ACID damage by 10% and ACID Resistance by 15%.",
+      "source": "https://remnant2.wiki.fextralife.com//Acid+Stone"
+    },
+    {
+      "name": "Ahanae Crystal",
+      "img": "1691936622025.png",
+      "img_short": "1691936622025_short.png",
+      "description": "Deal 5% additional damage for each Status Effect the target is suffering from",
+      "source": "https://remnant2.wiki.fextralife.com//Ahanae+Crystal"
+    },
+    {
+      "name": "Akari War Band",
+      "img": "1691936627367.png",
+      "img_short": "1691936627367_short.png",
+      "description": "Perfect Dodges increase Critical Chance by 15% and Critical Damage by 15% for 15s.",
+      "source": "https://remnant2.wiki.fextralife.com//Akari+War+Band"
+    },
+    {
+      "name": "Alchemy Stone",
+      "img": "1691936632734.png",
+      "img_short": "1691936632734_short.png",
+      "description": "Increases base Lifesteal by 5% while suffering from a negative STATUS or BLIGHT Effect.",
+      "source": "https://remnant2.wiki.fextralife.com//Alchemy+Stone"
+    },
+    {
+      "name": "Alumni Ring",
+      "img": "1691936671717.png",
+      "img_short": "1691936671717_short.png",
+      "description": "Increases all Elemental damage dealt by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Alumni+Ring"
+    },
+    {
+      "name": "Amber Moonstone",
+      "img": "1691936677298.png",
+      "img_short": "1691936677298_short.png",
+      "description": "When the wearer's Health drops below 30%, all incoming damage is reduced by 25% and wearer becomes immune to Temporary Status Effects.",
+      "source": "https://remnant2.wiki.fextralife.com//Amber+Moonstone"
+    },
+    {
+      "name": "Anastasija's Inspiration",
+      "img": "1691936683155.png",
+      "img_short": "1691936683155_short.png",
+      "description": "When receiving healing effects, gain HASTE for 10s.",
+      "source": "https://remnant2.wiki.fextralife.com//Anastasija's+Inspiration"
+    },
+    {
+      "name": "Archer's Crest",
+      "img": "1691936747782.png",
+      "img_short": "1691936747782_short.png",
+      "description": "Increases Projectile Speed by 20% and Decreases Weapon Charge Time by 25%.",
+      "source": "https://remnant2.wiki.fextralife.com//Archer's+Crest"
+    },
+    {
+      "name": "Band Band",
+      "img": "1691936843689.png",
+      "img_short": "1691936843689_short.png",
+      "description": "Increases Speed of Revive and being Revived by 35%. Increases Downed Health and Downed Movement Speed by 100%.",
+      "source": "https://remnant2.wiki.fextralife.com//Band+Band"
+    },
+    {
+      "name": "Band of Accord",
+      "img": "1691936849566.png",
+      "img_short": "1691936849566_short.png",
+      "description": "Ammo acquired on pickup is increased by 25% per ally also wearing this ring and is shared with other allies.",
+      "source": "https://remnant2.wiki.fextralife.com//Band+of+Accord"
+    },
+    {
+      "name": "Berserker's Crest",
+      "img": "1691936854940.png",
+      "img_short": "1691936854940_short.png",
+      "description": "Increases Melee Charge Speed by 20% and reduces Melee Stamina Cost by 25%.",
+      "source": "https://remnant2.wiki.fextralife.com//Berserker's+Crest"
+    },
+    {
+      "name": "Bisected Ring",
+      "img": "1691936893399.png",
+      "img_short": "1691936893399_short.png",
+      "description": "Gain Infinite Stamina. All damage received is increased by 25%.",
+      "source": "https://remnant2.wiki.fextralife.com//Bisected+Ring"
+    },
+    {
+      "name": "Black Cat Band",
+      "img": "1691936898801.png",
+      "img_short": "1691936898801_short.png",
+      "description": "When taking fatal damage, instead of dying, the wearer's Health will drop to 1, and Movement Speed will increase by 25% for 10s. 2m cooldown.",
+      "source": "https://remnant2.wiki.fextralife.com//Black+Cat+Band"
+    },
+    {
+      "name": "Black Pawn Stamp",
+      "img": "1691936904184.png",
+      "img_short": "1691936904184_short.png",
+      "description": "Reduces Cooldowns of Skills by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Black+Pawn+Stamp"
+    },
+    {
+      "name": "Blackout Ring",
+      "img": "1691936948405.png",
+      "img_short": "1691936948405_short.png",
+      "description": "After dealing 20% of the Weapon's Total Magazine base damage, increases Reload Speed by 3%. Stacks 5x Cleared on Reload.",
+      "source": "https://remnant2.wiki.fextralife.com//Blackout+Ring"
+    },
+    {
+      "name": "Blasting Cap Ring",
+      "img": "1691936953894.png",
+      "img_short": "1691936953894_short.png",
+      "description": "Increases Explosive damage by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Blasting+Cap+Ring"
+    },
+    {
+      "name": "Blessed Ring",
+      "img": "1691936958939.png",
+      "img_short": "1691936958939_short.png",
+      "description": "After receiving a benefit from a Relic, gain 2 Stacks of BULWARK for 15s.",
+      "source": "https://remnant2.wiki.fextralife.com//Blessed+Ring"
+    },
+    {
+      "name": "Blood Jewel",
+      "img": "1691936964478.png",
+      "img_short": "1691936964478_short.png",
+      "description": "Charged Melee Attacks apply BLEEDING, dealing 460 BLEED damage over 20s.",
+      "source": "https://remnant2.wiki.fextralife.com//Blood+Jewel"
+    },
+    {
+      "name": "Blood Tinged Ring",
+      "img": "1691936969870.png",
+      "img_short": "1691936969870_short.png",
+      "description": "Gain 2 Health Regeneration per second when within 10m of a BLEEDING entity.",
+      "source": "https://remnant2.wiki.fextralife.com//Blood+Tinged+Ring"
+    },
+    {
+      "name": "Booster Ring",
+      "img": "1691936974944.png",
+      "img_short": "1691936974944_short.png",
+      "description": "Increases all Status Resistances by 10.",
+      "source": "https://remnant2.wiki.fextralife.com//Booster+Ring"
+    },
+    {
+      "name": "Braided Thorns",
+      "img": "1691936980284.png",
+      "img_short": "1691936980284_short.png",
+      "description": "After killing an enemy, gain 15% increased Critical Chance for 10s.",
+      "source": "https://remnant2.wiki.fextralife.com//Braided+Thorns"
+    },
+    {
+      "name": "Bright Steel Ring",
+      "img": "1691936985525.png",
+      "img_short": "1691936985525_short.png",
+      "description": "Gives the wearer the fastest evade roll regardless of their Armor Encumbrance.",
+      "source": "https://remnant2.wiki.fextralife.com//Bright+Steel+Ring"
+    },
+    {
+      "name": "Burden of the Audacious",
+      "img": "1691936990750.png",
+      "img_short": "1691936990750_short.png",
+      "description": "Decreases all healing by 75%. Perfect Dodges heal for 15% of Max Health.",
+      "source": "https://remnant2.wiki.fextralife.com//Burden+of+the+Audacious"
+    },
+    {
+      "name": "Burden of the Destroyer",
+      "img": "1691936996662.png",
+      "img_short": "1691936996662_short.png",
+      "description": "Decreases Ideal Range of all Firearms by 25%. Increases all damage dealt by 15%.",
+      "source": "https://remnant2.wiki.fextralife.com//Burden+of+the+Destroyer"
+    },
+    {
+      "name": "Burden of the Divine",
+      "img": "1691937001906.png",
+      "img_short": "1691937001906_short.png",
+      "description": "All damage dealt by wearer is reduced by 10%. 50% of self healing applies to allies.",
+      "source": "https://remnant2.wiki.fextralife.com//Burden+of+the+Divine"
+    },
+    {
+      "name": "Burden of the Follower",
+      "img": "1691937007233.png",
+      "img_short": "1691937007233_short.png",
+      "description": "Reduces Fire Rate by 15%. Increases Mod Power Generation by 50%.",
+      "source": "https://remnant2.wiki.fextralife.com//Burden+of+the+Follower"
+    },
+    {
+      "name": "Burden of the Gambler",
+      "img": "1691937012564.png",
+      "img_short": "1691937012564_short.png",
+      "description": "Disables Weakspots. Increases Critical Chance by 10% and Critical Damage by 20%.",
+      "source": "https://remnant2.wiki.fextralife.com//Burden+of+the+Gambler"
+    },
+    {
+      "name": "Burden of the Mariner",
+      "img": "1691937056146.png",
+      "img_short": "1691937056146_short.png",
+      "description": "Increases Skill Cooldowns by 25%. Generate 10% additional Mod Power for each Skill on Cooldown.",
+      "source": "https://remnant2.wiki.fextralife.com//Burden+of+the+Mariner"
+    },
+    {
+      "name": "Burden of the Rebel",
+      "img": "1691937100362.png",
+      "img_short": "1691937100362_short.png",
+      "description": "Reduces Skill Cooldowns by 15%, but reduces",
+      "source": "https://remnant2.wiki.fextralife.com//Burden+of+the+Rebel"
+    },
+    {
+      "name": "Burden of the Stargazer",
+      "img": "1691937105713.png",
+      "img_short": "1691937105713_short.png",
+      "description": "Reduces Skill Cooldowns by 15%. Activating a Skill costs 15% Health.",
+      "source": "https://remnant2.wiki.fextralife.com//Burden+of+the+Stargazer"
+    },
+    {
+      "name": "Burden of the Warlock",
+      "img": "1691937111094.png",
+      "img_short": "1691937111094_short.png",
+      "description": "Reduces Mod Power Requirement by 15%. Activating a Mod costs 15% Health as Grey Health. Activation cannot kill wearer.",
+      "source": "https://remnant2.wiki.fextralife.com//Burden+of+the+Warlock"
+    },
+    {
+      "name": "Captain's Insignia",
+      "img": "1691937116445.png",
+      "img_short": "1691937116445_short.png",
+      "description": "Increases Revive Speed and Relic Consume Speed by 25% per downed or dead ally. Max 2 stacks.",
+      "source": "https://remnant2.wiki.fextralife.com//Captain's+Insignia"
+    },
+    {
+      "name": "Cataloger's Jewel",
+      "img": "1691937121807.png",
+      "img_short": "1691937121807_short.png",
+      "description": "Automatically generates 8 Mod Power per second.",
+      "source": "https://remnant2.wiki.fextralife.com//Cataloger's+Jewel"
+    },
+    {
+      "name": "Celerity Stone",
+      "img": "1691937126950.png",
+      "img_short": "1691937126950_short.png",
+      "description": "Increases Consumable and Relic Use Speed by 20%.",
+      "source": "https://remnant2.wiki.fextralife.com//Celerity+Stone"
+    },
+    {
+      "name": "Compulsion Loop",
+      "img": "1691937132120.png",
+      "img_short": "1691937132120_short.png",
+      "description": "After killing an enemy, gain 5% Fire Rate and Melee Attack Speed for 7s. Stacks 3x.",
+      "source": "https://remnant2.wiki.fextralife.com//Compulsion+Loop"
+    },
+    {
+      "name": "Conservation Seal",
+      "img": "1691937137980.png",
+      "img_short": "1691937137980_short.png",
+      "description": "For every 10% of Health missing  (Max 50%) gain 3% chance to not consume Relic and 5% increased Relic Efficacy on next use.",
+      "source": "https://remnant2.wiki.fextralife.com//Conservation+Seal"
+    },
+    {
+      "name": "Constant Variable Ring",
+      "img": "1691937143332.png",
+      "img_short": "1691937143332_short.png",
+      "description": "Increases Ranged damage up to 20% based on current Weapon's Overheat value.",
+      "source": "https://remnant2.wiki.fextralife.com//Constant+Variable+Ring"
+    },
+    {
+      "name": "Deceiver's Band",
+      "img": "1691937273663.png",
+      "img_short": "1691937273663_short.png",
+      "description": "After performing a Slide, gain 15% Evade Speed and 10% Movement Speed for 12s.",
+      "source": "https://remnant2.wiki.fextralife.com//Deceiver's+Band"
+    },
+    {
+      "name": "Deep Pocket Ring",
+      "img": "1691937278834.png",
+      "img_short": "1691937278834_short.png",
+      "description": "Increases Ammo Reserves by 25%.",
+      "source": "https://remnant2.wiki.fextralife.com//Deep+Pocket+Ring"
+    },
+    {
+      "name": "Defensive Action Loop",
+      "img": "1691937322406.png",
+      "img_short": "1691937322406_short.png",
+      "description": "While reloading, and for 3s after reload completes, incoming damage is reduced by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Defensive+Action+Loop"
+    },
+    {
+      "name": "Dense Silicon Ring",
+      "img": "1691937328244.png",
+      "img_short": "1691937328244_short.png",
+      "description": "Gain 200% of Health Regenerated as Mod Power.",
+      "source": "https://remnant2.wiki.fextralife.com//Dense+Silicon+Ring"
+    },
+    {
+      "name": "Devoured Loop",
+      "img": "1691937333705.png",
+      "img_short": "1691937333705_short.png",
+      "description": "Critical Hits have 1% chance to reset Skill Cooldowns. Can only occur once every 10s. Increases all incoming damage by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Devoured+Loop"
+    },
+    {
+      "name": "Drakestone Pearl",
+      "img": "1691937372536.png",
+      "img_short": "1691937372536_short.png",
+      "description": "Enables Stamina Regeneration during Melee Attacks at 20% of the normal rate.",
+      "source": "https://remnant2.wiki.fextralife.com//Drakestone+Pearl"
+    },
+    {
+      "name": "Dran Memento",
+      "img": "1691937411556.png",
+      "img_short": "1691937411556_short.png",
+      "description": "Increases Max Stamina by 20 and reduces Encumbrance by 5.",
+      "source": "https://remnant2.wiki.fextralife.com//Dran+Memento"
+    },
+    {
+      "name": "Dran Scavenger Ring",
+      "img": "1691937451407.png",
+      "img_short": "1691937451407_short.png",
+      "description": "Collecting Scrap, Iron, and Ammo pickups regenerates 10% of Max Health and increases all damage dealt by 8% for 30s.",
+      "source": "https://remnant2.wiki.fextralife.com//Dran+Scavenger+Ring"
+    },
+    {
+      "name": "Dread Font",
+      "img": "1691937456937.png",
+      "img_short": "1691937456937_short.png",
+      "description": "Increases Grey Health Regeneration rate by 2 per second.",
+      "source": "https://remnant2.wiki.fextralife.com//Dread+Font"
+    },
+    {
+      "name": "Drzyr Sniper Sigil",
+      "img": "1691937462338.png",
+      "img_short": "1691937462338_short.png",
+      "description": "Increases the minimum damage at Max Falloff Range from 20% to 40%.",
+      "source": "https://remnant2.wiki.fextralife.com//Drzyr+Sniper+Sigil"
+    },
+    {
+      "name": "Dying Ember",
+      "img": "1691937467661.png",
+      "img_short": "1691937467661_short.png",
+      "description": "Gain 5% of base Melee damage dealt as Lifesteal.",
+      "source": "https://remnant2.wiki.fextralife.com//Dying+Ember"
+    },
+    {
+      "name": "Embrace of Sha'Hala",
+      "img": "1691937472988.png",
+      "img_short": "1691937472988_short.png",
+      "description": "Wearer gains 5% incoming damage reduction for each Negative Status Effect or Blight they are suffering from. Max 4 stacks. ",
+      "source": "https://remnant2.wiki.fextralife.com//Embrace+of+Sha'Hala"
+    },
+    {
+      "name": "Encrypted Ring",
+      "img": "1691937536980.png",
+      "img_short": "1691937536980_short.png",
+      "description": "Using a Mod regenerates 10% of Max Health over 10s. Can stack up to 30s.",
+      "source": "https://remnant2.wiki.fextralife.com//Encrypted+Ring"
+    },
+    {
+      "name": "Excess Coil",
+      "img": "1691937668902.png",
+      "img_short": "1691937668902_short.png",
+      "description": "Activating a Skill grants a Shield for 25% of Max Health. Cannot stack with itself. Lasts 10s.",
+      "source": "https://remnant2.wiki.fextralife.com//Excess+Coil"
+    },
+    {
+      "name": "Fae Bruiser Ring",
+      "img": "1691937731251.png",
+      "img_short": "1691937731251_short.png",
+      "description": "Dealing Melee damage grants 2 Stack of BULWARK for 7s. Does not stack with itself.",
+      "source": "https://remnant2.wiki.fextralife.com//Fae+Bruiser+Ring"
+    },
+    {
+      "name": "Fae Hunter Ring",
+      "img": "1691937773364.png",
+      "img_short": "1691937773364_short.png",
+      "description": "Increases Range of Firearms by 30%.",
+      "source": "https://remnant2.wiki.fextralife.com//Fae+Hunter+Ring"
+    },
+    {
+      "name": "Fae Protector Signet",
+      "img": "1691937815588.png",
+      "img_short": "1691937815588_short.png",
+      "description": "Increases Max Health and Stamina by 10 and Reduces Encumbrance by 5.",
+      "source": "https://remnant2.wiki.fextralife.com//Fae+Protector+Signet"
+    },
+    {
+      "name": "Fae Shaman Ring",
+      "img": "1691937820965.png",
+      "img_short": "1691937820965_short.png",
+      "description": "Increases Health Regeneration by 0.25 and Relic Use Speed by 25%.",
+      "source": "https://remnant2.wiki.fextralife.com//Fae+Shaman+Ring"
+    },
+    {
+      "name": "Fae Warrior Ring",
+      "img": "1691937826322.png",
+      "img_short": "1691937826322_short.png",
+      "description": "Increases Melee Damage by 15%.",
+      "source": "https://remnant2.wiki.fextralife.com//Fae+Warrior+Ring"
+    },
+    {
+      "name": "Faerin's Sigil",
+      "img": "1691937922044.png",
+      "img_short": "1691937922044_short.png",
+      "description": "Critical and Weakspot Hits generates 10% additional Mod Power.",
+      "source": "https://remnant2.wiki.fextralife.com//Faerin's+Sigil"
+    },
+    {
+      "name": "Feedback Loop",
+      "img": "1691938017899.png",
+      "img_short": "1691938017899_short.png",
+      "description": "Perfect Dodge triggers a 3m AOE blast that deal 115 SHOCK Damage and applies OVERLOADED.",
+      "source": "https://remnant2.wiki.fextralife.com//Feedback+Loop"
+    },
+    {
+      "name": "Fire Stone",
+      "img": "1691938023536.png",
+      "img_short": "1691938023536_short.png",
+      "description": "Increases FIRE damage by 10% and FIRE Resistance by 15.",
+      "source": "https://remnant2.wiki.fextralife.com//Fire+Stone"
+    },
+    {
+      "name": "Flyweight's Sting",
+      "img": "1691938029404.png",
+      "img_short": "1691938029404_short.png",
+      "description": "Increases Melee damage while Armor Encumbrance is below 50. Damage bonus increases with lower Encumbrance, up to 25% at 0 Weight.",
+      "source": "https://remnant2.wiki.fextralife.com//Flyweight's+Sting"
+    },
+    {
+      "name": "Focusing Shard",
+      "img": "1691938034717.png",
+      "img_short": "1691938034717_short.png",
+      "description": "Reduce Recoil by 25%. Aiming Down Sights gradually reduces Spread by 35% over 3.5s",
+      "source": "https://remnant2.wiki.fextralife.com//Focused+Jewel"
+    },
+    {
+      "name": "Frivolous Band",
+      "img": "1691938040449.png",
+      "img_short": "1691938040449_short.png",
+      "description": "Increases Evade Speed by 10%. Perfect Evades increase Fire Rate by 10% and Melee Speed by 10% for 10s.",
+      "source": "https://remnant2.wiki.fextralife.com//Frivolous+Band"
+    },
+    {
+      "name": "Galvanized Resupply Band",
+      "img": "1691938124614.png",
+      "img_short": "1691938124614_short.png",
+      "description": "Increases Ammo Pickups by 50%.",
+      "source": "https://remnant2.wiki.fextralife.com//Galvanized+Resupply+Band"
+    },
+    {
+      "name": "Game Master's Pride",
+      "img": "1691938130063.png",
+      "img_short": "1691938130063_short.png",
+      "description": "Reduces all healing by 50%. Splits all damage and remaining healing evenly amoung all allies wearing this ring.",
+      "source": "https://remnant2.wiki.fextralife.com//Game+Master's+Pride"
+    },
+    {
+      "name": "Generating Band",
+      "img": "1691938183986.png",
+      "img_short": "1691938183986_short.png",
+      "description": "Regenerate 3% of Max Health per second while a Shield is active.",
+      "source": "https://remnant2.wiki.fextralife.com//Generating+Band"
+    },
+    {
+      "name": "Grounding Stone",
+      "img": "1691938189553.png",
+      "img_short": "1691938189553_short.png",
+      "description": "Increases SHOCK damage by 10% and SHOCK Resistance by 15.",
+      "source": "https://remnant2.wiki.fextralife.com//Grounding+Stone"
+    },
+    {
+      "name": "Guardian's Ring",
+      "img": "1691938194902.png",
+      "img_short": "1691938194902_short.png",
+      "description": "Adds 1 Stack of BULWARK when within 15m of an enemy. Increases to 2 Stacks for 10s after taking Melee damage.",
+      "source": "https://remnant2.wiki.fextralife.com//Guardian's+Ring"
+    },
+    {
+      "name": "Gunslinger's Ring",
+      "img": "1691938200241.png",
+      "img_short": "1691938200241_short.png",
+      "description": "Increases Firearm Swap Speed by 30% and Reload Speed by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Gunslinger's+Ring"
+    },
+    {
+      "name": "Hardcore Metal Band",
+      "img": "1691938205620.png",
+      "img_short": "1691938205620_short.png",
+      "description": "Taking damage adds 1 stack of BULWARK which individually falls of after 10s. Max 5 stacks.",
+      "source": "https://remnant2.wiki.fextralife.com//Hardcore+Metal+Band"
+    },
+    {
+      "name": "Hardened Coil",
+      "img": "1691938211085.png",
+      "img_short": "1691938211085_short.png",
+      "description": "Reduces all incoming damage by 3% for each 10% of missing Health. Max 15% reduction.",
+      "source": "https://remnant2.wiki.fextralife.com//Hardened+Coil"
+    },
+    {
+      "name": "Heart of the Wolf",
+      "img": "1691938359719.png",
+      "img_short": "1691938359719_short.png",
+      "description": "Increases Max Stamina by 25 and Movement Speed by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Heart+of+the+Wolf"
+    },
+    {
+      "name": "Hex Ward",
+      "img": "1691938365121.png",
+      "img_short": "1691938365121_short.png",
+      "description": "Prevents CURSE Blight.",
+      "source": "https://remnant2.wiki.fextralife.com//Hex+Ward"
+    },
+    {
+      "name": "Kinetic Cycle Stone",
+      "img": "1691938370567.png",
+      "img_short": "1691938370567_short.png",
+      "description": "Increases Mod and Skill Cast Speed by 20%.",
+      "source": "https://remnant2.wiki.fextralife.com//Kinetic+Cycle+Stone"
+    },
+    {
+      "name": "Lithic Signet",
+      "img": "1691938375925.png",
+      "img_short": "1691938375925_short.png",
+      "description": "Reduces all incoming damage by 5%.",
+      "source": "https://remnant2.wiki.fextralife.com//Lithic+Signet"
+    },
+    {
+      "name": "Lodestone Ring",
+      "img": "1691938381233.png",
+      "img_short": "1691938381233_short.png",
+      "description": "Increases all damage dealt against illuminated enemies by 5%.",
+      "source": "https://remnant2.wiki.fextralife.com//Lodestone+Ring"
+    },
+    {
+      "name": "Low Yield Recovery Ring",
+      "img": "1691938386654.png",
+      "img_short": "1691938386654_short.png",
+      "description": "Killing an enemy regenerates 5% Max Health over 5s. Additional kills increase duration by 5s. Max 30s.",
+      "source": "https://remnant2.wiki.fextralife.com//Low+Yield+Recovery+Ring"
+    },
+    {
+      "name": "Metal Driver",
+      "img": "1691938483110.png",
+      "img_short": "1691938483110_short.png",
+      "description": "Killing Blows increase Reload Speed by 5% for 7s. Stacks 3x.",
+      "source": "https://remnant2.wiki.fextralife.com//Metal+Driver"
+    },
+    {
+      "name": "Meteorite Shard Ring",
+      "img": "1691938539130.png",
+      "img_short": "1691938539130_short.png",
+      "description": "Increases Encumbrance by 50. Increases Unarmed damage by 50%.",
+      "source": "https://remnant2.wiki.fextralife.com//Meteorite+Shard+Ring"
+    },
+    {
+      "name": "Microcompressor",
+      "img": "1691938597071.png",
+      "img_short": "1691938597071_short.png",
+      "description": "Reduces Heat Generation when firing weapons that Overheat by -30%. Increases Heat Reduction Rate by 30%.",
+      "source": "https://remnant2.wiki.fextralife.com//Microcompressor"
+    },
+    {
+      "name": "Momentum Driver",
+      "img": "1691938661692.png",
+      "img_short": "1691938661692_short.png",
+      "description": "After Sprinting for 2s, Movement Speed is increased by 15% and Stagger Level reduced by 1.",
+      "source": "https://remnant2.wiki.fextralife.com//Momentum+Driver"
+    },
+    {
+      "name": "Outcast Ring",
+      "img": "1691938667042.png",
+      "img_short": "1691938667042_short.png",
+      "description": "Increases Reload Speed by 5% for 15s after reloading. Stacks 5x.",
+      "source": "https://remnant2.wiki.fextralife.com//Outcast+Ring"
+    },
+    {
+      "name": "Point Focus Ring",
+      "img": "1691938671951.png",
+      "img_short": "1691938671951_short.png",
+      "description": "Reduces Initial Spread and Recoil by 35%.",
+      "source": "https://remnant2.wiki.fextralife.com//Point+Focus+Ring"
+    },
+    {
+      "name": "Power Saver",
+      "img": "1691938712948.png",
+      "img_short": "1691938712948_short.png",
+      "description": "At Max Health, gain a 25% chance to not use a Relic charge.",
+      "source": "https://remnant2.wiki.fextralife.com//Power+Saver"
+    },
+    {
+      "name": "Probability Cord",
+      "img": "1691938752240.png",
+      "img_short": "1691938752240_short.png",
+      "description": "Increases Critical Damage by 30%.",
+      "source": "https://remnant2.wiki.fextralife.com//Probability+Cord"
+    },
+    {
+      "name": "Propulsion Loop",
+      "img": "1691938793354.png",
+      "img_short": "1691938793354_short.png",
+      "description": "After killing an enemy, increases Movement Speed by 5% and Consumable Use Speed by 10% for 10s. Stacks 3x.",
+      "source": "https://remnant2.wiki.fextralife.com//Propulsion+Loop"
+    },
+    {
+      "name": "Provisioner Ring",
+      "img": "1691938798971.png",
+      "img_short": "1691938798971_short.png",
+      "description": "Firearms reload over time while stowed.",
+      "source": "https://remnant2.wiki.fextralife.com//Provisioner+Ring"
+    },
+    {
+      "name": "Reaping Stone",
+      "img": "1691938804343.png",
+      "img_short": "1691938804343_short.png",
+      "description": "After an Elemental Status Effect is removed from wearer, they become immune to all Elemental Status Effects and gain 2% of base damage dealt as Lifesteal for 10s.",
+      "source": "https://remnant2.wiki.fextralife.com//Reaping+Stone"
+    },
+    {
+      "name": "Rerouting Cable",
+      "img": "1691938809918.png",
+      "img_short": "1691938809918_short.png",
+      "description": "Gain 5% of Max Health as a SHIELD for 5s after spending 25 Stamina. Accumulation resets after 5s of inaction. Max 50% SHIELD.",
+      "source": "https://remnant2.wiki.fextralife.com//Rerouting+Cable"
+    },
+    {
+      "name": "Reserve Boosting Gem",
+      "img": "1691938871583.png",
+      "img_short": "1691938871583_short.png",
+      "description": "Increases Health Regeneration by 0.333 per second. 1s after going below 50% Health, increases regeneration value to 2 per second until 50% Health is reached.",
+      "source": "https://remnant2.wiki.fextralife.com//Reserve+Boosting+Gem"
+    },
+    {
+      "name": "Restriction Cord",
+      "img": "1691938876964.png",
+      "img_short": "1691938876964_short.png",
+      "description": "Restricts the wearer from Healing above 50% of their Max Health and reduces all incoming damage by 15%.",
+      "source": "https://remnant2.wiki.fextralife.com//Restriction+Cord"
+    },
+    {
+      "name": "Ring of Crisis",
+      "img": "1691938882146.png",
+      "img_short": "1691938882146_short.png",
+      "description": "When wearer's Health drops below 25%, gain a Shield for 25% of Max Health. Lasts 10s.",
+      "source": "https://remnant2.wiki.fextralife.com//Ring+of+Crisis"
+    },
+    {
+      "name": "Ring Of Deflection",
+      "img": "1691938951078.png",
+      "img_short": "1691938951078_short.png",
+      "description": "Direct Damage against wearer has a 20% Chance to be converted entirely to Grey Health.",
+      "source": "https://remnant2.wiki.fextralife.com//Ring+Of+Deflection"
+    },
+    {
+      "name": "Ring of Diversion",
+      "img": "1691938994931.png",
+      "img_short": "1691938994931_short.png",
+      "description": "Increases invulnerability window while evading and sliding.",
+      "source": "https://remnant2.wiki.fextralife.com//Ring+of+Diversion"
+    },
+    {
+      "name": "Ring of Flawed Beauty",
+      "img": "1691939038872.png",
+      "img_short": "1691939038872_short.png",
+      "description": "Ranged Weakspot damage is increased by 25%. Ranged damage is reduced by 15% when failing to hit a Weakspot.",
+      "source": "https://remnant2.wiki.fextralife.com//Ring+of+Flawed+Beauty"
+    },
+    {
+      "name": "Ring of Grace",
+      "img": "1691939121204.png",
+      "img_short": "1691939121204_short.png",
+      "description": "Taking enemy damage causes 10% of Maximum Health to regenerate over 10s.",
+      "source": "https://remnant2.wiki.fextralife.com//Ring+of+Grace"
+    },
+    {
+      "name": "Ring of Omens",
+      "img": "1691939126490.png",
+      "img_short": "1691939126490_short.png",
+      "description": "Evades cost 15% Max Health as Grey Health instead of Stamina.",
+      "source": "https://remnant2.wiki.fextralife.com//Ring+of+Omens"
+    },
+    {
+      "name": "Ring Of Restocking",
+      "img": "1691939199882.png",
+      "img_short": "1691939199882_short.png",
+      "description": "Reloads within 1.5s of a Critical Hit or Weakspot Kill are 20% faster.",
+      "source": "https://remnant2.wiki.fextralife.com//Ring+Of+Restocking"
+    },
+    {
+      "name": "Ring Of Retribution",
+      "img": "1691939243813.png",
+      "img_short": "1691939243813_short.png",
+      "description": "Incoming enemy damage increases Reload Speed and all outgoing damage by 10%. Lasts 15s.",
+      "source": "https://remnant2.wiki.fextralife.com//Ring+Of+Retribution"
+    },
+    {
+      "name": "Ring of the Damned",
+      "img": "1691939249244.png",
+      "img_short": "1691939249244_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com//Ring+of+the+Damned"
+    },
+    {
+      "name": "Ring of the Forest Spirit",
+      "img": "1691939254590.png",
+      "img_short": "1691939254590_short.png",
+      "description": "Relic Healing Effectiveness is increased by 15%.",
+      "source": "https://remnant2.wiki.fextralife.com//Ring+of+the+Forest+Spirit"
+    },
+    {
+      "name": "Ring of the Robust",
+      "img": "1691939320878.png",
+      "img_short": "1691939320878_short.png",
+      "description": "Increases Max Health by 10, and Armor Effectiveness by 15.",
+      "source": "https://remnant2.wiki.fextralife.com//Ring+of+the+Robust"
+    },
+    {
+      "name": "Rock of Anguish",
+      "img": "1691939326318.png",
+      "img_short": "1691939326318_short.png",
+      "description": "Gain 5% Movement Speed and 7.5% Reload Speed for every 25% of Max Healthmissing.",
+      "source": "https://remnant2.wiki.fextralife.com//Rock+of+Anguish"
+    },
+    {
+      "name": "Rotward",
+      "img": "1691939390161.png",
+      "img_short": "1691939390161_short.png",
+      "description": "Prevents ROOT ROT Blight.",
+      "source": "https://remnant2.wiki.fextralife.com//Rotward"
+    },
+    {
+      "name": "Rusted Heirloom",
+      "img": "1691939434487.png",
+      "img_short": "1691939434487_short.png",
+      "description": "Grants 2 Stacks of BULWARK below 50% Max HP.",
+      "source": "https://remnant2.wiki.fextralife.com//Rusted+Heirloom"
+    },
+    {
+      "name": "Sagestone",
+      "img": "1691939439895.png",
+      "img_short": "1691939439895_short.png",
+      "description": "Increases earned Experience by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Sagestone"
+    },
+    {
+      "name": "Sapphire Dreamstone",
+      "img": "1691939445305.png",
+      "img_short": "1691939445305_short.png",
+      "description": "Critical Hits reduce Skill Cooldowns by 3%. Can only happen once every 2s.",
+      "source": "https://remnant2.wiki.fextralife.com//Sapphire+Dreamstone"
+    },
+    {
+      "name": "Seal of the Empress",
+      "img": "1691939450644.png",
+      "img_short": "1691939450644_short.png",
+      "description": "Increases Max Health by 20. Reduces Max Stamina by 10.",
+      "source": "https://remnant2.wiki.fextralife.com//Seal+of+the+Empress"
+    },
+    {
+      "name": "Shard Banded Ring",
+      "img": "1691939525724.png",
+      "img_short": "1691939525724_short.png",
+      "description": "Increases Mod damage by 12%.",
+      "source": "https://remnant2.wiki.fextralife.com//Shard+Banded+Ring"
+    },
+    {
+      "name": "Shiny Hog Lure",
+      "img": "1691939531048.png",
+      "img_short": "1691939531048_short.png",
+      "description": "Reloading grants 25-30 Mod Power to both weapons based on percentage of Magazine reloaded.",
+      "source": "https://remnant2.wiki.fextralife.com//Shiny+Hog+Lure"
+    },
+    {
+      "name": "Singed Ring",
+      "img": "1691939536919.png",
+      "img_short": "1691939536919_short.png",
+      "description": "Increases all damage dealt to BURNING enemies by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Singed+Ring"
+    },
+    {
+      "name": "Slayer's Crest",
+      "img": "1691939542262.png",
+      "img_short": "1691939542262_short.png",
+      "description": "Increases Melee damage by 25% when attacking enemies from behind",
+      "source": "https://remnant2.wiki.fextralife.com//Slayer's+Crest"
+    },
+    {
+      "name": "Soul Guard",
+      "img": "1691939547570.png",
+      "img_short": "1691939547570_short.png",
+      "description": "Gain a stack of BULWARK for each active Summon.",
+      "source": "https://remnant2.wiki.fextralife.com//Soul+Guard"
+    },
+    {
+      "name": "Soul Link",
+      "img": "1691939552778.png",
+      "img_short": "1691939552778_short.png",
+      "description": "Summons Lifesteal 5% of base damage dealt which returns to the wearer as Health.",
+      "source": "https://remnant2.wiki.fextralife.com//Soul+Link"
+    },
+    {
+      "name": "Spirit Stone",
+      "img": "1691939558615.png",
+      "img_short": "1691939558615_short.png",
+      "description": "Increases Mod Power generation by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Spirit+Stone"
+    },
+    {
+      "name": "Stockpile Charger",
+      "img": "1691939563700.png",
+      "img_short": "1691939563700_short.png",
+      "description": "After picking up ammo, increases the damage of that Ammo Type by 13% for 20s.",
+      "source": "https://remnant2.wiki.fextralife.com//Stockpile+Charger"
+    },
+    {
+      "name": "Stone of Balance",
+      "img": "1691939619760.png",
+      "img_short": "1691939619760_short.png",
+      "description": "Increases all damage by 7%.",
+      "source": "https://remnant2.wiki.fextralife.com//Stone+of+Balance"
+    },
+    {
+      "name": "Stone of Continuance",
+      "img": "1691939663089.png",
+      "img_short": "1691939663089_short.png",
+      "description": "Increases Skill Duration by 25%.",
+      "source": "https://remnant2.wiki.fextralife.com//Stone+of+Continuance"
+    },
+    {
+      "name": "Stone of Expanse",
+      "img": "1691939727161.png",
+      "img_short": "1691939727161_short.png",
+      "description": "Increases Ranged damage by 12%. Reduces all other damage dealt by 6%.",
+      "source": "https://remnant2.wiki.fextralife.com//Stone+of+Expanse"
+    },
+    {
+      "name": "Stone Of Malevolence",
+      "img": "1691939732427.png",
+      "img_short": "1691939732427_short.png",
+      "description": "Elemental Status damage generates 15% additional Mod Power.",
+      "source": "https://remnant2.wiki.fextralife.com//Stone+Of+Malevolence"
+    },
+    {
+      "name": "Stream Coupler",
+      "img": "1691939803295.png",
+      "img_short": "1691939803295_short.png",
+      "description": "Using a Skill regenerates 10% of Max Health over 5s.",
+      "source": "https://remnant2.wiki.fextralife.com//Stream+Coupler"
+    },
+    {
+      "name": "Subterfuge Link",
+      "img": "1691939808730.png",
+      "img_short": "1691939808730_short.png",
+      "description": "After killing an enemy, increases the Cast Speed of the next Mod or Skill Cast by 35%. Lasts 15s or until consumed.",
+      "source": "https://remnant2.wiki.fextralife.com//Subterfuge+Link"
+    },
+    {
+      "name": "Suppression Ward",
+      "img": "1691939853171.png",
+      "img_short": "1691939853171_short.png",
+      "description": "Prevents SUPPRESSION Blight.",
+      "source": "https://remnant2.wiki.fextralife.com//Suppression+Ward"
+    },
+    {
+      "name": "Targeting Jewel",
+      "img": "1691939858543.png",
+      "img_short": "1691939858543_short.png",
+      "description": "Increases Range on all Firearms by 4m. Reduces Spread by 15%.",
+      "source": "https://remnant2.wiki.fextralife.com//Targeting+Jewel"
+    },
+    {
+      "name": "Tarnished Ring",
+      "img": "1691939863866.png",
+      "img_short": "1691939863866_short.png",
+      "description": "Increases damage of Unarmed Attacks by 30%.",
+      "source": "https://remnant2.wiki.fextralife.com//Tarnished+Ring"
+    },
+    {
+      "name": "Tear of Kaeula",
+      "img": "1691939869187.png",
+      "img_short": "1691939869187_short.png",
+      "description": "Increases Relic capacity by 2 while equipped",
+      "source": "https://remnant2.wiki.fextralife.com//Tear+of+Kaeula"
+    },
+    {
+      "name": "Tempest Conduit",
+      "img": "1691939875135.png",
+      "img_short": "1691939875135_short.png",
+      "description": "After receiving Elemental Damage, increases all damage dealt by 10% and Resistance to the received Element by 20 for 20s.",
+      "source": "https://remnant2.wiki.fextralife.com//Tempest+Conduit"
+    },
+    {
+      "name": "Tightly Wound Coil",
+      "img": "1691939916156.png",
+      "img_short": "1691939916156_short.png",
+      "description": "When spending 75% or more of current magazine, gain a SHIELD for 10% of Max Health for 5s. Does not stack with itself.",
+      "source": "https://remnant2.wiki.fextralife.com//Tightly+Wound+Coil"
+    },
+    {
+      "name": "Timekeeper's Jewel",
+      "img": "1691939921707.png",
+      "img_short": "1691939921707_short.png",
+      "description": "Increases the duration of all Status Effects applied by wearer. Durations varies per status.",
+      "source": "https://remnant2.wiki.fextralife.com//Timekeeper's+Jewel"
+    },
+    {
+      "name": "Tomb Dweller's Ring",
+      "img": "1691939927446.png",
+      "img_short": "1691939927446_short.png",
+      "description": "Increases Movement Speed by 10% for 7s after Vaulting, Climbing, Leaping, and entering Water, stacks 1x. Reduces Fall Damage by 25%.",
+      "source": "https://remnant2.wiki.fextralife.com//Tomb+Dweller's+Ring"
+    },
+    {
+      "name": "Vacuum Seal",
+      "img": "1691939932607.png",
+      "img_short": "1691939932607_short.png",
+      "description": "Increases Automatic Pickup Range for Scrap by 100%. Picking up Scrap, Iron, or Ammo grants a SHIELD for 10% of Max Health for l0s Does not stack.",
+      "source": "https://remnant2.wiki.fextralife.com//Vacuum+Seal"
+    },
+    {
+      "name": "Vestige of Power",
+      "img": "1691939937966.png",
+      "img_short": "1691939937966_short.png",
+      "description": "After 7s of not being damaged, increases Ranged and Melee Damage by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Vestige+of+Power"
+    },
+    {
+      "name": "Wax Sealed Ring",
+      "img": "1691939943359.png",
+      "img_short": "1691939943359_short.png",
+      "description": "Killing blows increase Ranged and Melee Damage by 4% for 15s. Stacks 3x.",
+      "source": "https://remnant2.wiki.fextralife.com//Wax+Sealed+Ring"
+    },
+    {
+      "name": "White Pawn Stamp",
+      "img": "1691939948823.png",
+      "img_short": "1691939948823_short.png",
+      "description": "Reduces Mod Power Requirement by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//White+Pawn+Stamp"
+    },
+    {
+      "name": "Wind Hollow Circlet",
+      "img": "1691939954229.png",
+      "img_short": "1691939954229_short.png",
+      "description": "Increases Reload Speed by 12%.",
+      "source": "https://remnant2.wiki.fextralife.com//Wind+Hollow+Circlet"
+    },
+    {
+      "name": "Worn Admiral's Ring",
+      "img": "1691939997994.png",
+      "img_short": "1691939997994_short.png",
+      "description": "All damage received is increased by 200%. All damage dealt is increased by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Worn+Admiral's+Ring"
+    },
+    {
+      "name": "Zania's Malice",
+      "img": "1691940003171.png",
+      "img_short": "1691940003171_short.png",
+      "description": "Dealing Weakspot damage increases Weakspot damage by 10% for 7s. Stacks 3x.",
+      "source": "https://remnant2.wiki.fextralife.com//Zania's+Malice"
+    },
+    {
+      "name": "Zohee's Ring",
+      "img": "1691940067110.png",
+      "img_short": "1691940067110_short.png",
+      "description": "Increases Mod Duration by 15%.",
+      "source": "https://remnant2.wiki.fextralife.com//Zohee's+Ring"
+    },
+    {
+      "name": "Assassin's Seal",
+      "img": "1691936753058.png",
+      "img_short": "1691936753058_short.png",
+      "description": "Reduces enemy Awareness Range by 25%. Increases all damage dealt to enemies not targeting wearer by 10%.",
+      "source": "https://remnant2.wiki.fextralife.com//Assassin's+Seal"
+    },
+    {
+      "name": "Dead King's Memento",
+      "img": "1691937183002.png",
+      "img_short": "1691937183002_short.png",
+      "description": "Increases Health by 15.",
+      "source": "https://remnant2.wiki.fextralife.com//Dead+King's+Memento"
+    },
+    {
+      "name": "Endaira's Endless Loop",
+      "img": "1691937578211.png",
+      "img_short": "1691937578211_short.png",
+      "description": "After Sprinting for 2s, the wearer gains 1.5 Health Regeneration per second until they stop Sprinting.",
+      "source": "https://remnant2.wiki.fextralife.com//Endaira's+Endless+Loop"
+    },
+    {
+      "name": "Faelin's Sigil",
+      "img": "1691937831440.png",
+      "img_short": "1691937831440_short.png",
+      "description": "Melee Damage generates 10% additional Mod Power.",
+      "source": "https://remnant2.wiki.fextralife.com//Faelin's+Sigil"
+    },
+    {
+      "name": "Feastmaster's Signet",
+      "img": "1691937927234.png",
+      "img_short": "1691937927234_short.png",
+      "description": "Increases active Concoction Limit by1.",
+      "source": "https://remnant2.wiki.fextralife.com//Feastmaster's+Signet"
+    },
+    {
+      "name": "Haymaker's Ring",
+      "img": "1691938269033.png",
+      "img_short": "1691938269033_short.png",
+      "description": "Increase Melee damage by 0.2% for every 1 points of Armor Encumbrance.",
+      "source": "https://remnant2.wiki.fextralife.com//Haymaker's+Ring"
+    },
+    {
+      "name": "Mechanic's Cog",
+      "img": "1691938392475.png",
+      "img_short": "1691938392475_short.png",
+      "description": "While carrying an Engineer Heavy Weapon, gain 15% Movement Speed and 1 Stack of BULWARK",
+      "source": "https://remnant2.wiki.fextralife.com//Mechanic's+Cog"
+    }
+  ],
+  "meleeWeapon": [
+    {
+      "name": "Blade of Adventure",
+      "img": "1691940127193.png",
+      "img_short": "1691940127193_short.png",
+      "description": "A long, sharp blade hammered out of vehicle leaf springs. Well-rounded for most situations.",
+      "source": "https://remnant2.wiki.fextralife.com//Blade+of+Adventure"
+    },
+    {
+      "name": "Blade of Gul",
+      "img": "1691940132469.png",
+      "img_short": "1691940132469_short.png",
+      "description": "A short, but thick sword, used by Gul Warriors. It's compact design makes for swift yet hard-hitting blows. An excellent close-range option.",
+      "source": "https://remnant2.wiki.fextralife.com//Blade+of+Gul"
+    },
+    {
+      "name": "Bone Chopper",
+      "img": "1691940137842.png",
+      "img_short": "1691940137842_short.png",
+      "description": "A razor-sharp hand axe. Excellent for separating flesh from bone. Charge for double attacks.",
+      "source": "https://remnant2.wiki.fextralife.com//Bone+Chopper"
+    },
+    {
+      "name": "Edge of the Forest",
+      "img": "1691940143222.png",
+      "img_short": "1691940143222_short.png",
+      "description": "An elegant, yet light blade, designed to bring beauty to bloodshed. Unstoppable in the hands of a master swordsman.",
+      "source": "https://remnant2.wiki.fextralife.com//Edge+of+the+Forest"
+    },
+    {
+      "name": "Iron Greatsword",
+      "img": "1691940148676.png",
+      "img_short": "1691940148676_short.png",
+      "description": "A giant broadsword made from flattened railroad tracks. Dozens of ridges cut in the side for causing irreparable damage.",
+      "source": "https://remnant2.wiki.fextralife.com//Iron+Greatsword"
+    },
+    {
+      "name": "Knuckle Dusters",
+      "img": "1691940153694.png",
+      "img_short": "1691940153694_short.png",
+      "description": "Steel knuckles with rusty sawblade tips, designed to boost Unarmed damage.",
+      "source": "https://remnant2.wiki.fextralife.com//Knuckle+Dusters"
+    },
+    {
+      "name": "Labyrinth Staff",
+      "img": "1691940158948.png",
+      "img_short": "1691940158948_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com//Labyrinth+Staff"
+    },
+    {
+      "name": "Ornate Blade",
+      "img": "1691940164015.png",
+      "img_short": "1691940164015_short.png",
+      "description": "An intricately-forged elongated sword. Designed to keep stronger enemies at bay, while remaining light enough for agile maneuvers.",
+      "source": "https://remnant2.wiki.fextralife.com//Ornate+Blade"
+    },
+    {
+      "name": "Ornate Flail",
+      "img": "1691940225816.png",
+      "img_short": "1691940225816_short.png",
+      "description": "An intricately-forged mace with uniquely designed airways. Allows smaller wielders to get the mace up to speed much quicker.",
+      "source": "https://remnant2.wiki.fextralife.com//Ornate+Flail"
+    },
+    {
+      "name": "Rebellion Spear",
+      "img": "1691940231165.png",
+      "img_short": "1691940231165_short.png",
+      "description": "A spear perfect for staying at a distance. Has excellent range, great recovery, and focused direct damage for one on one combat.",
+      "source": "https://remnant2.wiki.fextralife.com//Rebellion+Spear"
+    },
+    {
+      "name": "Royal Broadsword",
+      "img": "1691940295139.png",
+      "img_short": "1691940295139_short.png",
+      "description": "Standard issue Greatsword for the Empress's Royal Guards. Razor-sharp edges, extremely heavy, yet perfectly balanced.",
+      "source": "https://remnant2.wiki.fextralife.com//Royal+Broadsword"
+    },
+    {
+      "name": "Rusted Claws",
+      "img": "1691940300434.png",
+      "img_short": "1691940300434_short.png",
+      "description": "A pair of old-canine training bracers converted into deadly claws. Used for slashing and ripping.",
+      "source": "https://remnant2.wiki.fextralife.com//Rusted+Claws"
+    },
+    {
+      "name": "Scrap Hammer",
+      "img": "1691940305725.png",
+      "img_short": "1691940305725_short.png",
+      "description": "A large, heavy warhammer cobbled together from engine components. It is a slow- but-devastating weapon meant to destroy anything it hits.",
+      "source": "https://remnant2.wiki.fextralife.com//Scrap+Hammer"
+    },
+    {
+      "name": "Scrap Hatchet",
+      "img": "1691940311026.png",
+      "img_short": "1691940311026_short.png",
+      "description": "A common chopping tool that has been repurposed for combat. Rapidly cycles attacks from right to left. Charge attacks strike twice.",
+      "source": "https://remnant2.wiki.fextralife.com//Scrap+Hatchet"
+    },
+    {
+      "name": "Scrap Staff",
+      "img": "1691940316397.png",
+      "img_short": "1691940316397_short.png",
+      "description": "A staff made from old plumbing parts used for controlling wide swaths in front of the wielder.",
+      "source": "https://remnant2.wiki.fextralife.com//Scrap+Staff"
+    },
+    {
+      "name": "Steel Flail",
+      "img": "1691940360673.png",
+      "img_short": "1691940360673_short.png",
+      "description": "An unorthodox weapon meant to convert momentum into destruction. Some attacks can continuously chain overhead swings.",
+      "source": "https://remnant2.wiki.fextralife.com//Steel+Flail"
+    },
+    {
+      "name": "Steel Katana",
+      "img": "1691940366007.png",
+      "img_short": "1691940366007_short.png",
+      "description": "An old piece of steel with serrations cut into one side. Pipe handle provides limited grip.",
+      "source": "https://remnant2.wiki.fextralife.com//Steel+Katana"
+    },
+    {
+      "name": "Steel Spear",
+      "img": "1691940371355.png",
+      "img_short": "1691940371355_short.png",
+      "description": "A spear perfect for staying at range with quick, focused attacks. High, single-target damage.",
+      "source": "https://remnant2.wiki.fextralife.com//Steel+Spear"
+    },
+    {
+      "name": "Steel Sword",
+      "img": "1691940376601.png",
+      "img_short": "1691940376601_short.png",
+      "description": "A long, sharp blade hammered out of vehicle leaf springs. Well-rounded for most situations.",
+      "source": "https://remnant2.wiki.fextralife.com//Steel+Sword"
+    },
+    {
+      "name": "Vice Grips",
+      "img": "1691940531863.png",
+      "img_short": "1691940531863_short.png",
+      "description": "A N'Erudian tool converted into a ruthless ripping device. High raw damage.",
+      "source": "https://remnant2.wiki.fextralife.com//Vice+Grips"
+    },
+    {
+      "name": "Atom Smasher",
+      "img": "1691940587869.png",
+      "img_short": "1691940587869_short.png",
+      "description": "A powerful crushing device that harnesses rocket technology to increase smashing force.",
+      "source": "https://remnant2.wiki.fextralife.com//Atom+Smasher"
+    },
+    {
+      "name": "Assassin's Dagger",
+      "img": "1691940635790.png",
+      "img_short": "1691940635790_short.png",
+      "description": "Lightweight. Silent. Deadly. It's rumored that the blade is meant to bestow a slow, agonizing death.",
+      "source": "https://remnant2.wiki.fextralife.com//Assassin's+Dagger"
+    },
+    {
+      "name": "Atom Splitter",
+      "img": "1691940641163.png",
+      "img_short": "1691940641163_short.png",
+      "description": "A giant tool for splitting heavy rocks.",
+      "source": "https://remnant2.wiki.fextralife.com//Atom+Splitter"
+    },
+    {
+      "name": "Dreamcatcher",
+      "img": "1691940646616.png",
+      "img_short": "1691940646616_short.png",
+      "description": "There is an ethereal lightness to this weapon, as though it were made of paper or breath.Though it strikes its foes forcibly enough.",
+      "source": "https://remnant2.wiki.fextralife.com//Dreamcatcher"
+    },
+    {
+      "name": "Feral Judgement",
+      "img": "1691940651801.png",
+      "img_short": "1691940651801_short.png",
+      "description": "A pair of gauntlets with sharp crystal blades that strike with vicious speed and velocity.",
+      "source": "https://remnant2.wiki.fextralife.com//Feral+Judgement"
+    },
+    {
+      "name": "Gas Giant",
+      "img": "1691940715990.png",
+      "img_short": "1691940715990_short.png",
+      "description": "Dealing damage unleashes the dormant Toxic Gas within the head. When infused, Basic Attacks apply CORRODED for 5s.",
+      "source": "https://remnant2.wiki.fextralife.com//Gas+Giant"
+    },
+    {
+      "name": "Hero's Sword",
+      "img": "1691940811956.png",
+      "img_short": "1691940811956_short.png",
+      "description": "An ancient, quick, and versatile blade suited for many situations. Charge attacks cast a projectile for dealing melee damage at range.",
+      "source": "https://remnant2.wiki.fextralife.com//Hero's+Sword"
+    },
+    {
+      "name": "Huntress Spear",
+      "img": "1691940817408.png",
+      "img_short": "1691940817408_short.png",
+      "description": "The spear is oddly...quiet. Even when you slide your hand across its haft or drop it upon the ground, it makes an unthinkably small amount of noise.",
+      "source": "https://remnant2.wiki.fextralife.com//Huntress+Spear"
+    },
+    {
+      "name": "Krell Axe",
+      "img": "1691940822641.png",
+      "img_short": "1691940822641_short.png",
+      "description": "Shock",
+      "source": "https://remnant2.wiki.fextralife.com//Krell+Axe"
+    },
+    {
+      "name": "Nightshade",
+      "img": "1691940828026.png",
+      "img_short": "1691940828026_short.png",
+      "description": "Fast striking claws with a high Critical Hit Chance.Neutral Dodge grants the power  of Lifesteal.",
+      "source": "https://remnant2.wiki.fextralife.com//Nightshade"
+    },
+    {
+      "name": "Red Doe Staff",
+      "img": "1691940888990.png",
+      "img_short": "1691940888990_short.png",
+      "description": "A magical stave rumored to contain a healing spirit within. Strikes with wide swings.",
+      "source": "https://remnant2.wiki.fextralife.com//Red+Doe+Staff"
+    },
+    {
+      "name": "Spectral Blade",
+      "img": "1691940894217.png",
+      "img_short": "1691940894217_short.png",
+      "description": "A super-heated laser sword with an infinitely sharp edge. Perfect for cutting... anything.",
+      "source": "https://remnant2.wiki.fextralife.com//Spectral+Blade"
+    },
+    {
+      "name": "Stonebreaker",
+      "img": "1691940899353.png",
+      "img_short": "1691940899353_short.png",
+      "description": "A massive Greatsword which contains the harnessed magic of a corrupted Guardian. Can summon small shockwaves.",
+      "source": "https://remnant2.wiki.fextralife.com//Stonebreaker"
+    },
+    {
+      "name": "Gas Giant",
+      "img": "1691940441259.png",
+      "img_short": "1691940441259_short.png",
+      "description": "CORRODED",
+      "source": "https://remnant2.wiki.fextralife.com//Tal'Ratha+Hammer"
+    },
+    {
+      "name": "Godsplitter",
+      "img": "1691940721343.png",
+      "img_short": "1691940721343_short.png",
+      "description": "An expertly balanced blade that is the produc of advanced Fae metallurgy.",
+      "source": "https://remnant2.wiki.fextralife.com//Godsplitter"
+    }
+  ],
+  "longGun": [
+    {
+      "name": "AS-10 Bulldog",
+      "img": "1691940908427.png",
+      "img_short": "1691940908427_short.png",
+      "description": "A brutal drum-fed fully-automatic 10 gauge shotgun designed for close-quarters combat.",
+      "source": "https://remnant2.wiki.fextralife.com//AS-10+Bulldog"
+    },
+    {
+      "name": "Blackmaw AR-47",
+      "img": "1691940948278.png",
+      "img_short": "1691940948278_short.png",
+      "description": "A fully automatic rifle with a medium capacity. Highly effective with controlled bursts.",
+      "source": "https://remnant2.wiki.fextralife.com//Blackmaw+AR-47"
+    },
+    {
+      "name": "Chicago Typewriter",
+      "img": "1691940953596.png",
+      "img_short": "1691940953596_short.png",
+      "description": "A classic Tommy Gun with large ammo capacity and a slow reload. Poor initial accuracy which improves while holding down the trigger.",
+      "source": "https://remnant2.wiki.fextralife.com//Chicago+Typewriter"
+    },
+    {
+      "name": "Coach Gun",
+      "img": "1691940958895.png",
+      "img_short": "1691940958895_short.png",
+      "description": "A double-barrel over/under shotgun modified to fire powerful slugs. High damage with a decent fire rate, but very low magazine capacity.",
+      "source": "https://remnant2.wiki.fextralife.com//Coach+Gun"
+    },
+    {
+      "name": "Crossbow",
+      "img": "1691940964662.png",
+      "img_short": "1691940964662_short.png",
+      "description": "An accurate and deadly single-shot crossbow with a low sound profile.",
+      "source": "https://remnant2.wiki.fextralife.com//Crossbow"
+    },
+    {
+      "name": "Ford's Scattergun",
+      "img": "1691941021269.png",
+      "img_short": "1691941021269_short.png",
+      "description": "An incredibly powerful 12 gauge shotgun with a wide spread. High damage, slow reload.",
+      "source": "https://remnant2.wiki.fextralife.com//Ford's+Scattergun"
+    },
+    {
+      "name": "Huntmaster M1",
+      "img": "1691941026707.png",
+      "img_short": "1691941026707_short.png",
+      "description": "A powerful single-shot sniper rifle with excellent range and pinpoint accuracy. Comes with a 3x scope. Tap SCOPE to toggle.",
+      "source": "https://remnant2.wiki.fextralife.com//Huntmaster+M1"
+    },
+    {
+      "name": "Pulse Rifle",
+      "img": "1691941031932.png",
+      "img_short": "1691941031932_short.png",
+      "description": "An extremely accurate, high-tech pulse rifle which shoots quick three-round bursts.",
+      "source": "https://remnant2.wiki.fextralife.com//Pulse+Rifle"
+    },
+    {
+      "name": "Royal Hunting Bow",
+      "img": "1691941037740.png",
+      "img_short": "1691941037740_short.png",
+      "description": "The Postulant grants these to those who can defeat him. None know why. Some suspect that the game is mere preamble—that perhaps the true game is what its players do next.",
+      "source": "https://remnant2.wiki.fextralife.com//Royal+Hunting+Bow"
+    },
+    {
+      "name": "Rusty Lever Action",
+      "img": "1691941077003.png",
+      "img_short": "1691941077003_short.png",
+      "description": " A well-worn lever-action rifle.",
+      "source": "https://remnant2.wiki.fextralife.com//Rusty+Lever+Action"
+    },
+    {
+      "name": "Widowmaker",
+      "img": "1691941082436.png",
+      "img_short": "1691941082436_short.png",
+      "description": "A powerful single-shot sniper rifle with excellent range and pinpoint accuracy. Comes with a 3x scope. Tap SCOPE to toggle.",
+      "source": "https://remnant2.wiki.fextralife.com//Widowmaker"
+    },
+    {
+      "name": "Wrangler 1860",
+      "img": "1691941087840.png",
+      "img_short": "1691941087840_short.png",
+      "description": "A well-rounded lever-action rifle effective at most ranges, hampered only by a slow reload.",
+      "source": "https://remnant2.wiki.fextralife.com//Wrangler+1860"
+    },
+    {
+      "name": "XMG57 Bonesaw",
+      "img": "1691941093123.png",
+      "img_short": "1691941093123_short.png",
+      "description": "An experimental infantry support weapon used for prolonged suppressive fire. High capacity, long reload, and prone to overheating. Becomes more accurate while holding down the trigger.",
+      "source": "https://remnant2.wiki.fextralife.com//XMG57+Bonesaw"
+    },
+    {
+      "name": "Alpha-Omega",
+      "img": "1691941098464.png",
+      "img_short": "1691941098464_short.png",
+      "description": "0.1s",
+      "source": "https://remnant2.wiki.fextralife.com//Alpha-Omega"
+    },
+    {
+      "name": "Aphelion",
+      "img": "1691941103895.png",
+      "img_short": "1691941103895_short.png",
+      "description": "Fires a hypercharged wide-arcing line that passes through targets.",
+      "source": "https://remnant2.wiki.fextralife.com//Aphelion"
+    },
+    {
+      "name": "Crescent Moon",
+      "img": "1691941171404.png",
+      "img_short": "1691941171404_short.png",
+      "description": " ",
+      "source": "https://remnant2.wiki.fextralife.com//Crescent+Moon"
+    },
+    {
+      "name": "Deceit",
+      "img": "1691941176866.png",
+      "img_short": "1691941176866_short.png",
+      "description": "A pinpoint accurate split-barreled rifle that fires two penetrating rails. High base damage, but cannot score Weakspot hits. Charge to fire",
+      "source": "https://remnant2.wiki.fextralife.com//Deceit"
+    },
+    {
+      "name": "Merciless",
+      "img": "1691941182332.png",
+      "img_short": "1691941182332_short.png",
+      "description": "250",
+      "source": "https://remnant2.wiki.fextralife.com//Merciless"
+    },
+    {
+      "name": "Nightfall",
+      "img": "1691941249739.png",
+      "img_short": "1691941249739_short.png",
+      "description": "A device forged of pure evil. Fires hardened bone shards at bonus stagger. Semi-automatic with a medium kick.",
+      "source": "https://remnant2.wiki.fextralife.com//Nightfall"
+    },
+    {
+      "name": "Plasma Cutter",
+      "img": "1691941255233.png",
+      "img_short": "1691941255233_short.png",
+      "description": "An energy-based cutting tool that increases damage when focused on a target. Can overheat.",
+      "source": "https://remnant2.wiki.fextralife.com//Plasma+Cutter"
+    },
+    {
+      "name": "Sagittarius",
+      "img": "1691941260417.png",
+      "img_short": "1691941260417_short.png",
+      "description": "A high-powered Bow which deals bonus damage to Weakspots. Can be charged for increased effect. Perfect release after Charge for maximum damage",
+      "source": "https://remnant2.wiki.fextralife.com//Sagittarius"
+    },
+    {
+      "name": "Twisted Arbalest",
+      "img": "1691941266168.png",
+      "img_short": "1691941266168_short.png",
+      "description": "5",
+      "source": "https://remnant2.wiki.fextralife.com//Twisted+Arbalest"
+    }
+  ],
+  "handGun": [
+    {
+      "name": "Cube Gun",
+      "img": "1691941272598.png",
+      "img_short": "1691941272598_short.png",
+      "description": "Projectiles return on hit or after reaching max range. Reloading retrieves shot projectiles. Max 5 fired projectiles. Infinite Ammo. Can overheat.",
+      "source": "https://remnant2.wiki.fextralife.com//Cube+Gun"
+    },
+    {
+      "name": "Enigma",
+      "img": "1691941278043.png",
+      "img_short": "1691941278043_short.png",
+      "description": "7.5m",
+      "source": "https://remnant2.wiki.fextralife.com//Enigma"
+    },
+    {
+      "name": "Hellfire",
+      "img": "1691941283828.png",
+      "img_short": "1691941283828_short.png",
+      "description": "BURNING",
+      "source": "https://remnant2.wiki.fextralife.com//Hellfire"
+    },
+    {
+      "name": "Meridian",
+      "img": "1691941337585.png",
+      "img_short": "1691941337585_short.png",
+      "description": "4m",
+      "source": "https://remnant2.wiki.fextralife.com//Meridian"
+    },
+    {
+      "name": "Nebula",
+      "img": "1691941393044.png",
+      "img_short": "1691941393044_short.png",
+      "description": "ACID",
+      "source": "https://remnant2.wiki.fextralife.com//Nebula"
+    },
+    {
+      "name": "Rune Pistol",
+      "img": "1691941398202.png",
+      "img_short": "1691941398202_short.png",
+      "description": "A pistol infused with mysterious Fae magic. Rapidly fires 3-round bursts of energy. Trigger can be held to continuously fire.",
+      "source": "https://remnant2.wiki.fextralife.com//Rune+Pistol"
+    },
+    {
+      "name": "Sorrow",
+      "img": "1691941439884.png",
+      "img_short": "1691941439884_short.png",
+      "description": "The last vestiges of a fallen sister, this mystical crossbow pistol has the ability to recall its bolts to heal the wielder.",
+      "source": "https://remnant2.wiki.fextralife.com//Sorrow"
+    },
+    {
+      "name": "Star Shot",
+      "img": "1691941445513.png",
+      "img_short": "1691941445513_short.png",
+      "description": "Fires a fast moving projectile which explodes on contact. Explosion has no damage falloff.",
+      "source": "https://remnant2.wiki.fextralife.com//Star+Shot"
+    },
+    {
+      "name": "Bolt Driver",
+      "img": "1691941489545.png",
+      "img_short": "1691941489545_short.png",
+      "description": "An ingenius Gul rifle designed to harness energy from Pan crystals. Charge to fire a 3- shot burst.",
+      "source": "https://remnant2.wiki.fextralife.com//Bolt+Driver"
+    },
+    {
+      "name": "Double Barrel",
+      "img": "1691941494660.png",
+      "img_short": "1691941494660_short.png",
+      "description": " ",
+      "source": "https://remnant2.wiki.fextralife.com//Double+Barrel"
+    },
+    {
+      "name": "MP60-R",
+      "img": "1691941499884.png",
+      "img_short": "1691941499884_short.png",
+      "description": "A small-caliber submachine gun best suited for close range skirmishes.",
+      "source": "https://remnant2.wiki.fextralife.com//MP60-R"
+    },
+    {
+      "name": "Repeater Pistol",
+      "img": "1691941568787.png",
+      "img_short": "1691941568787_short.png",
+      "description": "An accurate semi-automatic pistol that can rapidly fire small-caliber bullets.",
+      "source": "https://remnant2.wiki.fextralife.com//Repeater+Pistol"
+    },
+    {
+      "name": "Rupture Cannon",
+      "img": "1691941574140.png",
+      "img_short": "1691941574140_short.png",
+      "description": "A mid-range Pistol Shotgun with a brisk fire rate and medium recoil Slower reload.",
+      "source": "https://remnant2.wiki.fextralife.com//Rupture+Canon"
+    },
+    {
+      "name": "Silverback Model 500",
+      "img": "1691941670076.png",
+      "img_short": "1691941670076_short.png",
+      "description": "A powerful hand cannon witha low capacity cylinder. High damage and a heavy kick.",
+      "source": "https://remnant2.wiki.fextralife.com//Silverback+Model+500"
+    },
+    {
+      "name": "Sureshot",
+      "img": "1691941675477.png",
+      "img_short": "1691941675477_short.png",
+      "description": "A high-caliber single-shot hunting pistol that inflicts heavy damage at mid to long range.",
+      "source": "https://remnant2.wiki.fextralife.com//Sureshot"
+    },
+    {
+      "name": "Tech 22",
+      "img": "1691941680744.png",
+      "img_short": "1691941680744_short.png",
+      "description": "A suppressed small-caliber automatic pistol with medium magazine capacity and a high fire rate.",
+      "source": "https://remnant2.wiki.fextralife.com//Tech+22"
+    },
+    {
+      "name": "Western Classic",
+      "img": "1691941685859.png",
+      "img_short": "1691941685859_short.png",
+      "description": "A classic six-shooter. Tough. Dependable.",
+      "source": "https://remnant2.wiki.fextralife.com//Western+Classic"
+    },
+    {
+      "name": "Rusty Repeater",
+      "img": "1691941690989.png",
+      "img_short": "1691941690989_short.png",
+      "description": "An old antique pistol.",
+      "source": "https://remnant2.wiki.fextralife.com//Rusty+Repeater"
+    },
+    {
+      "name": "Service Pistol",
+      "img": "1691941579439.png",
+      "img_short": "1691941579439_short.png",
+      "description": "Astandard issue military spec sidearm known for its reliability and accuracy.",
+      "source": "https://remnant2.wiki.fextralife.com//Service+Pistol"
+    }
+  ],
+  "amulet": [
+    {
+      "name": "Abrasive Whetstone",
+      "img": "1691941697461.png",
+      "img_short": "1691941697461_short.png",
+      "description": "When attacking a BLEEDING enemy, Critical Chance is increased by 15% and Critical Damage is increased by 30%.",
+      "source": "https://remnant2.wiki.fextralife.com//Abrasive+Whetstone"
+    },
+    {
+      "name": "Ankh of Power",
+      "img": "1691941702879.png",
+      "img_short": "1691941702879_short.png",
+      "description": "Grants a 15% increase to all damage. Consuming a Relic doubles the bonus for 15s.",
+      "source": "https://remnant2.wiki.fextralife.com//Ankh+of+Power"
+    },
+    {
+      "name": "Broken Pocket Watch",
+      "img": "1691941707968.png",
+      "img_short": "1691941707968_short.png",
+      "description": "Increases Stamina Regen by 25 and reduces Stamina cost by 50%",
+      "source": "https://remnant2.wiki.fextralife.com//Broken+Pocket+Watch"
+    },
+    {
+      "name": "Butcher's Fetish",
+      "img": "1691941751934.png",
+      "img_short": "1691941751934_short.png",
+      "description": "Increases Critical Chance by 15% and Critical Damage by 25% for 15s after striking enemy with a Charged Melee Attack.",
+      "source": "https://remnant2.wiki.fextralife.com//Butcher's+Fetish"
+    },
+    {
+      "name": "Chains Of Amplification",
+      "img": "1691941757318.png",
+      "img_short": "1691941757318_short.png",
+      "description": "Increases all damage dealt to targets suffering from a Status Effect by 20%.",
+      "source": "https://remnant2.wiki.fextralife.com//Chains+Of+Amplification"
+    },
+    {
+      "name": "Cleansing Stone",
+      "img": "1691941820670.png",
+      "img_short": "1691941820670_short.png",
+      "description": "Reduces Duration of Elemental Status Effects against wearer by 50%. Relic use cleanses Elemental Status effects and grants 15% of wearers Max Health to all allies within 7m when cleansed.",
+      "source": "https://remnant2.wiki.fextralife.com//Cleansing+Stone"
+    },
+    {
+      "name": "Core Booster",
+      "img": "1691941825976.png",
+      "img_short": "1691941825976_short.png",
+      "description": "Increases weakspot damage by 50% for 10s after killing an enemy.",
+      "source": "https://remnant2.wiki.fextralife.com//Core+Booster"
+    },
+    {
+      "name": "Daredevil's Charm",
+      "img": "1691941831043.png",
+      "img_short": "1691941831043_short.png",
+      "description": "Gain 7.5% to all damage dealt, 3% Movement Speed, and 5% all damage taken for each piece of unequipped armor.",
+      "source": "https://remnant2.wiki.fextralife.com//Daredevil's+Charm"
+    },
+    {
+      "name": "Decayed Margin",
+      "img": "1691941926892.png",
+      "img_short": "1691941926892_short.png",
+      "description": "Melee hits gain 1.5% base damage dealt as Lifesteal. For each 25% missing Health, gain 1.5% additional Melee Lifesteal. When Health is full, gain 25% Melee Damage.",
+      "source": "https://remnant2.wiki.fextralife.com//Decayed+Margin"
+    },
+    {
+      "name": "Detonation Trigger",
+      "img": "1691941966647.png",
+      "img_short": "1691941966647_short.png",
+      "description": "Increases Explosion damage by 25%. Explosions apply 405 BURNING damage over 5s.",
+      "source": "https://remnant2.wiki.fextralife.com//Detonation+Trigger"
+    },
+    {
+      "name": "Difference Engine",
+      "img": "1691941971917.png",
+      "img_short": "1691941971917_short.png",
+      "description": "While a Shield is active, gain 20% damage and 1.5% of base dealt as Lifesteal.",
+      "source": "https://remnant2.wiki.fextralife.com//Difference+Engine"
+    },
+    {
+      "name": "Downward Spiral",
+      "img": "1691941977132.png",
+      "img_short": "1691941977132_short.png",
+      "description": "Increase Fire Rate by 10% and Melee Attack Speed by 15%. For every missing 10% of Max Health, gain 3% Ranged Damage (Max 15%) and 4% Melee Damage (Max 20%).",
+      "source": "https://remnant2.wiki.fextralife.com//Downward+Spiral"
+    },
+    {
+      "name": "Effigy Pendant",
+      "img": "1691942020989.png",
+      "img_short": "1691942020989_short.png",
+      "description": "While Grey Health is present, gain 15% to all damage dealt, 10% damage reduction and 1 additional hit before Grey Health is removed.",
+      "source": "https://remnant2.wiki.fextralife.com//Effigy+Pendant"
+    },
+    {
+      "name": "Effluvium Enhancer",
+      "img": "1691942026055.png",
+      "img_short": "1691942026055_short.png",
+      "description": "Increases ACID damage by 20% and CORROSIVE damage by 50%.",
+      "source": "https://remnant2.wiki.fextralife.com//Effluvium+Enhancer"
+    },
+    {
+      "name": "Emergency Switch",
+      "img": "1691942090074.png",
+      "img_short": "1691942090074_short.png",
+      "description": "When below 50% health, chance to consume Relic on use is reduced by 35%. Final Relic Charge is not consumed on use, but effect cannot be triggered again for 60s.",
+      "source": "https://remnant2.wiki.fextralife.com//Emergency+Switch"
+    },
+    {
+      "name": "Energized Neck Coil",
+      "img": "1691942095421.png",
+      "img_short": "1691942095421_short.png",
+      "description": "Increases Status Effect damage by 25%. Applying a damaging Status Effect creates a 5m Explosion for 20% of the Status Effects full damage.",
+      "source": "https://remnant2.wiki.fextralife.com//Energized+Neck+Coil"
+    },
+    {
+      "name": "Energy Diverter",
+      "img": "1691942101233.png",
+      "img_short": "1691942101233_short.png",
+      "description": "While a SHIELD is active, gain 10 Critical Chance and 15% to all damage dealt.",
+      "source": "https://remnant2.wiki.fextralife.com//Energy+Diverter"
+    },
+    {
+      "name": "Escalation Protocol",
+      "img": "1691942106449.png",
+      "img_short": "1691942106449_short.png",
+      "description": "Increases all damage dealt by 2.5% for 10s after killing an enemy. Stacks 10x. Dealing damage refreshes the timer.",
+      "source": "https://remnant2.wiki.fextralife.com//Escalation+Protocol"
+    },
+    {
+      "name": "Full Moon Circlet",
+      "img": "1691942170446.png",
+      "img_short": "1691942170446_short.png",
+      "description": "Ranged damage Lifesteals 3% of base damage dealt. At full health, damage is increased by 20%.",
+      "source": "https://remnant2.wiki.fextralife.com//Full+Moon+Circlet"
+    },
+    {
+      "name": "Golden Ribbon",
+      "img": "1691942175855.png",
+      "img_short": "1691942175855_short.png",
+      "description": "Increases Mod damage by 25%. Activating a MOD grants HASTE for 15s.",
+      "source": "https://remnant2.wiki.fextralife.com//Golden+Ribbon"
+    },
+    {
+      "name": "Gunfire Security Lanyard",
+      "img": "1691942181223.png",
+      "img_short": "1691942181223_short.png",
+      "description": "Automatically reloads Magazine over time. Does not work for single shot weapons.",
+      "source": "https://remnant2.wiki.fextralife.com//Gunfire+Security+Lanyard"
+    },
+    {
+      "name": "Gunslinger's Charm",
+      "img": "1691942186492.png",
+      "img_short": "1691942186492_short.png",
+      "description": "Increases Fire Rate by 15% and Reload Speed by 20%.",
+      "source": "https://remnant2.wiki.fextralife.com//Gunslinger's+Charm"
+    },
+    {
+      "name": "Hallowed Egg",
+      "img": "1691942191800.png",
+      "img_short": "1691942191800_short.png",
+      "description": "Spending at least 30% of Firearms magazine to deal damage increases Melee damage by 10% for 7s. Stacks 5x.",
+      "source": "https://remnant2.wiki.fextralife.com//Hallowed+Egg"
+    },
+    {
+      "name": "Hyperconductor",
+      "img": "1691942196953.png",
+      "img_short": "1691942196953_short.png",
+      "description": "Gain double Skill Charges. Increases Skill Cooldowns by 50% and reduces Max Power Generation by 15%.For Heavy Weapons, doubles Heavy Weapon Ammo instead.",
+      "source": "https://remnant2.wiki.fextralife.com//Hyperconductor"
+    },
+    {
+      "name": "Indignant Fetish",
+      "img": "1691942257969.png",
+      "img_short": "1691942257969_short.png",
+      "description": "Taking damage from enemies increases all damage dealt by 25% and reduces all incoming damage by 10%. Lasts 20s.",
+      "source": "https://remnant2.wiki.fextralife.com//Indignant+Fetish"
+    },
+    {
+      "name": "Inert Overcharger",
+      "img": "1691942263013.png",
+      "img_short": "1691942263013_short.png",
+      "description": "Standing still increases Fire Rate by 20%, Reload Speed by 15%, and reduces Recoil by 50%. Lasts 1.5s after moving.",
+      "source": "https://remnant2.wiki.fextralife.com//Inert+Overcharger"
+    },
+    {
+      "name": "Insulation Driver",
+      "img": "1691942268276.png",
+      "img_short": "1691942268276_short.png",
+      "description": "While BULWARK is active, gain 15% to all damage dealt and HASTE.",
+      "source": "https://remnant2.wiki.fextralife.com//Insulation+Driver"
+    },
+    {
+      "name": "Jester's Bell",
+      "img": "1691942327678.png",
+      "img_short": "1691942327678_short.png",
+      "description": "Increases Mod and Skill Cast Speed by 35%. Casting a Skill or Mod increases all damage by 20% for 15s.",
+      "source": "https://remnant2.wiki.fextralife.com//Jester's+Bell"
+    },
+    {
+      "name": "Kinetic Shield Exchanger",
+      "img": "1691942332776.png",
+      "img_short": "1691942332776_short.png",
+      "description": "While a SHIELD is active, gain 25% Mod damage and generate 15% additional Mod power.",
+      "source": "https://remnant2.wiki.fextralife.com//Kinetic+Shield+Exchanger"
+    },
+    {
+      "name": "Kuri Kuri Charm",
+      "img": "1691942337955.png",
+      "img_short": "1691942337955_short.png",
+      "description": "For every 10% of Health missing (Max 50%), gain 10% increased Relic Use Speed and 7% chance to not consume a Relic Charge.",
+      "source": "https://remnant2.wiki.fextralife.com//Kuri+Kuri+Charm"
+    },
+    {
+      "name": "Laemir Censer",
+      "img": "1691942343227.png",
+      "img_short": "1691942343227_short.png",
+      "description": "Increases Mod Duration by 50%. Increases Mod Cost by 15%.",
+      "source": "https://remnant2.wiki.fextralife.com//Laemir+Censer"
+    },
+    {
+      "name": "Leto's Amulet",
+      "img": "1691942348596.png",
+      "img_short": "1691942348596_short.png",
+      "description": "Reduces Encumbrance by 40% and Stamina Cost by 15%.",
+      "source": "https://remnant2.wiki.fextralife.com//Leto's+Amulet"
+    },
+    {
+      "name": "Navigator's Pendant",
+      "img": "1691942444370.png",
+      "img_short": "1691942444370_short.png",
+      "description": "Grants 20 Health, 20 Stamina, and -10 Armor Encumbrance.",
+      "source": "https://remnant2.wiki.fextralife.com//Navigator's+Pendant"
+    },
+    {
+      "name": "Neckbone Necklace",
+      "img": "1691942449490.png",
+      "img_short": "1691942449490_short.png",
+      "description": "Reduces the Damage of Status Effects applied to wearer by 50%. Gain 25% increased Damage when suffering from a Status Effect or Blight.",
+      "source": "https://remnant2.wiki.fextralife.com//Neckbone+Necklace"
+    },
+    {
+      "name": "Necklace of Flowing Life",
+      "img": "1691942455414.png",
+      "img_short": "1691942455414_short.png",
+      "description": "Increases Grey Health conversion by an additional 100%. When Grey Health Conversion triggers, gain 5x the amount as Mod Power.",
+      "source": "https://remnant2.wiki.fextralife.com//Necklace+of+Flowing+Life"
+    },
+    {
+      "name": "Necklace of Supremacy",
+      "img": "1691942460922.png",
+      "img_short": "1691942460922_short.png",
+      "description": "After 7s of not being damaged, increases all damage dealt by 15%. Increases to 25% if Health is full.",
+      "source": "https://remnant2.wiki.fextralife.com//Necklace+of+Supremacy"
+    },
+    {
+      "name": "Nightmare Spiral",
+      "img": "1691942466296.png",
+      "img_short": "1691942466296_short.png",
+      "description": "Gain 10% of base Ranged damage dealt as Lifesteal. Reduces Healing Effectiveness by 95%.",
+      "source": "https://remnant2.wiki.fextralife.com//Nightmare+Spiral"
+    },
+    {
+      "name": "One True King Sigil",
+      "img": "1691942652795.png",
+      "img_short": "1691942652795_short.png",
+      "description": "Increases Mod damage by 20%. Enhances the effect of Faerin's Sigil and Faelin's Sigil by 50% per Sigil equipped.",
+      "source": "https://remnant2.wiki.fextralife.com//One+True+King+Sigil"
+    },
+    {
+      "name": "One-Eyed Joker Idol",
+      "img": "1691942657837.png",
+      "img_short": "1691942657837_short.png",
+      "description": "Neutral Backdash creates a Magic Card lasting 1s. If Card absorbs enemy damage gain 25% Critical Chance for 5s. Neutral Backdash cost 30% additional Stamina.",
+      "source": "https://remnant2.wiki.fextralife.com//One-Eyed+Joker+Idol"
+    },
+    {
+      "name": "Onyx Pendulum",
+      "img": "1691942662934.png",
+      "img_short": "1691942662934_short.png",
+      "description": "Firearm damage adds stacks which increase the damage of stowed firearm by 2.5% for 15s. Stacks 10x.",
+      "source": "https://remnant2.wiki.fextralife.com//Onyx+Pendulum"
+    },
+    {
+      "name": "Range Finder",
+      "img": "1691942667921.png",
+      "img_short": "1691942667921_short.png",
+      "description": "After killing an enemy, gain 10% Ranged damage and 2m Firearm Range. Stacks 3x Lasts 10s. ranged Weakspot Hits will refresh duration.",
+      "source": "https://remnant2.wiki.fextralife.com//Range+Finder"
+    },
+    {
+      "name": "Ravager's Mark",
+      "img": "1691942673188.png",
+      "img_short": "1691942673188_short.png",
+      "description": "Increases all damage dealt to BLEEDING targets by 20%. Bonus increases to 30% for targets with 50% or lower Health.",
+      "source": "https://remnant2.wiki.fextralife.com//Ravager's+Mark"
+    },
+    {
+      "name": "Red Doe Sigil",
+      "img": "1691942678137.png",
+      "img_short": "1691942678137_short.png",
+      "description": "Increases Relic Healing Effectiveness by 30% which doubles when the wearer's Health is below 50%.",
+      "source": "https://remnant2.wiki.fextralife.com//Red+Doe+Sigil"
+    },
+    {
+      "name": "Rusted Navigator's Pendant",
+      "img": "1691942683220.png",
+      "img_short": "1691942683220_short.png",
+      "description": "Grants 15 Health, 15 Stamina, and -15 Armor Encumbrance.",
+      "source": "https://remnant2.wiki.fextralife.com//Rusted+Navigator's+Pendant"
+    },
+    {
+      "name": "Samoflange",
+      "img": "1691942688740.png",
+      "img_short": "1691942688740_short.png",
+      "description": "Direct damage taken from enemies, and any additional damage within 2s, is reduced by 50%. Once the defensive buff expires, all incomig damage to wearer is increased by 15% for 10s.",
+      "source": "https://remnant2.wiki.fextralife.com//Samoflange"
+    },
+    {
+      "name": "Scavenger's Bauble",
+      "img": "1691942693686.png",
+      "img_short": "1691942693686_short.png",
+      "description": "Increases Scrap pickups by 50%, Automatically pick up any nearby crafting materials.",
+      "source": "https://remnant2.wiki.fextralife.com//Scavenger's+Bauble"
+    },
+    {
+      "name": "Shaed Bloom Crystal",
+      "img": "1691942699198.png",
+      "img_short": "1691942699198_short.png",
+      "description": "Gain a 30% damage bonus. Every 5s, the bonus switches between Physical and Elemental damage.",
+      "source": "https://remnant2.wiki.fextralife.com//Shaed+Bloom+Crystal"
+    },
+    {
+      "name": "Shock Device",
+      "img": "1691942704326.png",
+      "img_short": "1691942704326_short.png",
+      "description": "Increases SHOCK damage by 20% and OVERLOADED damage by 50%.",
+      "source": "https://remnant2.wiki.fextralife.com//Shock+Device"
+    },
+    {
+      "name": "Silver Ribbon",
+      "img": "1691942709314.png",
+      "img_short": "1691942709314_short.png",
+      "description": "Increases Skill damage by 25%.Activating a SKILL grants HASTE for 15s.",
+      "source": "https://remnant2.wiki.fextralife.com//Silver+Ribbon"
+    },
+    {
+      "name": "Soul Anchor",
+      "img": "1691942714526.png",
+      "img_short": "1691942714526_short.png",
+      "description": "Summoning increases all damage dealt by 20% for 30s.",
+      "source": "https://remnant2.wiki.fextralife.com//Soul+Anchor"
+    },
+    {
+      "name": "Spirit Wisp Amulet",
+      "img": "1691942719630.png",
+      "img_short": "1691942719630_short.png",
+      "description": "Activating a Mod reduces current Skill Cooldowns by 3% for every 300 Mod Power spent.",
+      "source": "https://remnant2.wiki.fextralife.com//Spirit+Wisp+Amulet"
+    },
+    {
+      "name": "Stalker's Brand",
+      "img": "1691942724640.png",
+      "img_short": "1691942724640_short.png",
+      "description": "Gain 10% Ranged and 15% Melee damage. Bonus double versus enemies not targeting wearer.",
+      "source": "https://remnant2.wiki.fextralife.com//Stalker's+Brand"
+    },
+    {
+      "name": "Talisman of the Sun",
+      "img": "1691942729636.png",
+      "img_short": "1691942729636_short.png",
+      "description": "Increases FIRE damage by 20% and BURNING damage by 50%.",
+      "source": "https://remnant2.wiki.fextralife.com//Talisman+of+the+Sun"
+    },
+    {
+      "name": "Toxic Release Valve",
+      "img": "1691942734626.png",
+      "img_short": "1691942734626_short.png",
+      "description": "Swapping Firearms releases a Toxic Cloud, which deals 148.5 ACID Damage to all enemies within 7m. and applies CORROSION. Can only happen once every 3s.",
+      "source": "https://remnant2.wiki.fextralife.com//Toxic+Release+Valve"
+    },
+    {
+      "name": "Twisted Idol",
+      "img": "1691942739687.png",
+      "img_short": "1691942739687_short.png",
+      "description": "Increases Armor Effectiveness by 30% and reduces Encumbrance by 15.",
+      "source": "https://remnant2.wiki.fextralife.com//Twisted+Idol"
+    },
+    {
+      "name": "Vengeance Idol",
+      "img": "1691942744952.png",
+      "img_short": "1691942744952_short.png",
+      "description": "Increases all damage dealt by 30% when the wearer's Health is below 50%.",
+      "source": "https://remnant2.wiki.fextralife.com//Vengeance+Idol"
+    },
+    {
+      "name": "Void Idol",
+      "img": "1691942750058.png",
+      "img_short": "1691942750058_short.png",
+      "description": "Increases Reload Speed by 20%. Reloads only require 50% of magazine from reserves to fully reload.",
+      "source": "https://remnant2.wiki.fextralife.com//Void+Idol"
+    },
+    {
+      "name": "Weightless Weight",
+      "img": "1691942755044.png",
+      "img_short": "1691942755044_short.png",
+      "description": "Increases Movement Speed by 0.75% and Reduces Stamina Costs of all actions by 0.75%  for every each 5 point of Armor Encumbrance.",
+      "source": "https://remnant2.wiki.fextralife.com//Weightless+Weight"
+    },
+    {
+      "name": "Death's Embrace",
+      "img": "1691941836266.png",
+      "img_short": "1691941836266_short.png",
+      "description": "Gain 20% to all damage when Health is below 100%. Gain HASTE when below 50% Health.",
+      "source": "https://remnant2.wiki.fextralife.com//Death's+Embrace"
+    },
+    {
+      "name": "Matriarch's Insignia",
+      "img": "1691942353749.png",
+      "img_short": "1691942353749_short.png",
+      "description": "Increases Melee Damage by 35% and causes all successful Melee Attacks to restore 10 Stamina.",
+      "source": "https://remnant2.wiki.fextralife.com//Matriarch's+Insignia"
+    },
+    {
+      "name": "Nightweaver's Grudge",
+      "img": "1691942471568.png",
+      "img_short": "1691942471568_short.png",
+      "description": "Gain 20% Critical Chance and HASTE when within 15m of an entity suffering from a Status Effect.",
+      "source": "https://remnant2.wiki.fextralife.com//Nightweaver's+Grudge"
+    },
+    {
+      "name": "Nimue's Ribbon",
+      "img": "1691942562156.png",
+      "img_short": "1691942562156_short.png",
+      "description": "Increase Relic Healing Effectiveness by 50% Activating a Relic grants HASTE for 25s.",
+      "source": "https://remnant2.wiki.fextralife.com//Nimue's+Ribbon"
+    }
+  ],
+  "relic": [
+    {
+      "name": "Dragon Heart",
+      "img": "1691942763813.png",
+      "img_short": "1691942763813_short.png",
+      "description": "On use, heals 70 Health over 0.5s.",
+      "source": "https://remnant2.wiki.fextralife.com//Dragon+Heart"
+    },
+    {
+      "name": "Blooming Heart",
+      "img": "1691942768850.png",
+      "img_short": "1691942768850_short.png",
+      "description": "On use, heals the user for 35% of caster's Max Health over 5s. Spawns 3 Healing Orbs which grant 35% of caster's Max Health over 5s. Orbs last 20s. Recasting removes previous Orbs",
+      "source": "https://remnant2.wiki.fextralife.com//Blooming+Heart"
+    },
+    {
+      "name": "Crystal Heart",
+      "img": "1691942773848.png",
+      "img_short": "1691942773848_short.png",
+      "description": "On use, regenerates 100% of Max Health over 10s, Movement Speed is reduced by 50%, and incoming damage is reduced by 25%. Lasts 10s.",
+      "source": "https://remnant2.wiki.fextralife.com//Crystal+Heart"
+    },
+    {
+      "name": "Decayed Heart",
+      "img": "1691942778944.png",
+      "img_short": "1691942778944_short.png",
+      "description": "On use, causes the next 3 instances of enemy damage taken to trigger 40 Health regeneration over 3s. Lasts 30s.",
+      "source": "https://remnant2.wiki.fextralife.com//Decayed+Heart"
+    },
+    {
+      "name": "Enlarged Heart",
+      "img": "1691942783917.png",
+      "img_short": "1691942783917_short.png",
+      "description": "Innate double use speed. On use, heals 140 health over 0.5s. Relic capacity is halved.",
+      "source": "https://remnant2.wiki.fextralife.com//Enlarged+Heart"
+    },
+    {
+      "name": "Lifeless Heart",
+      "img": "1691942788885.png",
+      "img_short": "1691942788885_short.png",
+      "description": "On use, heals 30 Health over 0.5s. Relic capacity is doubled",
+      "source": "https://remnant2.wiki.fextralife.com//Lifeless+Heart"
+    },
+    {
+      "name": "Constrained Heart",
+      "img": "1691942793859.png",
+      "img_short": "1691942793859_short.png",
+      "description": "On use regenerates 20 Health per second for 5s and grants 2 Stacks of Bulwark while heal is active.",
+      "source": "https://remnant2.wiki.fextralife.com//Constrained+Heart"
+    },
+    {
+      "name": "Pulsing Heart",
+      "img": "1691942798874.png",
+      "img_short": "1691942798874_short.png",
+      "description": "On use, pulses every 3s, healing allies within 7m for 20 Health over 0.5s per pulse. Lasts 15s.",
+      "source": "https://remnant2.wiki.fextralife.com//Pulsing+Heart"
+    },
+    {
+      "name": "Quilted Heart",
+      "img": "1691942804352.png",
+      "img_short": "1691942804352_short.png",
+      "description": "Does not provide standard healing. On use, negates Stamina Drain and cause Evades to heal for 15 Health over 0.25s. Lasts 20s.",
+      "source": "https://remnant2.wiki.fextralife.com//Quilted+Heart"
+    },
+    {
+      "name": "Reprocessed Heart",
+      "img": "1691942809980.png",
+      "img_short": "1691942809980_short.png",
+      "description": "On use, converts 5 Health to 40 Mod Power per second for 25s for Both Weapons. Cannot die from conversion.",
+      "source": "https://remnant2.wiki.fextralife.com//Reprocessed+Heart"
+    },
+    {
+      "name": "Resonating Heart",
+      "img": "1691942815011.png",
+      "img_short": "1691942815011_short.png",
+      "description": "On use, regenerates 50% of Max Health over 5s. When heal ends, any overhea| Health is Doubled and awarded over the next 20s.",
+      "source": "https://remnant2.wiki.fextralife.com//Resonating+Heart"
+    },
+    {
+      "name": "Ripened Heart",
+      "img": "1691942820042.png",
+      "img_short": "1691942820042_short.png",
+      "description": "On use, heals 35 Health over 0.5s and an additional 70 over 5s.",
+      "source": "https://remnant2.wiki.fextralife.com//Ripened+Heart"
+    },
+    {
+      "name": "Runed Heart",
+      "img": "1691942825063.png",
+      "img_short": "1691942825063_short.png",
+      "description": "On use, increases Health Regeneration by 5 and generates 500 Mod Power over 10s.",
+      "source": "https://remnant2.wiki.fextralife.com//Runed+Heart"
+    },
+    {
+      "name": "Salvaged Heart",
+      "img": "1691942830065.png",
+      "img_short": "1691942830065_short.png",
+      "description": "Innate 50% Use Speed bonus. On use, heals 30 Health over 0.25s and restore 300% of current Grey Health.",
+      "source": "https://remnant2.wiki.fextralife.com//Salvaged+Heart"
+    },
+    {
+      "name": "Shielded Heart",
+      "img": "1691942835112.png",
+      "img_short": "1691942835112_short.png",
+      "description": "On use, grants a Shield for 100% of Max Health. Lasts 20s or until Shield is removed by damage",
+      "source": "https://remnant2.wiki.fextralife.com//Shielded+Heart"
+    },
+    {
+      "name": "Siphon Heart",
+      "img": "1691942840591.png",
+      "img_short": "1691942840591_short.png",
+      "description": "On use, grants 10% of base damage dealt as Lifesteal for 10s.",
+      "source": "https://remnant2.wiki.fextralife.com//Siphon+Heart"
+    },
+    {
+      "name": "Tormented Heart",
+      "img": "1691942845582.png",
+      "img_short": "1691942845582_short.png",
+      "description": "Innate 20% Use Speed bonus. On use, deals 240 Explosive damage to enemies within 10m and Lifesteals 25% of damage dealt. ",
+      "source": "https://remnant2.wiki.fextralife.com//Tormented+Heart"
+    },
+    {
+      "name": "Tranquil Heart",
+      "img": "1691942850696.png",
+      "img_short": "1691942850696_short.png",
+      "description": "Passively grants 2 Health Regeneration per second. On use, doubles All Health Regeneration for 15s.",
+      "source": "https://remnant2.wiki.fextralife.com//Tranquil+Heart"
+    },
+    {
+      "name": "Unsullied Heart",
+      "img": "1691942855738.png",
+      "img_short": "1691942855738_short.png",
+      "description": "On use, heals for 100% of Current Health over 0.5s.",
+      "source": "https://remnant2.wiki.fextralife.com//Unsullied+Heart"
+    },
+    {
+      "name": "Void Heart",
+      "img": "1691942860795.png",
+      "img_short": "1691942860795_short.png",
+      "description": "On use, reduces incoming damage by 50% for 4s. When buff ends, heals 100% of missing Health over 0.75s.",
+      "source": "https://remnant2.wiki.fextralife.com//Void+Heart"
+    }
+  ],
+  "headArmor": [
+    {
+      "name": "Academic's Hat",
+      "img": "1691942866782.png",
+      "img_short": "1691942866782_short.png",
+      "description": "A soft and durable felt hat fashioned to stylize, not necessarily protect, the most important part of your body. ",
+      "source": "https://remnant2.wiki.fextralife.com//Academic's+Hat"
+    },
+    {
+      "name": "Bruiser Helmet",
+      "img": "1691942871828.png",
+      "img_short": "1691942871828_short.png",
+      "description": "The visibility in this helmet leaves much to be desired, but that's not really the point. It goes a long way in keeping your head on your shoulders.",
+      "source": "https://remnant2.wiki.fextralife.com//Bruiser+Helmet"
+    },
+    {
+      "name": "Crown of the Red Prince",
+      "img": "1691942876851.png",
+      "img_short": "1691942876851_short.png",
+      "description": "A flashy, flame-hot diadem that demands respect and attention in equal measure...were there any subjects left to offer such sentiments. ",
+      "source": "https://remnant2.wiki.fextralife.com//Crown+of+the+Red+Prince"
+    },
+    {
+      "name": "Dendroid Mask",
+      "img": "1691942881880.png",
+      "img_short": "1691942881880_short.png",
+      "description": "It's like putting your head inside the monsters you've been killing all this time. It's comfortable enough though, so long as you don't think about where it's been. ",
+      "source": "https://remnant2.wiki.fextralife.com//Dendroid+Mask"
+    },
+    {
+      "name": "Elder Headdress",
+      "img": "1691942887014.png",
+      "img_short": "1691942887014_short.png",
+      "description": "This headpiece hails from the wild and mysterious world of Yaesha. Its smooth,featureless. design is both eerie and elegant, painted a stark white and adornedwith luxuriant fur and imposing horns.",
+      "source": "https://remnant2.wiki.fextralife.com//Elder+Headdress"
+    },
+    {
+      "name": "Fae Royal Headcover",
+      "img": "1691942892059.png",
+      "img_short": "1691942892059_short.png",
+      "description": "It feels like you're not wearing any helmet at all - you'd swear you could even feel the wind in your hair. Yet it turns an arrow as effectively as any steel. ",
+      "source": "https://remnant2.wiki.fextralife.com//Fae+Royal+Headcover"
+    },
+    {
+      "name": "Field Medic Hat",
+      "img": "1691942897322.png",
+      "img_short": "1691942897322_short.png",
+      "description": "While it may shield your eyes from the sun, it's not particularly protective against the dangers of the Root. ",
+      "source": "https://remnant2.wiki.fextralife.com//Field+Medic+Hat"
+    },
+    {
+      "name": "Field Medic Mask",
+      "img": "1691942902730.png",
+      "img_short": "1691942902730_short.png",
+      "description": "This face covering protects you from contagions without obstructing your sight. You feel like a creature from another world in this thing. Perhaps that's fitting. ",
+      "source": "https://remnant2.wiki.fextralife.com//Field+Medic+Mask"
+    },
+    {
+      "name": "High Noon Hat",
+      "img": "1691942941553.png",
+      "img_short": "1691942941553_short.png",
+      "description": "Something about this hat just feels right. Paired with a bandana, it keeps the sun and elements from hindering your all-important aim. ",
+      "source": "https://remnant2.wiki.fextralife.com//High+Noon+Hat"
+    },
+    {
+      "name": "Knotted Helm",
+      "img": "1691942946605.png",
+      "img_short": "1691942946605_short.png",
+      "description": "A hauntingly familiar visage, convincing enough to still be alive. To truly know your enemy, you must get inside its head. Literally. ",
+      "source": "https://remnant2.wiki.fextralife.com//Knotted+Helm"
+    },
+    {
+      "name": "Labyrinth Headplate",
+      "img": "1691942951708.png",
+      "img_short": "1691942951708_short.png",
+      "description": "This helmet is reminiscent of a statue from a time long, long before. ",
+      "source": "https://remnant2.wiki.fextralife.com//Labyrinth+Headplate"
+    },
+    {
+      "name": "Leto Mark II Helmet",
+      "img": "1691942956754.png",
+      "img_short": "1691942956754_short.png",
+      "description": "While this ironclad helmet is somewhat difficult to breathe in, you feel secure knowing even the heaviest weapon would have little chance of cracking into your skull. ",
+      "source": "https://remnant2.wiki.fextralife.com//Leto+Mark+II+Helmet"
+    },
+    {
+      "name": "Lodestone Crown",
+      "img": "1691942962125.png",
+      "img_short": "1691942962125_short.png",
+      "description": "This crown was worn by King Kolket himself. It could be heresy for a paxultek to wear such an artifact, but there are few left among the Pan who would even recognize it as their own.",
+      "source": "https://remnant2.wiki.fextralife.com//Lodestone+Crown"
+    },
+    {
+      "name": "Navigator's Helm",
+      "img": "1691942967149.png",
+      "img_short": "1691942967149_short.png",
+      "description": "It's hard to imagine someone piloting an entire world, but that's who this helm was for. The sockets allowed them to speak with N'Erud directly. N'Erud had dozens of pilots, all working in concert-both with each other and with the world itself. ",
+      "source": "https://remnant2.wiki.fextralife.com//Navigator's+Helm"
+    },
+    {
+      "name": "Nightstalker Shroud",
+      "img": "1691942972208.png",
+      "img_short": "1691942972208_short.png",
+      "description": "A hunting mask with advanced respirator capabilities. It purifies yet does nothing to mask the stench of death that permeates the air. ",
+      "source": "https://remnant2.wiki.fextralife.com//Nightstalker+Shroud"
+    },
+    {
+      "name": "Radiant Visage",
+      "img": "1691942977233.png",
+      "img_short": "1691942977233_short.png",
+      "description": "The cowl is a striking blue, which contrasts with the large, featureless golden mask that covers the face of the wearer. This armor was highly coveted and only granted to those few who were recognized as the \"Radiant Ones.\" ",
+      "source": "https://remnant2.wiki.fextralife.com//Radiant+Visage"
+    },
+    {
+      "name": "Realmwalker Beret",
+      "img": "1691942982261.png",
+      "img_short": "1691942982261_short.png",
+      "description": "This hat once belonged to Founder Ford. He was only a captain then-a much younger Ford, from a long time and many lives ago. ",
+      "source": "https://remnant2.wiki.fextralife.com//Realmwalker+Beret"
+    },
+    {
+      "name": "Red Widow Headdress",
+      "img": "1691942987547.png",
+      "img_short": "1691942987547_short.png",
+      "description": "The horns of this helmet are ornamental, designed to be displayed in addition to the Pan wearer's own horns-which themselves protrude from additional openings in the armor-to create a truly frightening visage. ",
+      "source": "https://remnant2.wiki.fextralife.com//Red+Widow+Headdress"
+    },
+    {
+      "name": "Space Worker Mask",
+      "img": "1691942992612.png",
+      "img_short": "1691942992612_short.png",
+      "description": "People (Mudtooth mostly) tell stories of how, before the Root, humans could fly into space. It's probably not true, but if it were, they'd need something like this to keep them alive out there. ",
+      "source": "https://remnant2.wiki.fextralife.com//Space+Worker+Mask"
+    },
+    {
+      "name": "Technician Helmet",
+      "img": "1691942997657.png",
+      "img_short": "1691942997657_short.png",
+      "description": "An overwhelming amount of information shines within the helmet's display, the vast majority of it incomprehensible. Whether that's because it's a foreign language or the helmet has been damaged by whatever destroyed this place is anybody's guess. ",
+      "source": "https://remnant2.wiki.fextralife.com//Technician+Helmet"
+    },
+    {
+      "name": "Trainer Cap",
+      "img": "1691943002691.png",
+      "img_short": "1691943002691_short.png",
+      "description": "For some reason, your head feels naked without this simple baseball cap with a fox logo. That aside, it keeps the sun out of your eyes, and that's all you ask of it. ",
+      "source": "https://remnant2.wiki.fextralife.com//Trainer+Cap"
+    },
+    {
+      "name": "Void Skull",
+      "img": "1691943007753.png",
+      "img_short": "1691943007753_short.png",
+      "description": "The skull-like helm hails from the inhospitable world of Rhom, where survival demands more than just strength and cunning. Fashioned from a mysterious material, its surface glimmers with an otherworldly sheen that seems to shift and change with the light. Its sleek and angular lines, reminiscent of some alien technology, evoke a sense of unease in those who gaze upon it. ",
+      "source": "https://remnant2.wiki.fextralife.com//Void+Skull"
+    }
+  ],
+  "glove": [
+    {
+      "name": "Academic's Gloves",
+      "img": "1691943013667.png",
+      "img_short": "1691943013667_short.png",
+      "description": "The initials of the Dran who once owned these - and misplaged them often - are embroidered on the wool-lined inside.",
+      "source": "https://remnant2.wiki.fextralife.com//Academic's+Gloves"
+    },
+    {
+      "name": "Bruiser Gloves",
+      "img": "1691943018703.png",
+      "img_short": "1691943018703_short.png",
+      "description": "These gauntlets are as tough as steel, as hard as stone, and up for whatever dangers or challenges come their way. They suit you well.",
+      "source": "https://remnant2.wiki.fextralife.com//Bruiser+Gloves"
+    },
+    {
+      "name": "Dendroid Grips",
+      "img": "1691943023914.png",
+      "img_short": "1691943023914_short.png",
+      "description": "Against all logic, these gloves feel natural. Like extensions of who you were meant to be. Seems like that should bother you more.",
+      "source": "https://remnant2.wiki.fextralife.com//Dendroid+Grips"
+    },
+    {
+      "name": "Elder Gloves",
+      "img": "1691943029059.png",
+      "img_short": "1691943029059_short.png",
+      "description": "Features striking loops of gold that add an ornate touch to the otherwise plain design. Curiously, these embellishments are only present on the left-hand glove, making it stand out from its counterpart on the right.",
+      "source": "https://remnant2.wiki.fextralife.com//Elder+Gloves"
+    },
+    {
+      "name": "Fae Royal Vambraces",
+      "img": "1691943034570.png",
+      "img_short": "1691943034570_short.png",
+      "description": "Suitable for archery or swordplay - for killing of any sort really.",
+      "source": "https://remnant2.wiki.fextralife.com//Fae+Royal+Vambraces"
+    },
+    {
+      "name": "Field Medic Gloves",
+      "img": "1691943039700.png",
+      "img_short": "1691943039700_short.png",
+      "description": "At a glance it's clear that these fingerless gloves won't keep you warm or offer much protection. Even still, you wear them because they provide improved grip without impacting precision.",
+      "source": "https://remnant2.wiki.fextralife.com//Field+Medic+Gloves"
+    },
+    {
+      "name": "High Noon Armguards",
+      "img": "1691943044723.png",
+      "img_short": "1691943044723_short.png",
+      "description": "Metal arm guards paired with well-worn gloves that are more comfortable gripping a warm gun than reaching for a handshake. They're tasked with protecting your greatest asset - your trigger finger.",
+      "source": "https://remnant2.wiki.fextralife.com//High+Noon+Armguards"
+    },
+    {
+      "name": "Knotted Gloves",
+      "img": "1691943049869.png",
+      "img_short": "1691943049869_short.png",
+      "description": "The deadwood claws fit you almost too snug, making it difficult to remember where bark ends and your own flesh begins.",
+      "source": "https://remnant2.wiki.fextralife.com//Knotted+Gloves"
+    },
+    {
+      "name": "Labyrinth Gauntlets",
+      "img": "1691943054914.png",
+      "img_short": "1691943054914_short.png",
+      "description": "Craggy, uneven stone melds tightly to your hands and forearms, as if the skin of something that once was has at last found new purchase.",
+      "source": "https://remnant2.wiki.fextralife.com//Labyrinth+Gauntlets"
+    },
+    {
+      "name": "Leto Mark II Gloves",
+      "img": "1691943060145.png",
+      "img_short": "1691943060145_short.png",
+      "description": "These gauntlets are sturdy enough to hold up even agaist the Root: They're tough and intimidating while providing the bare-minimnum level of dexterity for,a steady grip on your weapon of choice. Just don't plan on completing any tasks that require subtlety when wearing these.",
+      "source": "https://remnant2.wiki.fextralife.com//Leto+Mark+II+Gloves"
+    },
+    {
+      "name": "Nightstalker Gloves",
+      "img": "1691943065216.png",
+      "img_short": "1691943065216_short.png",
+      "description": "A single glove and arm wrap are all you need or‘want for ar protection. The only defense you can truly rely on is a loaded gun and a cle shot.",
+      "source": "https://remnant2.wiki.fextralife.com//Nightstalker+Gloves"
+    },
+    {
+      "name": "Radiant Bracers",
+      "img": "1691943070910.png",
+      "img_short": "1691943070910_short.png",
+      "description": "The fingerless leather gloves provide exceptional dexterity to the wearer, while the vambracers are adorned with a blue gem that gives the wearer acess to the volatile energy stored within.",
+      "source": "https://remnant2.wiki.fextralife.com//Radiant+Bracers"
+    },
+    {
+      "name": "Realmwalker Gloves",
+      "img": "1691943076084.png",
+      "img_short": "1691943076084_short.png",
+      "description": "Ford's gloves were designed for warmth and dexterity. The soldier who wore these was not swinging blades or forging metal. He was pulling triggers and throwing grenades",
+      "source": "https://remnant2.wiki.fextralife.com//Realmwalker+Gloves"
+    },
+    {
+      "name": "Red Widow Bracers",
+      "img": "1691943081248.png",
+      "img_short": "1691943081248_short.png",
+      "description": "These gloves are light, with openings for the fingers to allow the wearer maximum dexterity - a necesary consideration for traditional Pan weaponry.",
+      "source": "https://remnant2.wiki.fextralife.com//Red+Widow+Bracers"
+    },
+    {
+      "name": "Space Worker Gloves",
+      "img": "1691943086397.png",
+      "img_short": "1691943086397_short.png",
+      "description": "Electromagnets are worked into the grip, activating automatically when the hand closes. Seems like a useful feature, so long as everything/you work with is metal.",
+      "source": "https://remnant2.wiki.fextralife.com//Space+Worker+Gloves"
+    },
+    {
+      "name": "Survivor Gloves",
+      "img": "1691943091579.png",
+      "img_short": "1691943091579_short.png",
+      "description": "Made of durable leather and include a makeshift wrist guard consisting of a etalk plate secured by leather straps, providing addition protection to the wearer's wrists withour sacrificing dexterity.",
+      "source": "https://remnant2.wiki.fextralife.com//Survivor+Gloves"
+    },
+    {
+      "name": "Technician Gloves",
+      "img": "1691943096698.png",
+      "img_short": "1691943096698_short.png",
+      "description": "A tingle runs across your palm within these gloves - like bugs skittering over your hand.",
+      "source": "https://remnant2.wiki.fextralife.com//Technician+Gloves"
+    },
+    {
+      "name": "Trainer Bracer",
+      "img": "1691943102083.png",
+      "img_short": "1691943102083_short.png",
+      "description": "An arm guard that also functions as a bite sleeve for training on the subtle nuances of when and who to bite.",
+      "source": "https://remnant2.wiki.fextralife.com//Trainer+Bracer"
+    },
+    {
+      "name": "Void Wraps",
+      "img": "1691943107100.png",
+      "img_short": "1691943107100_short.png",
+      "description": "Crafted from an enigmatic substance that resembles hardened bone in appearance. These gloves are a powerful tool in the hands of those who would wield the void, drawing energy from the emptiness between worlds to unleash devastating attacks. But with great power comes great cost, and those who dare to wear these gloves must be prepared to pay the price.",
+      "source": "https://remnant2.wiki.fextralife.com//Void+Wraps"
+    }
+  ],
+  "bodyArmor": [
+    {
+      "name": "Academic's Overcoat",
+      "img": "1691943113089.png",
+      "img_short": "1691943113089_short.png",
+      "description": "Donning this uniform makes you feel a touch smarter, and you can't help but straighten the necktie whenever it slips loose.",
+      "source": "https://remnant2.wiki.fextralife.com//Academic's+Overcoat"
+    },
+    {
+      "name": "Bruiser Bodyplate",
+      "img": "1691943118592.png",
+      "img_short": "1691943118592_short.png",
+      "description": "This thing is difficult to put on or take off and makes you feel like afwalkipig ta In the thick of battle, that's exactly what you're looking for.",
+      "source": "https://remnant2.wiki.fextralife.com//Bruiser+Bodyplate"
+    },
+    {
+      "name": "Dendroid Chest",
+      "img": "1691943123587.png",
+      "img_short": "1691943123587_short.png",
+      "description": "Fibrous tentacles wrap themselves around your chest. Up until now, you've resolutely avoided this situation.",
+      "source": "https://remnant2.wiki.fextralife.com//Dendroid+Chest"
+    },
+    {
+      "name": "Elder Raiment",
+      "img": "1691943128788.png",
+      "img_short": "1691943128788_short.png",
+      "description": "A distinctive piece of protective gear originating from Yaesha. Its vibrant red color and fur adornments make it stand out, serving as a symbol of the wearer's status and skill. While it may not provide as much protection as some other types of armor, its lightweight construction and flexible design allow for exceptional mobility and ease of movement in combat.",
+      "source": "https://remnant2.wiki.fextralife.com//Elder+Raiment"
+    },
+    {
+      "name": "Fae Royal Bodyplate",
+      "img": "1691943134348.png",
+      "img_short": "1691943134348_short.png",
+      "description": "The royal guard do not wear insignias on their chests nor crests on their shield. It is assumed their identify is clear from their grab and the confidence with wich they carry themselves.",
+      "source": "https://remnant2.wiki.fextralife.com//Fae+Royal+Bodyplate"
+    },
+    {
+      "name": "Field Medic Overcoat",
+      "img": "1691943139912.png",
+      "img_short": "1691943139912_short.png",
+      "description": "A long coat over a plate of armor. The metal could be thicker, sure, but your primary concern is safe and speedy travel to the wounded.",
+      "source": "https://remnant2.wiki.fextralife.com//Field+Medic+Overcoat"
+    },
+    {
+      "name": "High Noon Duds",
+      "img": "1691943144884.png",
+      "img_short": "1691943144884_short.png",
+      "description": "A rugged amalgamation of canvas, denim, leather, and steel. These different materials all serve the same purpose of keeping you covered without inhibitin aiming mobility.",
+      "source": "https://remnant2.wiki.fextralife.com//High+Noon+Duds"
+    },
+    {
+      "name": "Knotted Cage",
+      "img": "1691943150099.png",
+      "img_short": "1691943150099_short.png",
+      "description": "Tightly coiled bark shrouds you like a second ribcage. Its embrace is surprisingly-and frighteningly-comforting.",
+      "source": "https://remnant2.wiki.fextralife.com//Knotted+Cage"
+    },
+    {
+      "name": "Labyrinth Mantle",
+      "img": "1691943155244.png",
+      "img_short": "1691943155244_short.png",
+      "description": "Though the cloth and tassels possess a seemingly primitive design, the pure energy wracking down your spine reminds you otherwise.",
+      "source": "https://remnant2.wiki.fextralife.com//Labyrinth+Mantle"
+    },
+    {
+      "name": "Leto Mark II Armor",
+      "img": "1691943160334.png",
+      "img_short": "1691943160334_short.png",
+      "description": "A masterpiece of impenetrability. Even though quick maneuvering is near impossible in this metal behemoth, you can't help but be impressed by the ingenuity of the design and the inspired craftsmanship.",
+      "source": "https://remnant2.wiki.fextralife.com//Leto+Mark+II+Armor"
+    },
+    {
+      "name": "Nightstalker Garb",
+      "img": "1691943165392.png",
+      "img_short": "1691943165392_short.png",
+      "description": "This old coat is shabby, but who's really looking? The wealth of interior ammunition pockets more than makes up for it.",
+      "source": "https://remnant2.wiki.fextralife.com//Nightstalker+Garb"
+    },
+    {
+      "name": "Radiant Protector",
+      "img": "1691943170404.png",
+      "img_short": "1691943170404_short.png",
+      "description": "A dazzling sight, its golden surface featuring a stunning sun burst pattern etched into the chest. Adorned with blue gems embedded in the shoulders this armor is fit for only the most esteemed members of the Laemir",
+      "source": "https://remnant2.wiki.fextralife.com//Radiant+Protector"
+    },
+    {
+      "name": "Realmwalker Tunic",
+      "img": "1691943175456.png",
+      "img_short": "1691943175456_short.png",
+      "description": "It's not even frayed. How is that possible? Unless the World Stones did the same thing to Ford's clothes as they did to Ford himself.",
+      "source": "https://remnant2.wiki.fextralife.com//Realmwalker+Tunic"
+    },
+    {
+      "name": "Red Widow Raiment",
+      "img": "1691943180596.png",
+      "img_short": "1691943180596_short.png",
+      "description": "This chestpiece must be hundreds -thousands- of years old, yet it shows no signi of rust or decay. One can only imagine a Pan king or queen wearing such  majestic regalia.",
+      "source": "https://remnant2.wiki.fextralife.com//Red+Widow+Raiment"
+    },
+    {
+      "name": "Space Worker Body",
+      "img": "1691943186128.png",
+      "img_short": "1691943186128_short.png",
+      "description": "It's made of some material you don't recognize - thick but highly pliable, did the Drzyr expect to get struck by out there?",
+      "source": "https://remnant2.wiki.fextralife.com//Space+Worker+Body"
+    },
+    {
+      "name": "Survivor Overcoat",
+      "img": "1691943191394.png",
+      "img_short": "1691943191394_short.png",
+      "description": "A combination of a sturdy metal chest plate and a worn, leather trench coat that provides some protection against the elements. It's clear that the ari together with practicality in mind, rather than aesthetics.",
+      "source": "https://remnant2.wiki.fextralife.com//Survivor+Overcoat"
+    },
+    {
+      "name": "Technician Bodyplate",
+      "img": "1691943196513.png",
+      "img_short": "1691943196513_short.png",
+      "description": "The Xul were engineers and builders, but this armor was made to withstand a grenade blast. Was this built for safety or something else?",
+      "source": "https://remnant2.wiki.fextralife.com//Technician+Bodyplate"
+    },
+    {
+      "name": "Trainer Clothes",
+      "img": "1691943201774.png",
+      "img_short": "1691943201774_short.png",
+      "description": "This isn't just any denim jacket, it's your denim jacket. It's not especial pdale. 7 ready, but it's comfortable, and in it you feel ready for anything. y, p If",
+      "source": "https://remnant2.wiki.fextralife.com//Trainer+Clothes"
+    },
+    {
+      "name": "Void Carapace",
+      "img": "1691943206822.png",
+      "img_short": "1691943206822_short.png",
+      "description": "Crafted from the same mysterious material as the Void gloves, helm, and greaves, the chest armor completes the set's unsettling aesthetic. Its angular design is both practical and intimidating, providing unparalleled protection against the deadly environments and creatures of Rhom.",
+      "source": "https://remnant2.wiki.fextralife.com//Void+Carapace"
+    }
+  ],
+  "legArmor": [
+    {
+      "name": "Academic's Trousers",
+      "img": "1691943212659.png",
+      "img_short": "1691943212659_short.png",
+      "description": "Expensive-looking shoes fit for a lecture hall...that wouldn't last a week outsid it.",
+      "source": "https://remnant2.wiki.fextralife.com//Academic's+Trousers"
+    },
+    {
+      "name": "Bruiser Boots",
+      "img": "1691943217597.png",
+      "img_short": "1691943217597_short.png",
+      "description": "While they're not exactly aesthetic, you're more comfortable in twice-temper steel and repurposed tire tread than you care to admit.",
+      "source": "https://remnant2.wiki.fextralife.com//Bruiser+Boots"
+    },
+    {
+      "name": "Dendroid Leggings",
+      "img": "1691943222757.png",
+      "img_short": "1691943222757_short.png",
+      "description": "The deadwood boots are surprisingly snug. You're not sure what you expecte shodding your feet inside the bloodthirsty branches of the Root, but it wasn't this cushioned comfort.",
+      "source": "https://remnant2.wiki.fextralife.com//Dendroid+Leggings"
+    },
+    {
+      "name": "Elder Leggings",
+      "img": "1691943227888.png",
+      "img_short": "1691943227888_short.png",
+      "description": "Designed for both form and function. Made from durable yet lightweight materials, they allow for a full range of movement and flexibility in combat.",
+      "source": "https://remnant2.wiki.fextralife.com//Elder+Leggings"
+    },
+    {
+      "name": "Fae Royal Greaves",
+      "img": "1691943232909.png",
+      "img_short": "1691943232909_short.png",
+      "description": "Although apparently made of steel, they feel lighter than any boots you've eve worn. No... you feel lighter when wearing them.",
+      "source": "https://remnant2.wiki.fextralife.com//Fae+Royal+Greaves"
+    },
+    {
+      "name": "Field Medic Trousers",
+      "img": "1691943237966.png",
+      "img_short": "1691943237966_short.png",
+      "description": "With an assortment of pockets, pouches, and loops for your various concoctioy you're essentially a walking apothecary.",
+      "source": "https://remnant2.wiki.fextralife.com//Field+Medic+Trousers"
+    },
+    {
+      "name": "High Noon Soles",
+      "img": "1691943243025.png",
+      "img_short": "1691943243025_short.png",
+      "description": "Durable pants with spurred boots and a strip of leather for a belt. The only accent is an imposing skull on the belt buckle, a constant reminder that death is always lurking in the shadows.",
+      "source": "https://remnant2.wiki.fextralife.com//High+Noon+Soles"
+    },
+    {
+      "name": "Knotted Greaves",
+      "img": "1691943248184.png",
+      "img_short": "1691943248184_short.png",
+      "description": "These boots are surprisingly light and agile, carrying you through foliage and bramble with ease. They seem to know where to go before you even lift you foot.",
+      "source": "https://remnant2.wiki.fextralife.com//Knotted+Greaves"
+    },
+    {
+      "name": "Labyrinth Treads",
+      "img": "1691943253606.png",
+      "img_short": "1691943253606_short.png",
+      "description": "The grime of a thousand different worlds mars the side of boots that walk in one place where all paths converge.",
+      "source": "https://remnant2.wiki.fextralife.com//Labyrinth+Treads"
+    },
+    {
+      "name": "Leto Mark II Leggings",
+      "img": "1691943258606.png",
+      "img_short": "1691943258606_short.png",
+      "description": "Strong yet streamlined. Practical yet aesthetic. Although you can't expect to make a quick getaway in these, they're just what you need to stand strong against the looming threat of destruction. The care and attention to detail t| went into them is something to behold.",
+      "source": "https://remnant2.wiki.fextralife.com//Leto+Mark+II+Leggings"
+    },
+    {
+      "name": "Nightstalker Pants",
+      "img": "1691943263755.png",
+      "img_short": "1691943263755_short.png",
+      "description": "Thin shoes that fit perfectly and feel like they practically disappear on your feet. They're ideal for stealthy maneuvering while stalking your prey.",
+      "source": "https://remnant2.wiki.fextralife.com//Nightstalker+Pants"
+    },
+    {
+      "name": "Radiant Greaves",
+      "img": "1691943268994.png",
+      "img_short": "1691943268994_short.png",
+      "description": "Gleaming golden plates overlap and protect the wearer's feet and shins. Originally designed to be worn by the Pan, it's impressive how the armor can be adapted to fit human proportions without sacrificing its durability or protective properties.",
+      "source": "https://remnant2.wiki.fextralife.com//Radiant+Greaves"
+    },
+    {
+      "name": "Realmwalker Pantaloons",
+      "img": "1691943274208.png",
+      "img_short": "1691943274208_short.png",
+      "description": "There is hardly a world where these boots haven't tread.",
+      "source": "https://remnant2.wiki.fextralife.com//Realmwalker+Pantaloons"
+    },
+    {
+      "name": "Red Widow Leggings",
+      "img": "1691943279584.png",
+      "img_short": "1691943279584_short.png",
+      "description": "Even though this armor was designed to be worn by a Pan warrior, you are still able wear it and benefit from its protection.",
+      "source": "https://remnant2.wiki.fextralife.com//Red+Widow+Leggings"
+    },
+    {
+      "name": "Space Worker Legs",
+      "img": "1691943284650.png",
+      "img_short": "1691943284650_short.png",
+      "description": "The magnets in the boots are far stronger than those in the gloves. It's unclear how they know when to activate, but they do so on their own. Massive as N'Erud is, it must not provide enough gravity to ensure its workers remain attached to...",
+      "source": "https://remnant2.wiki.fextralife.com//Space+Worker+Legs"
+    },
+    {
+      "name": "Survivor Leggings",
+      "img": "1691943289712.png",
+      "img_short": "1691943289712_short.png",
+      "description": "Provides minimal protection, but serve the purpose of covering up skin to prevent minor cuts and scrapes while trekking through rough terrain.",
+      "source": "https://remnant2.wiki.fextralife.com//Survivor+Leggings"
+    },
+    {
+      "name": "Technician Greaves",
+      "img": "1691943294937.png",
+      "img_short": "1691943294937_short.png",
+      "description": "Designed for stability rather than speed. Plant your weight in these things, and you'd be very difficult to move.",
+      "source": "https://remnant2.wiki.fextralife.com//Technician+Greaves"
+    },
+    {
+      "name": "Trainer Workboots",
+      "img": "1691943299972.png",
+      "img_short": "1691943299972_short.png",
+      "description": "Durable pants that are used to handling more than a little dirt and fur. The canteen is for your companion, while the flask is all yours.",
+      "source": "https://remnant2.wiki.fextralife.com//Trainer+Workboots"
+    },
+    {
+      "name": "Void Greaves",
+      "img": "1691943305118.png",
+      "img_short": "1691943305118_short.png",
+      "description": "A sturdy pair of footwear, expertly crafted from the same unknown material the other Void armor pieces. Their angular design and jagged edges give their wearer an intimidating and fearsome look. But these boots are more than fashion statement-they provided unparalleled protection and stability in the treacherous environments of Rhom.",
+      "source": "https://remnant2.wiki.fextralife.com//Void+Greaves"
+    }
+  ]
+}

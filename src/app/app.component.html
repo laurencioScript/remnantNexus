@@ -1,0 +1,114 @@
+<div class="container">
+  <h1> Remnant Nexus</h1>
+  <h4>Construa builds com facilidade, compartilhe e salve com simplicidade.</h4>
+
+  <div class="flex-container">
+    <div style="display: flex; flex-direction: column">
+      <div class="armorsAndJewelrys">
+        <div class="armor">
+
+          <div class="item" (click)="openDialog('headArmor', build.headArmor)">
+            <img [src]=" './../assets/imgs/items/' + build.headArmor.img_short" id="headArmorIMG" />
+          </div>
+
+
+          <div class="item" (click)="openDialog('bodyArmor', build.bodyArmor)">
+            <img [src]=" './../assets/imgs/items/' + build.bodyArmor.img_short" id="bodyArmorIMG" />
+          </div>
+
+
+
+          <div class="item" (click)="openDialog('glove', build.glove)">
+            <img [src]=" './../assets/imgs/items/' + build.glove.img_short" id="legArmorIMG" />
+          </div>
+
+
+
+          <div class="item" (click)="openDialog('legArmor', build.legArmor)">
+            <img [src]=" './../assets/imgs/items/' + build.legArmor.img_short" id="gloveIMG" />
+          </div>
+
+
+
+          <div class="item" (click)="openDialog('relic', build.relic)">
+            <img [src]=" './../assets/imgs/items/' + build.relic.img_short" id="relicIMG" />
+          </div>
+
+        </div>
+        <div class="jewelry">
+
+          <div class="item" (click)="openDialog('amulet', build.amulet)">
+            <img id="amuletIMG" [src]=" './../assets/imgs/items/' + build.amulet.img_short" />
+          </div>
+
+
+          <div class="item" (click)="openDialog('rings', build.rings[0])">
+            <img id="ring1IMG" [src]=" './../assets/imgs/items/' + build.rings[0].img_short" />
+          </div>
+
+
+
+          <div class="item" (click)="openDialog('rings', build.rings[1])">
+            <img id="ring2IMG" [src]=" './../assets/imgs/items/' + build.rings[1].img_short" />
+          </div>
+
+
+
+          <div class="item" (click)="openDialog('rings', build.rings[2])">
+            <img id="ring3IMG" [src]=" './../assets/imgs/items/' + build.rings[2].img_short" />
+          </div>
+
+
+
+          <div class="item" (click)="openDialog('rings', build.rings[3])">
+            <img id="ring4IMG" [src]=" './../assets/imgs/items/' + build.rings[3].img_short" />
+          </div>
+
+        </div>
+      </div>
+      <div class="weapons">
+
+        <div class="item" (click)="openDialog('longGun', build.longGun)">
+          <img id="longWeaponIMG" [src]=" './../assets/imgs/items/' + build.longGun.img_short" />
+        </div>
+
+
+
+        <div class="item" (click)="openDialog('meleeWeapon', build.meleWeapon)">
+          <img id="meleeWeaponIMG" [src]=" './../assets/imgs/items/' + build.meleWeapon.img_short" alt="" />
+        </div>
+
+
+
+        <div class="item" (click)="openDialog('handGun', build.handGun)">
+          <img id="handGunIMG" [src]=" './../assets/imgs/items/' + build.handGun.img_short" alt="" />
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <section class="sec-buttons">
+    <button mat-raised-button (click)="captureAndCopy()">Screenshot</button>
+    <button mat-raised-button (click)="captureAndDownload()">Download</button>
+  </section>
+  <div id="disqus_thread"></div>
+  <script>
+      /**
+      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+      /*
+      var disqus_config = function () {
+      this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+      this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      };
+      */
+      (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://remnant2builds.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+</div>

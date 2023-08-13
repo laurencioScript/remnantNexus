@@ -1,0 +1,247 @@
+$width: 280px;
+$height: 356px;
+$division: 1.25;
+$ligth-grey: #525252;
+$ligth-grey: #808080;
+$sizeArmorsAndJewelrys: 100px;
+$sizeWeapons: 200px;
+
+.container{
+    position: relative;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h1, h4 {
+        width: 40%;
+        text-align: center;        
+        margin: 8px 0;
+    }
+
+    h4{
+      font-weight: 200;
+      font-size: small;
+      margin-bottom: 16px;
+    }
+}
+
+
+mat-dialog-container {
+  background-color: greenyellow !important;
+}
+
+.armorsAndJewelrys {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+
+  div {
+    display: flex;
+    flex-direction: column;
+    .item {
+      margin-bottom: 10px;
+    }
+
+    .item:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.armorsAndJewelrys div .item img {
+  width: calc($sizeArmorsAndJewelrys / $division);
+  height: calc($sizeArmorsAndJewelrys / $division);
+}
+
+.modal.and.carousel {
+  position: fixed;
+}
+
+.weapons {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: row;
+  .item {
+    margin-right: 8px;
+    img {
+      width: calc($sizeWeapons / $division);
+      height: auto;
+    }
+  }
+  .item:last-child {
+    margin-right: 0px;
+  }
+}
+
+.item {
+  padding: 8px;
+  background-color: #111111;
+  border: 2px solid #282828;
+  border-radius: 15px;
+  box-shadow: rgba(63, 63, 63, 0.4) 0px 30px 90px;
+}
+
+.item :hover{
+  filter: drop-shadow(0px 4px 6px white);
+  cursor: pointer;
+}
+
+
+.carousel-inner div.item a img {
+  max-height: 80%;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.column-armor a img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  width: 200px;
+}
+
+.column-weapon {
+  display: flex;
+}
+
+.column-weapon a img {
+  width: 200px;
+  height: 377.14px;
+  margin: 0 8px;
+}
+
+.flex-container {
+  /* width:  80%; */
+  /* height: 90%; */
+  /* border: white 1px solid; */
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+  background: rgb(0,0,0,0.7);
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.jewelrys {
+  display: flex;
+  flex-direction: co;
+}
+
+.jewelrys .rings a img {
+  height: 175px;
+  width: 175px;
+  margin: 4px;
+  border: 2px solid #555;
+}
+
+.jewelrys .amulet {
+  text-align: center;
+}
+
+.jewelrys .amulet a img {
+  height: 250;
+  width: 200px;
+  margin: 4px;
+  border: 2px solid #555;
+}
+
+.modal-body {
+  height: 80%;
+  display: flex;
+  /* align-items: center;
+  justify-content: center; */
+  flex-direction: row;
+  overflow-x: auto;
+  flex-wrap: wrap;
+}
+
+header {
+  font-family: "Lobster", cursive;
+  text-align: center;
+  font-size: 25px;
+}
+
+#info {
+  font-size: 18px;
+  color: #555;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+a {
+  color: #074e8c;
+}
+
+.scrollbar {
+  margin-left: 30px;
+  float: left;
+  background: #f5f5f5;
+  overflow-y: scroll;
+  margin-bottom: 25px;
+}
+
+.force-overflow {
+  min-height: 450px;
+}
+
+#style-1 {
+  width: 95%;
+}
+
+#style-1::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background: transparent;
+}
+
+#style-1::-webkit-scrollbar {
+  width: 4px;
+  background: transparent;
+}
+
+#style-1::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  /* background-color: #555; */
+  background-color: #e45454;
+}
+
+.imgShort img {
+  width: 180px;
+  height: auto;
+  border: 1.5px solid var(--ligth-grey);
+  border-radius: 8px;
+}
+
+.imgMedium img {
+  width: 180px;
+  height: auto;
+  border: 1.5px solid var(--ligth-grey);
+  border-radius: 16px;
+}
+
+.itemModal {
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.itemModal:last-child {
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+.sec-buttons{
+    margin: 16px 0;
+
+    button:first-child{
+      margin-right: 16px;
+    }
+
+  
+}
+
+

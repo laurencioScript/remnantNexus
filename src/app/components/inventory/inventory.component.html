@@ -1,0 +1,23 @@
+
+
+<button  mat-icon-button mat-dialog-close class="closeButton">
+    <mat-icon>close</mat-icon>
+</button>
+<mat-form-field class="form-search">
+    <mat-label>Buscador</mat-label>
+    <input matInput type="text" [(ngModel)]="wordKey" (ngModelChange)="itemsFiltered()">
+    <button *ngIf="wordKey" matSuffix mat-icon-button aria-label="Clear" (click)="wordKey='';itemsFiltered()">
+      <mat-icon>close</mat-icon>
+    </button>
+  </mat-form-field>
+
+
+<div *ngIf="items.length == 0 || isLoading" class="alternative-content">
+    <p *ngIf="items.length == 0 && !isLoading">Nenhum resultado encontrado.</p>
+    <mat-spinner  *ngIf="isLoading"></mat-spinner>
+</div>
+<mat-dialog-content id="inventory" *ngIf="!isLoading">
+  <img class="item"   *ngFor="let item of items"  (click)="!checkValueExistsInBuild(item) && selectItem(item)"  
+  [ngClass]="{selected : selected.img == item.img , selectedOthers: checkValueExistsInBuild(item)}" [src]="'./../assets/imgs/items/' + item.img" alt="">
+</mat-dialog-content>
+<p *ngIf="items.length != 0 && !isLoading" class="counterSearch">{{items.length}}/{{allItems.length}}</p>
