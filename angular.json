@@ -40,7 +40,7 @@
           },
           "configurations": {
             "production": {
-              "baseHref": "./",
+              "baseHref": "/remnantNexus/",
               "budgets": [
                 {
                   "type": "initial",
