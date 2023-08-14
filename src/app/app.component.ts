@@ -4,7 +4,7 @@ import { MatDialog, MatDialogModule} from '@angular/material/dialog';
 import { InventoryComponent } from './components/inventory/inventory.component';
 import html2canvas from 'html2canvas';
 import { MatSnackBar } from '@angular/material/snack-bar';
-import * as dbImport  from './db.json';
+import * as dbImport  from './../assets/db.json';
 
 @Component({
   selector: 'app-root',
