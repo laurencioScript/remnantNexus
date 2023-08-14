@@ -4,7 +4,7 @@
   "compilerOptions": {
     "resolveJsonModule": true,
     "moduleResolution": "node",
-    "baseUrl": "./",
+    "baseUrl": "/remnant2build/",
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
     "strict": true,
