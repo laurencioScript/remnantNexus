@@ -13,7 +13,6 @@ import {MatSnackBarModule} from '@angular/material/snack-bar';
 import {MatInputModule} from '@angular/material/input';
 import { FormsModule } from '@angular/forms';
 import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
-import {LocationStrategy, HashLocationStrategy} from '@angular/common';
 
 
 @NgModule({
@@ -34,7 +33,7 @@ import {LocationStrategy, HashLocationStrategy} from '@angular/common';
     FormsModule,
     MatProgressSpinnerModule
   ],
-  providers: [ {provide: LocationStrategy, useClass: HashLocationStrategy}],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
