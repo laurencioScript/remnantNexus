@@ -17,6 +17,9 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+            "allowedCommonJsDependencies": [
+              "html2canvas"
+            ],
             "outputPath": "dist/remnant2build",
             "index": "src/index.html",
             "main": "src/main.ts",
