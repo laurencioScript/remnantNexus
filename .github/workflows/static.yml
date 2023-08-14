@@ -42,7 +42,7 @@ jobs:
     - run: npm run build --prod      
     - uses: actions/upload-pages-artifact@v2
       with:
-          path: './dist'
+          path: './dist/remnant2build'
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v2
