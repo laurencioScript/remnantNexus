@@ -6,25 +6,46 @@ $ligth-grey: #808080;
 $sizeArmorsAndJewelrys: 100px;
 $sizeWeapons: 200px;
 
+header{
+  background-color:#666666;
+  border-bottom: 1px solid #808080;
+  width: 100%;
+  text-align: center;
+  
+  .logo{
+    width: 20%;
+  }
+  h4{
+    margin: 8px 8px 16px 8px;
+    text-align: center;
+    font-weight: 600;
+    font-size: small;
+  }
+
+  margin-bottom: 4px;
+}
+
 .container{
-    position: relative;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  
+  height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
-    h1, h4 {
-        width: 40%;
-        text-align: center;        
-        margin: 8px 0;
-    }
+}
 
-    h4{
-      font-weight: 200;
-      font-size: small;
-      margin-bottom: 16px;
-    }
+.flex-container {
+  border-bottom: 1px solid #808080;
+  border-top: 1px solid #808080;
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+  background: rgb(0,0,0,0.7);
+  z-index: 1;
+  width: 100%;
+  padding: 16px 0;
+  justify-content: center;
 }
 
 
@@ -37,12 +58,12 @@ mat-dialog-container {
   flex-direction: row;
   width: 100%;
   justify-content: space-between;
-
+  margin-bottom: 8px;
   div {
     display: flex;
     flex-direction: column;
     .item {
-      margin-bottom: 10px;
+      margin-bottom: 14px;
     }
 
     .item:last-child {
@@ -65,7 +86,7 @@ mat-dialog-container {
   display: flex;
   flex-direction: row;
   .item {
-    margin-right: 8px;
+    margin-right: 14px;
     img {
       width: calc($sizeWeapons / $division);
       height: auto;
@@ -76,18 +97,11 @@ mat-dialog-container {
   }
 }
 
-.item {
-  padding: 8px;
-  background-color: #111111;
-  border: 2px solid #282828;
-  border-radius: 15px;
-  box-shadow: rgba(63, 63, 63, 0.4) 0px 30px 90px;
-}
 
-.item :hover{
-  filter: drop-shadow(0px 4px 6px white);
-  cursor: pointer;
-}
+// .item :hover{
+//   filter: drop-shadow(0px 4px 6px white);
+//   cursor: pointer;
+// }
 
 
 .carousel-inner div.item a img {
@@ -114,17 +128,7 @@ mat-dialog-container {
   margin: 0 8px;
 }
 
-.flex-container {
-  /* width:  80%; */
-  /* height: 90%; */
-  /* border: white 1px solid; */
-  display: flex;
-  flex-direction: row;
-  overflow: hidden;
-  background: rgb(0,0,0,0.7);
-  padding: 12px;
-  border-radius: 8px;
-}
+
 
 .jewelrys {
   display: flex;
@@ -157,12 +161,6 @@ mat-dialog-container {
   flex-direction: row;
   overflow-x: auto;
   flex-wrap: wrap;
-}
-
-header {
-  font-family: "Lobster", cursive;
-  text-align: center;
-  font-size: 25px;
 }
 
 #info {
@@ -245,3 +243,53 @@ a {
 }
 
 
+.item {
+  cursor: pointer;
+  background: #1a1a1a;
+  border-radius: 15px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 8px;
+  border: 2px solid #282828;
+  border-radius: 15px;
+}
+
+.item:before {
+  position: absolute;
+  content: "";
+  top: -0.25em;
+  left: -0.25em;
+  background: linear-gradient(51deg, #808080, #404040, #808080, #404040);
+  z-index: -1;
+  width: calc(100% + 0.5em);
+  height: calc(100% + 0.5em);
+  border-radius: 15px;
+  animation: gradient 5s ease infinite;
+  background-size: 350% 350% !important;
+  box-shadow: 0 8px 12px #808080;
+  transition: 0.5s ease-in-out;
+}
+
+.item:hover:before {
+  animation: gradient 5s ease infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+    box-shadow: 0px 0px 15px #525252;
+  }
+
+  50% {
+    background-position: 100% 50%;
+    box-shadow: 0 0px 10px #525252;
+  }
+
+  100% {
+    background-position: 0% 50%;
+    box-shadow: 0px 0px 20px #525252;
+  }
+}
