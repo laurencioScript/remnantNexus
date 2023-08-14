@@ -1,6 +1,6 @@
-import { Component, ElementRef, ViewChild } from '@angular/core';
+import { Component } from '@angular/core';
 import { GetDataService } from './services/get-data.service';
-import { MatDialog, MatDialogModule} from '@angular/material/dialog';
+import { MatDialog } from '@angular/material/dialog';
 import { InventoryComponent } from './components/inventory/inventory.component';
 import html2canvas from 'html2canvas';
 import { MatSnackBar } from '@angular/material/snack-bar';
