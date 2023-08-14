@@ -20,7 +20,7 @@
             "allowedCommonJsDependencies": [
               "html2canvas"
             ],
-            "outputPath": "dist/remnant2build",
+            "outputPath": "docs",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
