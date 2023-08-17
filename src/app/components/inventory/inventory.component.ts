@@ -48,13 +48,9 @@ export class InventoryComponent {
       return true;
     }
   
-    // Check the other properties directly
-    const propertiesToCheck = [
-      'meleWeapon', 'longGun', 'handGun', 'amulet', 'relic',
-      'headArmor', 'glove', 'bodyArmor', 'legArmor'
-    ];
+    const propertiesToCheck = Object.keys(this.build);
   
-    if (propertiesToCheck.some(prop => this.build[prop].img === value.img)) {
+    if (propertiesToCheck.some(prop => this.build[prop]?.img === value?.img)) {
       return true;
     }
   

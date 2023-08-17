@@ -73,18 +73,36 @@
 
         <div class="item" (click)="openDialog('longGun', build.longGun)">
           <img id="longWeaponIMG" [src]=" 'assets/imgs/items/' + build.longGun.img_short" />
+          <div class="modAndMutator fixedLeft" (click)="openDialog('modLongGun', build.modLongGun, $event)">
+            <img *ngIf="build.modLongGun" [src]=" 'assets/imgs/items/' + build.modLongGun.img_short" />
+          </div>
+          <div class="modAndMutator fixedRight" (click)="openDialog('mutatorLongGun', build.mutatorLongGun, $event)">
+            <img *ngIf="build.mutatorLongGun" [src]=" 'assets/imgs/items/' + build.mutatorLongGun.img_short" />
+          </div>
         </div>
 
 
 
         <div class="item" (click)="openDialog('meleeWeapon', build.meleWeapon)">
           <img id="meleeWeaponIMG" [src]=" 'assets/imgs/items/' + build.meleWeapon.img_short" alt="" />
+          <div *ngIf="build.modMeleeGun" class="modAndMutator fixedLeft" (click)="openDialog('modMeleeGun', build.modMeleeWeapon, $event)">
+            <img  [src]=" 'assets/imgs/items/' + build.modMeleeGun.img_short" />
+          </div>
+          <div class="modAndMutator fixedRight" (click)="openDialog('mutatorMeleeWeapon', build.mutatorMeleeWeapon, $event)">
+            <img *ngIf="build.mutatorMeleeWeapon" [src]=" 'assets/imgs/items/' + build.mutatorMeleeWeapon.img_short" />
+          </div>
         </div>
 
 
 
         <div class="item" (click)="openDialog('handGun', build.handGun)">
           <img id="handGunIMG" [src]=" 'assets/imgs/items/' + build.handGun.img_short" alt="" />
+          <div class="modAndMutator fixedLeft" (click)="openDialog('modHandGun', build.modHandGun, $event)">
+            <img *ngIf="build.modHandGun" [src]=" 'assets/imgs/items/' + build.modHandGun.img_short" />
+          </div>
+          <div class="modAndMutator fixedRight" (click)="openDialog('mutatorHandGun', build.mutatorHandGun, $event)">
+            <img *ngIf="build.mutatorHandGun" [src]=" 'assets/imgs/items/' + build.mutatorHandGun.img_short" />
+          </div>
         </div>
 
       </div>

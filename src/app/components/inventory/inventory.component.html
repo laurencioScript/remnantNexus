@@ -18,6 +18,6 @@
 </div>
 <mat-dialog-content id="inventory" *ngIf="!isLoading">
   <img class="item"   *ngFor="let item of items"  (click)="!checkValueExistsInBuild(item) && selectItem(item)"  
-  [ngClass]="{selected : selected.img == item.img , selectedOthers: checkValueExistsInBuild(item)}" [src]="'assets/imgs/items/' + item.img" alt="">
+  [ngClass]="{selected : selected?.img == item?.img , selectedOthers: checkValueExistsInBuild(item)}" [src]="'assets/imgs/items/' + item.img" alt="">
 </mat-dialog-content>
 <p *ngIf="items.length != 0 && !isLoading" class="counterSearch">{{items.length}}/{{allItems.length}}</p>

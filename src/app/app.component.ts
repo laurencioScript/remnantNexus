@@ -1,5 +1,4 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
-import { GetDataService } from './services/get-data.service';
 import { MatDialog, MatDialogModule} from '@angular/material/dialog';
 import { InventoryComponent } from './components/inventory/inventory.component';
 import html2canvas from 'html2canvas';
@@ -16,7 +15,7 @@ export class AppComponent {
   db : any = {}
   build : any = {}
 
-  constructor(private getData : GetDataService, public dialog: MatDialog, 
+  constructor(public dialog: MatDialog, 
     public snackbar : MatSnackBar){}
   
 
@@ -27,8 +26,14 @@ export class AppComponent {
       this.build = {
         rings: [this.db.rings[0], this.db.rings[1], this.db.rings[2], this.db.rings[3]],
         meleWeapon: this.db.meleeWeapon[0],
+        modMeleeWeapon: null,
+        mutatorMeleeWeapon: null,
         longGun: this.db.longGun[0],
+        modLongGun: null,
+        mutatorLongGun: null,
         handGun: this.db.handGun[0],
+        modHandGun: null,
+        mutatorHandGun: null,
         amulet: this.db.amulet[0],
         relic: this.db.relic[0],
         headArmor: this.db.headArmor[0],
@@ -40,23 +45,49 @@ export class AppComponent {
     
   }
 
- 
+ filterSpecificItems(items, type){
+  
+  if(type == "modLongGun" || type == "modHandGun"){
+    return items.weaponMods.filter(i => !i.exclusive)
+  }
 
-  openDialog(data: string, selected: any) {
+  if(type == "mutatorLongGun" || type == "mutatorHandGun"){
+    return items.mutators.filter(i => i.type == "Ranged")
+  }
+
+  if(type == "mutatorMeleeWeapon"){
+    return items.mutators.filter(i => i.type == "Melee")
+  }
+
+  return items[type]
+ }
+
+  openDialog(data: string, selected: any, event ?: Event) {
+   
+    if(event){
+      event.stopPropagation()
+    }
+
+    const items = this.filterSpecificItems(this.db, data);
+
     const dialogRef = this.dialog.open(InventoryComponent, {
       width: '80%',
       height:'80%',
       autoFocus: false,
-      data: { items: this.db[data], build: this.build, selected},
+      data: { items , build: this.build, selected},
     });
   
     dialogRef.afterClosed().subscribe(value => {
       if (value) {
         for (const key in this.build) {
           if (Array.isArray(this.build[key])) {
-            this.build[key] = this.build[key].map(k => (k.img === selected.img) ? value : k);
-          } else if (this.build[key].img === selected.img) {
+            this.build[key] = this.build[key].map(k => (k.img === selected?.img) ? value : k);
+          } else if (this.build[key].img === selected?.img) {
             this.build[key] = value;
+            break;
+          }
+          else{
+            this.build[data] = value;
             break;
           }
         }

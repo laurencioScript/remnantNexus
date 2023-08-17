@@ -1254,6 +1254,22 @@
       "img_short": "1691940721343_short.png",
       "description": "An expertly balanced blade that is the produc of advanced Fae metallurgy.",
       "source": "https://remnant2.wiki.fextralife.com//Godsplitter"
+    },
+    {
+      "name": "Smolder",
+      "img": "1692200437687.png",
+      "img_short": "1692200437687_short.png",
+      "description": "Ascorched blade imbued with FIRE.",
+      "source": "https://remnant2.wiki.fextralife.com/Smolder",
+      "path": "meleeWeapon"
+    },
+    {
+      "name": "World's Edge",
+      "img": "1692200443479.png",
+      "img_short": "1692200443479_short.png",
+      "description": "A glowing Greatsword forged from shards of a shattered Worldstone. Chargeattacks cast waves.",
+      "source": "https://remnant2.wiki.fextralife.com/World's+Edge",
+      "path": "meleeWeapon"
     }
   ],
   "longGun": [
@@ -2685,5 +2701,1741 @@
       "description": "A sturdy pair of footwear, expertly crafted from the same unknown material the other Void armor pieces. Their angular design and jagged edges give their wearer an intimidating and fearsome look. But these boots are more than fashion statement-they provided unparalleled protection and stability in the treacherous environments of Rhom.",
       "source": "https://remnant2.wiki.fextralife.com//Void+Greaves"
     }
-  ]
+  ],
+  "traits": [
+    {
+      "name": "Ammo Reserves",
+      "img": "1692192255957.png",
+      "img_short": "1692192255957_short.png",
+      "description": "Increases Ammo Reserves",
+      "source": "https://remnant2.wiki.fextralife.com//Ammo+Reserves",
+      "path": "traits"
+    },
+    {
+      "name": "Kinship",
+      "img": "1692192261784.png",
+      "img_short": "1692192261784_short.png",
+      "description": "Reduces Friendly Fire damage dealt and received",
+      "source": "https://remnant2.wiki.fextralife.com//Kinship",
+      "path": "traits"
+    },
+    {
+      "name": "Longshot",
+      "img": "1692192266763.png",
+      "img_short": "1692192266763_short.png",
+      "description": "Increases Weapon Ideal Range",
+      "source": "https://remnant2.wiki.fextralife.com//Longshot",
+      "path": "traits"
+    },
+    {
+      "name": "Potency",
+      "img": "1692192271878.png",
+      "img_short": "1692192271878_short.png",
+      "description": "Increases Consumable Duration",
+      "source": "https://remnant2.wiki.fextralife.com//Potency",
+      "path": "traits"
+    },
+    {
+      "name": "Regrowth",
+      "img": "1692192277644.png",
+      "img_short": "1692192277644_short.png",
+      "description": "Increases Health Regeneration",
+      "source": "https://remnant2.wiki.fextralife.com//Regrowth",
+      "path": "traits"
+    },
+    {
+      "name": "Strong Back",
+      "img": "1692192283166.png",
+      "img_short": "1692192283166_short.png",
+      "description": "Decreases Encumbrance",
+      "source": "https://remnant2.wiki.fextralife.com//Strong+Back",
+      "path": "traits"
+    },
+    {
+      "name": "Flash Caster",
+      "img": "1692192288518.png",
+      "img_short": "1692192288518_short.png",
+      "description": "Increases Mod and Casting Speed",
+      "source": "https://remnant2.wiki.fextralife.com//Flash+Caster",
+      "path": "traits"
+    },
+    {
+      "name": "Fortify",
+      "img": "1692192293995.png",
+      "img_short": "1692192293995_short.png",
+      "description": "Increases Armor Effectiveness",
+      "source": "https://remnant2.wiki.fextralife.com//Fortify",
+      "path": "traits"
+    },
+    {
+      "name": "Untouchable",
+      "img": "1692192299712.png",
+      "img_short": "1692192299712_short.png",
+      "description": "Increases Evade Window",
+      "source": "https://remnant2.wiki.fextralife.com//Untouchable",
+      "path": "traits"
+    },
+    {
+      "name": "Swiftness",
+      "img": "1692192305125.png",
+      "img_short": "1692192305125_short.png",
+      "description": "Increases movement",
+      "source": "https://remnant2.wiki.fextralife.com//Swiftness",
+      "path": "traits"
+    },
+    {
+      "name": "Triage",
+      "img": "1692192310101.png",
+      "img_short": "1692192310101_short.png",
+      "description": "Increases Healing Mod",
+      "source": "https://remnant2.wiki.fextralife.com//Triage",
+      "path": "traits"
+    },
+    {
+      "name": "Endurance",
+      "img": "1692192315012.png",
+      "img_short": "1692192315012_short.png",
+      "description": "Increases Maximum Stamina",
+      "source": "https://remnant2.wiki.fextralife.com//Endurance",
+      "path": "traits"
+    },
+    {
+      "name": "Expertise",
+      "img": "1692192320290.png",
+      "img_short": "1692192320290_short.png",
+      "description": "Reduces Skill Cooldowns",
+      "source": "https://remnant2.wiki.fextralife.com//Expertise",
+      "path": "traits"
+    },
+    {
+      "name": "Spirit",
+      "img": "1692192325461.png",
+      "img_short": "1692192325461_short.png",
+      "description": "Increases Mod Power Generation",
+      "source": "https://remnant2.wiki.fextralife.com//Spirit",
+      "path": "traits"
+    },
+    {
+      "name": "Vigor",
+      "img": "1692192368481.png",
+      "img_short": "1692192368481_short.png",
+      "description": "Increases Maximum Health",
+      "source": "https://remnant2.wiki.fextralife.com//Vigor",
+      "path": "traits"
+    },
+    {
+      "name": "Amplitude",
+      "img": "1692192373739.png",
+      "img_short": "1692192373739_short.png",
+      "description": "Increases AOE Size",
+      "source": "https://remnant2.wiki.fextralife.com//Amplitude",
+      "path": "traits"
+    },
+    {
+      "name": "Arcane Strike",
+      "img": "1692192378859.png",
+      "img_short": "1692192378859_short.png",
+      "description": "Increases Mod Power Generation from Melee Damage",
+      "source": "https://remnant2.wiki.fextralife.com//Arcane+Strike",
+      "path": "traits"
+    },
+    {
+      "name": "Barkskin",
+      "img": "1692192384142.png",
+      "img_short": "1692192384142_short.png",
+      "description": "Reduces ALL incoming Damage",
+      "source": "https://remnant2.wiki.fextralife.com//Barkskin",
+      "path": "traits"
+    },
+    {
+      "name": "Blood Bond",
+      "img": "1692192389548.png",
+      "img_short": "1692192389548_short.png",
+      "description": "Archetype Summons absorb X% of damage taken by the caster",
+      "source": "https://remnant2.wiki.fextralife.com//Blood+Bond",
+      "path": "traits"
+    },
+    {
+      "name": "Bloodstream",
+      "img": "1692192394909.png",
+      "img_short": "1692192394909_short.png",
+      "description": "Increases Grey Health regen",
+      "source": "https://remnant2.wiki.fextralife.com//Bloodstream",
+      "path": "traits"
+    },
+    {
+      "name": "Fitness",
+      "img": "1692192400149.png",
+      "img_short": "1692192400149_short.png",
+      "description": "Increases Evade Distance",
+      "source": "https://remnant2.wiki.fextralife.com//Fitness",
+      "path": "traits"
+    },
+    {
+      "name": "Footwork",
+      "img": "1692192405439.png",
+      "img_short": "1692192405439_short.png",
+      "description": "Increases Movement Speed while Aiming",
+      "source": "https://remnant2.wiki.fextralife.com//Footwork",
+      "path": "traits"
+    },
+    {
+      "name": "Glutton",
+      "img": "1692192410696.png",
+      "img_short": "1692192410696_short.png",
+      "description": "Increases the Use Speed of Consumables and Relics",
+      "source": "https://remnant2.wiki.fextralife.com//Glutton",
+      "path": "traits"
+    },
+    {
+      "name": "Handling",
+      "img": "1692192415756.png",
+      "img_short": "1692192415756_short.png",
+      "description": "Reduces Weapon Spread and Recoil",
+      "source": "https://remnant2.wiki.fextralife.com//Handling",
+      "path": "traits"
+    },
+    {
+      "name": "Recovery",
+      "img": "1692192421167.png",
+      "img_short": "1692192421167_short.png",
+      "description": "Increases Stamina Regen",
+      "source": "https://remnant2.wiki.fextralife.com//Recovery",
+      "path": "traits"
+    },
+    {
+      "name": "Resonance",
+      "img": "1692192426443.png",
+      "img_short": "1692192426443_short.png",
+      "description": "Increases Aura Size",
+      "source": "https://remnant2.wiki.fextralife.com//Resonance",
+      "path": "traits"
+    },
+    {
+      "name": "Revivalist",
+      "img": "1692192432091.png",
+      "img_short": "1692192432091_short.png",
+      "description": "Increases the Speed of Reviving and being Revived",
+      "source": "https://remnant2.wiki.fextralife.com//Revivalist",
+      "path": "traits"
+    },
+    {
+      "name": "Rugged",
+      "img": "1692192437490.png",
+      "img_short": "1692192437490_short.png",
+      "description": "Increases the Health of Archetype Summons",
+      "source": "https://remnant2.wiki.fextralife.com//Rugged",
+      "path": "traits"
+    },
+    {
+      "name": "Scholar",
+      "img": "1692192442543.png",
+      "img_short": "1692192442543_short.png",
+      "description": "Increases Experience Gain",
+      "source": "https://remnant2.wiki.fextralife.com//Scholar",
+      "path": "traits"
+    },
+    {
+      "name": "Shadeskin",
+      "img": "1692192447679.png",
+      "img_short": "1692192447679_short.png",
+      "description": "Increases Resistance to Elemental Status Effect Damage",
+      "source": "https://remnant2.wiki.fextralife.com//Shadeskin",
+      "path": "traits"
+    },
+    {
+      "name": "Siphoner",
+      "img": "1692192452953.png",
+      "img_short": "1692192452953_short.png",
+      "description": "Increases Lifesteal",
+      "source": "https://remnant2.wiki.fextralife.com//Siphoner",
+      "path": "traits"
+    },
+    {
+      "name": "Wayfarer",
+      "img": "1692192458361.png",
+      "img_short": "1692192458361_short.png",
+      "description": "Increases Enviroment Movement Speed (Vaulting, Ladders, Wading)",
+      "source": "https://remnant2.wiki.fextralife.com//Wayfarer",
+      "path": "traits"
+    }
+  ],
+  "relicFragments": [
+    {
+      "name": "Cracked Ammo Pickups",
+      "img": "1692192465329.png",
+      "img_short": "1692192465329_short.png",
+      "description": "X% Ammo Pickups",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Ammo+Pickups",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Ammo Reserves",
+      "img": "1692192471649.png",
+      "img_short": "1692192471649_short.png",
+      "description": "X% Ammo Reserves",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Ammo+Reserves",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Armor Effectiveness",
+      "img": "1692192477412.png",
+      "img_short": "1692192477412_short.png",
+      "description": "+X% Armor",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Armor+Effectiveness",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Blight Resistance",
+      "img": "1692192483070.png",
+      "img_short": "1692192483070_short.png",
+      "description": "+X% Blight Resistance",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Blight+Resistance",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Casting Speed",
+      "img": "1692192488473.png",
+      "img_short": "1692192488473_short.png",
+      "description": "X% Mod & Skill Cast Speed",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Casting+Speed",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Charge Melee Cost",
+      "img": "1692192493644.png",
+      "img_short": "1692192493644_short.png",
+      "description": "-X% Melee Charge Attack Stamina Cost",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Charge+Melee+Cost",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Consumable Duration",
+      "img": "1692192499346.png",
+      "img_short": "1692192499346_short.png",
+      "description": "X% Consumable Duration",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Consumable+Duration",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Consumable Speed",
+      "img": "1692192504678.png",
+      "img_short": "1692192504678_short.png",
+      "description": "X% Consumable Use Speed",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Consumable+Speed",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Damage Reduction",
+      "img": "1692192510377.png",
+      "img_short": "1692192510377_short.png",
+      "description": "X% Damage Reduction",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Damage+Reduction",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Elemental Damage",
+      "img": "1692192516256.png",
+      "img_short": "1692192516256_short.png",
+      "description": "X% Elemental Damage",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Elemental+Damage",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Elemental Resistance",
+      "img": "1692192522379.png",
+      "img_short": "1692192522379_short.png",
+      "description": "X% Elemental Damage Resistance",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Elemental+Resistance",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Grey Health Rate",
+      "img": "1692192528140.png",
+      "img_short": "1692192528140_short.png",
+      "description": "+X% Health",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Grey+Health+Rate",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Healing Effectiveness",
+      "img": "1692192533583.png",
+      "img_short": "1692192533583_short.png",
+      "description": "+X% Healing Effectiveness",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Healing+Effectiveness",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Health",
+      "img": "1692192538714.png",
+      "img_short": "1692192538714_short.png",
+      "description": "+X% Health",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Health",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Melee Attack Speed",
+      "img": "1692192543906.png",
+      "img_short": "1692192543906_short.png",
+      "description": "+X% Melee Attack Speed",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Melee+Attack+Speed",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Melee Critical Chance",
+      "img": "1692192549294.png",
+      "img_short": "1692192549294_short.png",
+      "description": "+X% Melee Crit Chance",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Melee+Critical+Chance",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Melee Critical Damage",
+      "img": "1692192554655.png",
+      "img_short": "1692192554655_short.png",
+      "description": "+X% Melee Crit Chance",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Melee+Critical+Damage",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Melee Damage",
+      "img": "1692192559923.png",
+      "img_short": "1692192559923_short.png",
+      "description": "+X% Melee Damage",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Melee+Damage",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Mod Cost",
+      "img": "1692192564932.png",
+      "img_short": "1692192564932_short.png",
+      "description": "-X% Mod Cost",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Mod+Cost",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Mod Damage",
+      "img": "1692192570351.png",
+      "img_short": "1692192570351_short.png",
+      "description": "X% Mod Damage",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Mod+Damage",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Mod Duration",
+      "img": "1692192575258.png",
+      "img_short": "1692192575258_short.png",
+      "description": "+X% Mod Duration",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Mod+Duration",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Ranged Critical Chance",
+      "img": "1692192580570.png",
+      "img_short": "1692192580570_short.png",
+      "description": "+X% Ranged Crit Chance",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Ranged+Critical+Chance",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Ranged Critical Damage",
+      "img": "1692192585754.png",
+      "img_short": "1692192585754_short.png",
+      "description": "+X% Ranged Crit Damage",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Ranged+Critical+Damage",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Ranged Damage",
+      "img": "1692192590947.png",
+      "img_short": "1692192590947_short.png",
+      "description": "+X% Ranged Damage",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Ranged+Damage",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Ranged Fire Rate",
+      "img": "1692192596039.png",
+      "img_short": "1692192596039_short.png",
+      "description": "+X% Fire Rate",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Ranged+Fire+Rate",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Ranged Weakspot Damage",
+      "img": "1692192601108.png",
+      "img_short": "1692192601108_short.png",
+      "description": "+X% Weakspot Damage",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Ranged+Weakspot+Damage",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Recoil",
+      "img": "1692192607972.png",
+      "img_short": "1692192607972_short.png",
+      "description": "-X% Recoil",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Recoil",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Revive Speed",
+      "img": "1692192613350.png",
+      "img_short": "1692192613350_short.png",
+      "description": "X% Revive Speed",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Revive+Speed",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Shield Effectiveness",
+      "img": "1692192618670.png",
+      "img_short": "1692192618670_short.png",
+      "description": "+X% Shield Amount",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Shield+Effectiveness",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Skill Cooldown",
+      "img": "1692192624114.png",
+      "img_short": "1692192624114_short.png",
+      "description": "+X% Skill Cooldown",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Skill+Cooldown",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Skill Damage",
+      "img": "1692192629126.png",
+      "img_short": "1692192629126_short.png",
+      "description": "X% Skill Damage",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Skill+Damage",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Skill Duration",
+      "img": "1692192634214.png",
+      "img_short": "1692192634214_short.png",
+      "description": "+X% Skill Duration",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Skill+Duration",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Spread Recovery",
+      "img": "1692192639518.png",
+      "img_short": "1692192639518_short.png",
+      "description": "X% Reticle Spread Recovery",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Spread+Recovery",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Stagger Damage",
+      "img": "1692192645605.png",
+      "img_short": "1692192645605_short.png",
+      "description": "+X% Stagger Damage",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Stagger+Damage",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Stamina",
+      "img": "1692192650934.png",
+      "img_short": "1692192650934_short.png",
+      "description": "+X% Stamina",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Stamina",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Stamina Cost",
+      "img": "1692192656286.png",
+      "img_short": "1692192656286_short.png",
+      "description": "-X% Reduced Stamina Cost",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Stamina+Cost",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Stamina Recovery Delay",
+      "img": "1692192661762.png",
+      "img_short": "1692192661762_short.png",
+      "description": "-X% Stamina Recovery Delay",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Stamina+Recovery+Delay",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Weapon Spread",
+      "img": "1692192667960.png",
+      "img_short": "1692192667960_short.png",
+      "description": "-X% Weapon Spread",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Weapon+Spread",
+      "path": "relicFragments"
+    },
+    {
+      "name": "Cracked Weapon Swap",
+      "img": "1692192673509.png",
+      "img_short": "1692192673509_short.png",
+      "description": "X% Weapon Swap Speed",
+      "source": "https://remnant2.wiki.fextralife.com//Cracked+Weapon+Swap",
+      "path": "relicFragments"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Attack Dog",
+      "img": "1692194159652.png",
+      "img_short": "1692194159652_short.png",
+      "description": "Companion will follow the Handler and deal 20% additional damage. SINGLE PRESS: Compabion engages enemies near the targeted location. DOUBLE TAP: Companion returns to the Handler and remains by their side. HOLD: Howl increases damage by 20% for all allies within 20m. Lasts 20s.Cooldown: 90s",
+      "source": "https://remnant2.wiki.fextralife.com/Attack+Dog",
+      "path": "skills",
+      "type": "Handler"
+    },
+    {
+      "name": "Bulletstorm",
+      "img": "1692194165594.png",
+      "img_short": "1692194165594_short.png",
+      "description": "Unleashes the full power and speed of the Gunslinger. Increases Fire Rate 20% and Reload Speed 50% of all ranged weapons. Lasts 20s. Single Shot Weapons become fully-automatic. Kills instantly reload the current weapon. Instead of becoming fully-automatic, Bows and Crossbows gain 15% Critical Chance and 50% incresed Projectile Speed.Cooldown: 57.6s",
+      "source": "https://remnant2.wiki.fextralife.com/Bulletstorm",
+      "path": "skills",
+      "type": "Gunslinger"
+    },
+    {
+      "name": "Fortune Hunter",
+      "img": "1692194171723.png",
+      "img_short": "1692194171723_short.png",
+      "description": "Increases the Explorer's treasure sense to reveal special items within 40m for all allies. Lasts 60s.Cooldown: 90s",
+      "source": "https://remnant2.wiki.fextralife.com/Fortune+Hunter",
+      "path": "skills",
+      "type": "Explorer"
+    },
+    {
+      "name": "Gold Digger",
+      "img": "1692194176784.png",
+      "img_short": "1692194176784_short.png",
+      "description": "Dig into the ground to spring a fountain which grants a random buff. Fountains last 45s and their buffs last 20s.Fountains can grant either: 10% increased damage, 15% damage reduction, 2 Health Regeneration per second, or HASTE.Cooldown: 45s",
+      "source": "https://remnant2.wiki.fextralife.com/Gold+Digger",
+      "path": "skills",
+      "type": "Explorer"
+    },
+    {
+      "name": "Guard Dog",
+      "img": "1692194182520.png",
+      "img_short": "1692194182520_short.png",
+      "description": "Companion will follow the Handler and generate 15% incresed Threat while attacking. All damage to them is reduced by 20%. SINGLE PRESS: Companion engages enemies near the targeted location.DOUBLE TAP: Companion returns to the Handler and remains by their side. HOLD: Howl reduces damage by 15% to all allies within 20m and the Companion generates additional Threat. Lasts 20s.Cooldown: 90s",
+      "source": "https://remnant2.wiki.fextralife.com/Guard+Dog",
+      "path": "skills",
+      "type": "Handler"
+    },
+    {
+      "name": "Healing Shield",
+      "img": "1692194188221.png",
+      "img_short": "1692194188221_short.png",
+      "description": "The Medic Quickly expels healing energy to SHIELD all allies within 25m for 100% of their Max Health for 10s. While shielded, allies regenerate 21% of their Max Health over the duration. Cooldown: 96s",
+      "source": "https://remnant2.wiki.fextralife.com/Healing+Shield",
+      "path": "skills",
+      "type": "Medic"
+    },
+    {
+      "name": "Hunter's Focus",
+      "img": "1692194193763.png",
+      "img_short": "1692194193763_short.png",
+      "description": "Continously Aiming Down Sights uninterrupted and without shooting for 1s causes the Hunter to enter a FOCUSED state. FOCUSED reduces Weapon Spread, Recoil, and Sway by 75% and grants 25% Ranged & Ranged Weaspot Damage, and 10% Ranged Crit Chance.",
+      "source": "https://remnant2.wiki.fextralife.com/Hunter's+Focus",
+      "path": "skills",
+      "type": "Hunter"
+    },
+    {
+      "name": "Hunter's Mark",
+      "img": "1692194198550.png",
+      "img_short": "1692194198550_short.png",
+      "description": "Increases the Hunter's spatial awareness by casting an Aura that automatically applies MARK to all enemies within 35m. While senses are heightened, Hunter also gains 15% increased Ragend and Melee damage. Lasts 25s.Cooldown: 70sMARK: Crit Chance against MARKED enemies is increased by 15% for all allies.",
+      "source": "https://remnant2.wiki.fextralife.com/Hunter's+Mark",
+      "path": "skills",
+      "type": "Hunter"
+    },
+    {
+      "name": "Hunter's Shroud",
+      "img": "1692194204634.png",
+      "img_short": "1692194204634_short.png",
+      "description": "Hunter becomes Shrouded, reducing enemy awareness and making them harder to hit while moving. Attacking or activating a Mod or Skill will instantly exit Shroud.Exiting Shroud applies MARK to all enemies within 10m and grants AMBUSH to the Hunter for 2s. AMBUSH: Increases Ranged and Melee Damage by 50% which diminishes over its duration. Ranged and Melee attacks apply MARK.Hunter will automatically Shorud again after 1.15s if no offensive action are performed. Lasts 15s.Coolown: 86.4sMARK: Crit Chance against MARKED enemies is increased by 15% for all allies",
+      "source": "https://remnant2.wiki.fextralife.com/Hunter's+Shroud",
+      "path": "skills",
+      "type": "Hunter"
+    },
+    {
+      "name": "Juggernaut",
+      "img": "1692194210098.png",
+      "img_short": "1692194210098_short.png",
+      "description": "Become nearly unstoppable, gaining 3 Stack of BULWARK, 15% increased Movement and Melee Speed, and 50% increased Melee damage. Stagger Level reduced by 1. Lasts 25s.Cooldown: 60s",
+      "source": "https://remnant2.wiki.fextralife.com/Juggernaut",
+      "path": "skills",
+      "type": "Challenger"
+    },
+    {
+      "name": "Minion: Flyer",
+      "img": "1692194215700.png",
+      "img_short": "1692194215700_short.png",
+      "description": "PRESS: Summons a Root Flyer Minion to fight by your side. Costs 10% of Max Health to summon, but will not kil Summoner. Max (2).HOLD: SACRIFICE all Root Flyer Minions, dealing 50 damage within 3m and spawning 3 homing projectiles which explode on contact for 150 damage eachCooldown: 45s",
+      "source": "https://remnant2.wiki.fextralife.com/Minion:+Flyer",
+      "path": "skills",
+      "type": "Summoner"
+    },
+    {
+      "name": "Minion: Hollow",
+      "img": "1692194269746.png",
+      "img_short": "1692194269746_short.png",
+      "description": "PRESS: Summons a Root Hollow Minion to fight by your side. Costs 15% of Max Health to summon, but will not kil Summoner. Max (2)HOLD: SACRIFICE Root Hollow Minion to explode, dealing 150 damage within 5m. Reduces Skill Cooldown by up to 50% based on remaining Health of each Minion Sacrificied.Cooldown: 30s",
+      "source": "https://remnant2.wiki.fextralife.com/Minion:+Hollow",
+      "path": "skills",
+      "type": "Summoner"
+    },
+    {
+      "name": "Minion: Reaver",
+      "img": "1692194274999.png",
+      "img_short": "1692194274999_short.png",
+      "description": "PRESS: Summons a Root Reaver Minion to fight by your side. Costs 35% of Max Health to summon, but will not kill Summoner. Max (1).HOLD: SACRIFICE all Root Reaver Minion, dealing 200 damage within 6m and spawning Spore Bombs which bounce and explode on contact for 200 damage each.Reduces Skill Cooldown by up to 50% based on remaining Health of Minion.Cooldown: 120s",
+      "source": "https://remnant2.wiki.fextralife.com/Minion:+Reaver",
+      "path": "skills",
+      "type": "Summoner"
+    },
+    {
+      "name": "Plainswalker",
+      "img": "1692194280685.png",
+      "img_short": "1692194280685_short.png",
+      "description": "Increases movement speed by 20% and reduces Stamina Cost by 80% for all allies. Lasts 30s. Cooldown: 60s",
+      "source": "https://remnant2.wiki.fextralife.com/Plainswalker",
+      "path": "skills",
+      "type": "Explorer"
+    },
+    {
+      "name": "Quick Draw",
+      "img": "1692194286271.png",
+      "img_short": "1692194286271_short.png",
+      "description": "Pull out your trusty side piece and unload up to 6 Critical Shots from the hip. Each shot deals 35 base damage and double stagger value. PRESS: Instantly fires towards all enemies in view within 25m. Upon release, rounds will be divided evenly among all targets.HOLD & RELEASE: Allows manual Aim and fires one single powerful shot upon release.Cooldown: 38.4s",
+      "source": "https://remnant2.wiki.fextralife.com/Quick+Draw",
+      "path": "skills",
+      "type": "Gunslinger"
+    },
+    {
+      "name": "Rampage",
+      "img": "1692194291981.png",
+      "img_short": "1692194291981_short.png",
+      "description": "Enters a heightened state of battle which increases Fire Rate by 15%, Reload Speed by 20%, and Movement Speed by 10%. Lasts 10s. Kills and dealing significant damage grant 1 Stack of RAGE which increases Ranged Damage by 2.5% per Stack. Upon reaching 10 Stacks, the CHallenger goes BERSERK, which reloads their current firearm and doubles Rampage efects for 15s.Cooldown: 90s",
+      "source": "https://remnant2.wiki.fextralife.com/Rampage",
+      "path": "skills",
+      "type": "Challenger"
+    },
+    {
+      "name": "Redemption",
+      "img": "1692194297155.png",
+      "img_short": "1692194297155_short.png",
+      "description": "The Medic unleashes a 30m shockwave that revives downed allies and resotres 52.5% Max Health over 10s. For each additional 1s holding the SKILL button, the heal gains an additional 52.5% (up to 210% max)Revived allies will only receive 50% of the healing amount. If revived, allies cannot be revived again by Redemption for another 180s. Resets at Wordstone or on death. Cooldwon: 115.2s",
+      "source": "https://remnant2.wiki.fextralife.com/Redemption",
+      "path": "skills",
+      "type": "Medic"
+    },
+    {
+      "name": "Sidewinder",
+      "img": "1692194302293.png",
+      "img_short": "1692194302293_short.png",
+      "description": "Calls upon the power of the Desert Sidewinder snake to increase ADS Movement Speed and Draw/Swap Spped by 50%. Cycling weapons will automatically reload incoming Firearms. Lasts 12s.Cooldown: 76.8s",
+      "source": "https://remnant2.wiki.fextralife.com/Sidewinder",
+      "path": "skills",
+      "type": "Gunslinger"
+    },
+    {
+      "name": "Support Dog",
+      "img": "1692194307565.png",
+      "img_short": "1692194307565_short.png",
+      "description": "Companion will follow the Handler and continuously heal allies within 3.5m for 0.25% of Max Health per second. SINGLE PRESS: Companion engages enemies near the targeted location. DOUBLE TAP: Companion returns to the Handler and remains by their side.HOLD: Howl grants 2% of Max Health per second and 25% increased Movemente Speed to all allies within 20m. Lasts 25sCooldown: 90s",
+      "source": "https://remnant2.wiki.fextralife.com/Support+Dog",
+      "path": "skills",
+      "type": "Handler"
+    },
+    {
+      "name": "Vial: Elixir Of Life",
+      "img": "1692194313520.png",
+      "img_short": "1692194313520_short.png",
+      "description": "Creates a mysterious vapor cloud that lasts 10s and applies LIVING WILL.LIVING WILL grants 5 Health Regeneration per second, and automatically protects against fatal damage while active. Can revive downed players if it heals them to full when downed. Lasts 20s.Revived allies canno be affected by Living Will for 180s.PRESS: Slam Vial on the ground, creating the effect at the Alchemist's feet.HOLD & RELEASE: Aim and throw the Vial causing the same effect where it lands. Cooldown: 86.4s.",
+      "source": "https://remnant2.wiki.fextralife.com/Vial:+Elixir+Of+Life",
+      "path": "skills",
+      "type": "Alchemist"
+    },
+    {
+      "name": "Vial: Frenzy Dust",
+      "img": "1692194318651.png",
+      "img_short": "1692194318651_short.png",
+      "description": "Creates a mysterious vapor cloud which lasts 10s and applies FRENZIED.FRENZlED increases Fire Rate, Reload Speed, and Melee Speed by 20%, and Movement Speed by 15%. Lasts 15s.PRESS: Slam Vial on the ground, creating the effect at the Alchemist's feet.HOLD & RELEASE: Aim and throw the Vial causing the same effect where it lands. Cooldown: 72s",
+      "source": "https://remnant2.wiki.fextralife.com/Vial:+Frenzy+Dust",
+      "path": "skills",
+      "type": "Alchemist"
+    },
+    {
+      "name": "Vial: Stone Mist",
+      "img": "1692194323876.png",
+      "img_short": "1692194323876_short.png",
+      "description": "Creates a mysterious vapor cloud which lasts 10s and applies STONESKIN.STONESKIN reduces incoming damage by 25%, greatly increases Blight Buildup Decay Rate, reduces Stagger by l, and makes the target immune to Status Effects. Lasts 15s.PRESS: Slam Vial on the ground, creating the effect at the Alchemist's feet.HOLD & RELEASE: Aim and throw the Vial causing the same effect where it lands. Cooldown: 72s",
+      "source": "https://remnant2.wiki.fextralife.com/Vial:+Stone+Mist",
+      "path": "skills",
+      "type": "Alchemist"
+    },
+    {
+      "name": "War Stomp",
+      "img": "1692194329815.png",
+      "img_short": "1692194329815_short.png",
+      "description": "Creates a high impact tremor that deals 150 damage and additional stagger in a forward cone up to 7.5m. Deals damage in all directions at point blank range. Cooldown: 50s",
+      "source": "https://remnant2.wiki.fextralife.com/War+Stomp",
+      "path": "skills",
+      "type": "Challenger"
+    },
+    {
+      "name": "Wellspring",
+      "img": "1692194335031.png",
+      "img_short": "1692194335031_short.png",
+      "description": "The Medic channels healing energy into their fist, punching a hole in the ground to create a 3m Healing Spring AOE wich restores 10.5 Health per second and greatly increses Blight Decay Rate. Lasts 15s.Cooldown: 57.6s",
+      "source": "https://remnant2.wiki.fextralife.com/Wellspring",
+      "path": "skills",
+      "type": "Medic"
+    },
+    {
+      "name": "Reboot",
+      "img": "1692194340813.png",
+      "img_short": "1692194340813_short.png",
+      "description": "Initiates a Data Backup of the caster's current Health, Stamina, Relic Charges, Ammo, and Negative Status Effects, which are stored for 30s.While the Backup is active, increases Movement Speed by 15% and Damage Reduction by 10%.Reactivating the Skill restores all saved values from the Backup and spawns a Decoy which lasts 3s.Cooldown: 55s",
+      "source": "https://remnant2.wiki.fextralife.com/Reboot",
+      "path": "skills",
+      "type": "Invader"
+    },
+    {
+      "name": "Void Cloak",
+      "img": "1692194346762.png",
+      "img_short": "1692194346762_short.png",
+      "description": "Automatically Perfect Dodge incoming direct damage for 60s. Each auto-evade reduces timer by 33% - 100% based on damage absorbed nd , spawns a Decoy for 3s.Cooldown: 75s",
+      "source": "https://remnant2.wiki.fextralife.com/Void+Cloak",
+      "path": "skills",
+      "type": "Invader"
+    },
+    {
+      "name": "Worm Hole",
+      "img": "1692194351983.png",
+      "img_short": "1692194351983_short.png",
+      "description": "Warps the caster forward through space-time. The next Melee or Ranged attack within 5s will deal 300% damage.Holding the Skill button will show the targeting device. If an enemy is directly targeted, the caster will emerge behind them.  Cooldwon: 35s",
+      "source": "https://remnant2.wiki.fextralife.com/Worm+Hole",
+      "path": "skills",
+      "type": "Invader"
+    },
+    {
+      "name": "Heavy Weapon: Flamethrower",
+      "img": "1692194357983.png",
+      "img_short": "1692194357983_short.png",
+      "description": "PRESS: Deploys a Flamethrower turret which lasts until its Ammo is exhausted. Turrets that can aim will prioritze targts taht the player Aims at. Press SKILL again to enable autonomous targeting.HOLD: Deploys to Heavy Carry Mode. If Engineer Prime is available, will Overclock the weapon if already in hand or on the battlefield.DOUBLE PRESS: The weapon is reclaimed, returning 75% of its remaining ammoHeavy weapon ammo is regenered by 1.02% every second, and heavy weapons can only be deployed if at least 25% ammo is available.",
+      "source": "https://remnant2.wiki.fextralife.com/Heavy+Weapon:+Flamethrower",
+      "path": "skills",
+      "type": "Engineer"
+    },
+    {
+      "name": "Heavy Weapon: Impact Cannon",
+      "img": "1692194363512.png",
+      "img_short": "1692194363512_short.png",
+      "description": "PRESS: Deploys a Impact Cannon Turret which lasts until its Ammo is exhausted. Turrets that can aim will prioritze targts taht the player Aims at. Press SKILL again to enable autonomous targeting.HOLD: Deploys to Heavy Carry Mode. If Engineer Prime is available, will Overclock the weapon if already in hand or on the battlefield.DOUBLE PRESS: The weapon is reclaimed, returning 75% of its remaining ammo.Heavy weapon ammo is regenered by 1.02% every second, and heavy weapons can only be deployed if at least 25% ammo is available.",
+      "source": "https://remnant2.wiki.fextralife.com/Heavy+Weapon:+Impact+Cannon",
+      "path": "skills",
+      "type": "Engineer"
+    },
+    {
+      "name": "Heavy Weapon: Vulcan",
+      "img": "1692194369038.png",
+      "img_short": "1692194369038_short.png",
+      "description": "PRESS: Deploys a Vulcan Turret which lasts until its Ammo is exhausted. Turrets that can aim will prioritize targets that the player Aims at. Press SKILL again to enable autonomous targeting.  HOLD: Deploys to Heavv Carry Mode. If Engineer Prime is available, will Overlock the weapon if already in hand or on the battlefieldDOUBLE PRESS: The weapon is reclaimed, returning 75% of its remaining ammo.Heavy weapon ammo is regenered by 1.02% every second, and heavy weapons can only be deployed if at least 25% ammo is available.",
+      "source": "https://remnant2.wiki.fextralife.com/Heavy+Weapon:+Vulcan",
+      "path": "skills",
+      "type": "Engineer"
+    },
+    {
+      "name": "Reality Rune",
+      "img": "1692194374123.png",
+      "img_short": "1692194374123_short.png",
+      "description": "Conjures a 7m protective dome which applies SLOW to any enemy or enemy projectiles.  Allies inside gain 25% Damage Reduction. Lasts 15s.Cooldown: 75s",
+      "source": "https://remnant2.wiki.fextralife.com/Reality+Rune",
+      "path": "skills",
+      "type": "Archon"
+    },
+    {
+      "name": "Chaos Gate",
+      "img": "1692194379207.png",
+      "img_short": "1692194379207_short.png",
+      "description": "Conjures a 7m unstable zone which grants allies a 15% to all Damage Dealt, 25% increased Mod Generation, but increases the damage that allies take by 15%. Lasts 20s.Cooldown: 85s",
+      "source": "https://remnant2.wiki.fextralife.com/Chaos+Gate",
+      "path": "skills",
+      "type": "Archon"
+    },
+    {
+      "name": "Havoc Form",
+      "img": "1692194384146.png",
+      "img_short": "1692194384146_short.png",
+      "description": "Unleashes the powers of the  Labyrinth to empower the caster with new abilities. Lasts 30s. Duration is reduced when Havoc Form special abilities are used.FIRE: Blasts Lightning Tendrils from the Archon's hand, dealing 84.2 SHOCK Damage per second to targets within 15m.AIM: Raises a 3m Energy Shield which deals 35 SHOCK damage per second and reduces incoming damage to all allies by 50%.DODGE: Performs a Blink Evade that deals 100 SHOCK damage to enemies within 3m.Cooldown: 120s",
+      "source": "https://remnant2.wiki.fextralife.com/Havoc+Form",
+      "path": "skills",
+      "type": "Archon"
+    }
+  ],
+  "mutators": [
+    {
+      "name": "Bandit",
+      "img": "1692195752655.png",
+      "img_short": "1692195752655_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Bandit",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Battery",
+      "img": "1692195758306.png",
+      "img_short": "1692195758306_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Battery",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Bulletweaver",
+      "img": "1692195764222.png",
+      "img_short": "1692195764222_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Bulletweaver",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Deadly Calm",
+      "img": "1692195769741.png",
+      "img_short": "1692195769741_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Deadly+Calm",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Dervish",
+      "img": "1692195775274.png",
+      "img_short": "1692195775274_short.png",
+      "description": "20%",
+      "source": "https://remnant2.wiki.fextralife.com/Dervish",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Disengage",
+      "img": "1692195780977.png",
+      "img_short": "1692195780977_short.png",
+      "description": "5",
+      "source": "https://remnant2.wiki.fextralife.com/Disengange",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Extender",
+      "img": "1692195786752.png",
+      "img_short": "1692195786752_short.png",
+      "description": "20%",
+      "source": "https://remnant2.wiki.fextralife.com/Extender",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Failsafe",
+      "img": "1692195792056.png",
+      "img_short": "1692195792056_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Failsafe",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Feedback",
+      "img": "1692195797752.png",
+      "img_short": "1692195797752_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Feedback",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Ghost Shell",
+      "img": "1692195802818.png",
+      "img_short": "1692195802818_short.png",
+      "description": "3",
+      "source": "https://remnant2.wiki.fextralife.com/Ghost+Shell",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Harmonizer",
+      "img": "1692195808034.png",
+      "img_short": "1692195808034_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Harmonizer",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Lithely",
+      "img": "1692195813369.png",
+      "img_short": "1692195813369_short.png",
+      "description": "4%",
+      "source": "https://remnant2.wiki.fextralife.com/Lithely",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Misfortune",
+      "img": "1692195818434.png",
+      "img_short": "1692195818434_short.png",
+      "description": "5%",
+      "source": "https://remnant2.wiki.fextralife.com/Misfortune",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Momentum",
+      "img": "1692195823939.png",
+      "img_short": "1692195823939_short.png",
+      "description": "1.5%",
+      "source": "https://remnant2.wiki.fextralife.com/Momentum",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Overdrive",
+      "img": "1692195829179.png",
+      "img_short": "1692195829179_short.png",
+      "description": "5%",
+      "source": "https://remnant2.wiki.fextralife.com/Overdrive",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Refunder",
+      "img": "1692195834546.png",
+      "img_short": "1692195834546_short.png",
+      "description": "20%",
+      "source": "https://remnant2.wiki.fextralife.com/Refunder",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Reinvigorate",
+      "img": "1692195839949.png",
+      "img_short": "1692195839949_short.png",
+      "description": "25%",
+      "source": "https://remnant2.wiki.fextralife.com/Reinvigorate",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Resentment",
+      "img": "1692195845269.png",
+      "img_short": "1692195845269_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Resentment",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Shield Breaker",
+      "img": "1692195850627.png",
+      "img_short": "1692195850627_short.png",
+      "description": "2%",
+      "source": "https://remnant2.wiki.fextralife.com/Shield+Breaker",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Slayer",
+      "img": "1692195855877.png",
+      "img_short": "1692195855877_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Slayer+(Mutator)",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Steadfast",
+      "img": "1692195861339.png",
+      "img_short": "1692195861339_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Steadfast",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Striker",
+      "img": "1692195866404.png",
+      "img_short": "1692195866404_short.png",
+      "description": "3%",
+      "source": "https://remnant2.wiki.fextralife.com/Striker",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Supercharger",
+      "img": "1692195871868.png",
+      "img_short": "1692195871868_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Supercharger",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Timewave",
+      "img": "1692195877060.png",
+      "img_short": "1692195877060_short.png",
+      "description": "SLOW",
+      "source": "https://remnant2.wiki.fextralife.com/Timewave",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Transference",
+      "img": "1692195882654.png",
+      "img_short": "1692195882654_short.png",
+      "description": "5%",
+      "source": "https://remnant2.wiki.fextralife.com/Transference",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Transpose",
+      "img": "1692195888288.png",
+      "img_short": "1692195888288_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Transpose",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Twisting Wounds",
+      "img": "1692195893521.png",
+      "img_short": "1692195893521_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Twisting+Wounds",
+      "path": "mutators",
+      "type": "Ranged"
+    },
+    {
+      "name": "Vampire Blade",
+      "img": "1692195898576.png",
+      "img_short": "1692195898576_short.png",
+      "description": "10%",
+      "source": "https://remnant2.wiki.fextralife.com/Vampire+Blade",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Vengeful Strike",
+      "img": "1692195904013.png",
+      "img_short": "1692195904013_short.png",
+      "description": "20%",
+      "source": "https://remnant2.wiki.fextralife.com/Vengeful+Strike",
+      "path": "mutators",
+      "type": "Melee"
+    },
+    {
+      "name": "Weaponlord",
+      "img": "1692195909452.png",
+      "img_short": "1692195909452_short.png",
+      "description": "7%",
+      "source": "https://remnant2.wiki.fextralife.com/Weaponlord",
+      "path": "mutators",
+      "type": "Melee"
+    }
+  ],
+  "weaponMods": [
+    {
+      "name": "Astral Burst",
+      "img": "1692197276258.png",
+      "img_short": "1692197276258_short.png",
+      "description": "Fires a short range burst of 7 star fragments which deal 35 damage each. Fragments bounce off walls up to 3 times, dealing 35% additional damage per bounce. Weakspot hits deal reduced damage. Mod Power Requirement: 450 ",
+      "source": "https://remnant2.wiki.fextralife.com/Astral+Burst",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Athibar",
+      "img": "1692197282302.png",
+      "img_short": "1692197282302_short.png",
+      "description": "Charge attacks use 25 stamina to throw the spear, which returns to the wielder's hand. Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Athibar",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Beta Ray",
+      "img": "1692197287967.png",
+      "img_short": "1692197287967_short.png",
+      "description": "Brands a target for 30s. Branded enemies that die leave a Brand at their location.Reloading or Swapping detonates Brands dealing 225 damage.Addiotional Brands (3 Max) on the same target deal 50% damage.Salin enemies return 5-15% of Ammo and Mod power to the weapon.  Mod Power Requirement: 450 ",
+      "source": "https://remnant2.wiki.fextralife.com/Beta+Ray",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Beyond The Veil",
+      "img": "1692197293587.png",
+      "img_short": "1692197293587_short.png",
+      "description": "Neutral Evade turns to mist, granting Nightshade 5% base damage as Lifesteal for 5s. Perfect Dodge doubles duration. Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Beyond+The+Veil",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Big Bang",
+      "img": "1692197299119.png",
+      "img_short": "1692197299119_short.png",
+      "description": "Funnels all current Mod Charges into the next shot. Projectiles deal 65 direct damage and 65 Explosive damage in a 5m per Charge consumed. Explosion applies 75 BURNING damage over 10s per Charge consumed. Additional Charges consumed increase all damage by 5%. Max 5 Charges Mod Power Requirement:  630 ",
+      "source": "https://remnant2.wiki.fextralife.com/Big+Bang",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Blood Draw",
+      "img": "1692197304771.png",
+      "img_short": "1692197304771_short.png",
+      "description": "Shoots out razor-sharp Chain Shards which impale up to 5 targets within 15m, dealing 10 damage. On hit, chains are pulled towards the caster, dealing 250 damage split equally among enemies and applying 275 BLEEDING damage over 15s. Mod Power Requirement: 450 ",
+      "source": "https://remnant2.wiki.fextralife.com/Blood+Draw",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Bloodline",
+      "img": "1692197310516.png",
+      "img_short": "1692197310516_short.png",
+      "description": "Fires a devastating blast which penetrates through all enemies in its path. Deals 120 damage with a 25% Critical damage bonus, and 2x additional stagger. Bloodline daage increases by 50% for each enemy penetrated. Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Bloodline",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Bloodthirst",
+      "img": "1692197316407.png",
+      "img_short": "1692197316407_short.png",
+      "description": "Damage increases by +25% against BLEEDING enemies, and +25% when attacking from behind. Charge Attacks deal 100 BLEEDING damage over 10s Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Bloodthirst",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Bore",
+      "img": "1692197322042.png",
+      "img_short": "1692197322042_short.png",
+      "description": "Fires a drill projectile which bores into enemies on contact, dealing 80 damage. After fully burrowing into an enemy, creates a Weakspot which grants 50% of normal Weakspot Damage on hit. If attached to an existing Weakspot, Ranged Crit Chance is increased by 15% when attacking the drill. Lasts 6s. Mod Power Requirement: 500 ",
+      "source": "https://remnant2.wiki.fextralife.com/Bore",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Chaos Driver",
+      "img": "1692197327757.png",
+      "img_short": "1692197327757_short.png",
+      "description": "Drives electrified rods which tether to other rods within 10m. Tethers deal 20 SHOCK damage per second. Targets embedded with a rod take 20 SHOCK damage per second. They take 20% additionally damage per extra rod in the target. Damage is increased by 1.5% if linked to another rod. Rods in the same target will not link. Mod Power Requirement: 450 ",
+      "source": "https://remnant2.wiki.fextralife.com/Chaos+Driver",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Concussive Shot",
+      "img": "1692197333649.png",
+      "img_short": "1692197333649_short.png",
+      "description": "Fires a focused blast of air through all targets within 8m, dealing 155 damage and 5x impact. Mod Power Requirement: 500 ",
+      "source": "https://remnant2.wiki.fextralife.com/Concussive+Shot",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Corrosive Rounds",
+      "img": "1692197339146.png",
+      "img_short": "1692197339146_short.png",
+      "description": "Imbues ammunition with TOXIC and increases Range Crit Chance by 15% for 20s. Shots also apply CORRODED, dealing 100 damage over 10s. Mod Power Requirement: 1250 ",
+      "source": "https://remnant2.wiki.fextralife.com/Corrosive+Rounds",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Cube Shield",
+      "img": "1692197344674.png",
+      "img_short": "1692197344674_short.png",
+      "description": "Cube Shield Generates a Cube Shield which absorbs up to 500 damage from incoming enemy projectiles. Lasts 15s.Reactivating fires the Cube Shield which damages enemies as is travels. Damage is increased if the Cube Shield has absorbed enemy projectile damage before firing. Mod Power Requirement: 1,000 ",
+      "source": "https://remnant2.wiki.fextralife.com/Cube+Shield",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Death Sentence",
+      "img": "1692197350028.png",
+      "img_short": "1692197350028_short.png",
+      "description": "Dealing Melee Damage 6 times over 10s empowers Feral Judgement. When empowered, Neutral Backdash Charge Attacks apply Death Sentence. After 1.5s of being sentenced, the enemy will suffer 10 Phantom Strikes, dealing X25 Damage each. Deals 25% additional damage to BLEEDING enemies. Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Death+Sentence",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Defrag",
+      "img": "1692197355378.png",
+      "img_short": "1692197355378_short.png",
+      "description": "Infects weapon with Malware for 30s, causing shots to apply FRAGMENTED for 5s. When a FRAGMENTED enemy dies, they create a Glitch that lasts 15s.Picking up a Glitch increases All damage by 20% for 15s. Destroying a Glitch causes it to destabilize, creating a 5m Virus Pool which deals 25 damage per second and applies the FRAGMENTED debuff to enemies inside. Virus Pools last 15s. Mod Power Requirement: 1500 ",
+      "source": "https://remnant2.wiki.fextralife.com/Defrag",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Dreadwalker",
+      "img": "1692197360059.png",
+      "img_short": "1692197360059_short.png",
+      "description": "Enter the Nightmare Realm. Nightfall gains infinite Ammo, a 25% Fire Rate increase, 10% Lifesteal, and becomes fully automatic. The wielder becomes significatly harder to hit while moving. Disables other weapons and Skills for the duration, or until Dreadwalker is deactivated. Lasts 10s. Mod Power Requirement: 1,250 ",
+      "source": "https://remnant2.wiki.fextralife.com/Dreadwalker",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Dreamwave",
+      "img": "1692197365308.png",
+      "img_short": "1692197365308_short.png",
+      "description": "After dealing 250 damage, Charge Attack will release a Dreamwave, flowing outwards 20m and returning to caster. Dreamwave applies SLOW to all enemies for 10s and grants a Stack of REVERIE for each enemy affected. Each Stack grants +2% to All Damage and +2% Movement Speed, which lasts 15s. Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Dreamwave",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Energy Wall",
+      "img": "1692197370821.png",
+      "img_short": "1692197370821_short.png",
+      "description": "Deploys an energy barrier on impact with ground. Allies can shoot through Energy Wall but enemy projectiles are absorbed (up to 500 damage received). Max 1 Wall at a time. Lasts 30s. Mod Power Requirement: 500 ",
+      "source": "https://remnant2.wiki.fextralife.com/Energy+Wall",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Energy Wave",
+      "img": "1692197375928.png",
+      "img_short": "1692197375928_short.png",
+      "description": "Charge attacks use 35 stamina to release an energy wave projectile allowing the wielder to strike enemies from much farther away. Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Energy+Wave",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Eulogy",
+      "img": "1692197381194.png",
+      "img_short": "1692197381194_short.png",
+      "description": "Recalls bots which deal 30 damage when pulled from a target and when striking targets on their return. Recalled bolts grant 2% of Max HP. Recalled bolts can also overfill Sorrow by up to +5. Any additional bolts will be returned to reserves. Mod Power Requirement: 600 ",
+      "source": "https://remnant2.wiki.fextralife.com/Eulogy",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Explosive Shot",
+      "img": "1692197386724.png",
+      "img_short": "1692197386724_short.png",
+      "description": "Fires an explosive round that deals up to 155 damage within 9m. Mod Power Requirement: 650 ",
+      "source": "https://remnant2.wiki.fextralife.com/Explosive+Shot",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Familiar",
+      "img": "1692197391969.png",
+      "img_short": "1692197391969_short.png",
+      "description": "Summons Faerie Familiar to aid in combat. The Familiar selects a random enemy within 10m and slashes through them for 25 damage each attack. Familiar will select a new target when the previous one dies. Lasts 15s. Mod Power Requirement: 1,000 ",
+      "source": "https://remnant2.wiki.fextralife.com/Familiar",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Fargazer",
+      "img": "1692197397347.png",
+      "img_short": "1692197397347_short.png",
+      "description": "Calls forth an eye of Legion to gaze at player's AIM target. For every 0.25s Fargazer focuses on a target within 25m, a stack of MADNESS Status is applied for 5s. Each stack deals 3.3 Damage per second. Max 10 stacks. Lasts 30s. Mod Power Requirement: 1,250 ",
+      "source": "https://remnant2.wiki.fextralife.com/Fargazer",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Faultline",
+      "img": "1692197403054.png",
+      "img_short": "1692197403054_short.png",
+      "description": "Charge to fire off ground-based shockwaves which deal 115 damage. Costs 35 Stamina Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Faultline",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Firestorm",
+      "img": "1692197409295.png",
+      "img_short": "1692197409295_short.png",
+      "description": "Creates a whirling cyclone that sucks in nearby targets and applies BURNING for 10s. The center of the cyclone deals 75 FIRE damage per second. Lasts 15s. Mod Power Requirement: 1,250 ",
+      "source": "https://remnant2.wiki.fextralife.com/Firestorm",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Fission Strike",
+      "img": "1692197414351.png",
+      "img_short": "1692197414351_short.png",
+      "description": "On Neutral Evade Attacks Atom Splitter achieves Nuclear Fission, releasing a wave of charged particles which deals 151.5 Damage to targets within 10m. Charged Neutral Evade Attacks increase range by 3x and Damage by 25% Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Fission+Strike",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Fracture",
+      "img": "1692197419693.png",
+      "img_short": "1692197419693_short.png",
+      "description": "Charge Attacks taint the blood of targets, causing all attacks from Godsplitter to register as Weakspot hits for 3s seconds. Duration increases with additional fragments. Max 35s. Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Fracture",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Guardian's Call",
+      "img": "1692197424988.png",
+      "img_short": "1692197424988_short.png",
+      "description": "Calls down a Guardian Sword on enemies struck by an Energy Disc. Swords deal 100 damage and 3x stagger within 5m. Mod Power Requirement: 750 ",
+      "source": "https://remnant2.wiki.fextralife.com/Guardian's+Call",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Healing Shot",
+      "img": "1692197430345.png",
+      "img_short": "1692197430345_short.png",
+      "description": "Launches a payload that explodes on contact with allies, healing 30% of their max health. When no ally is struck, payload lays dormant until an ally gets close. Dormant payload lasts 30s, slowly losing healing potency over time. Mod Power Requirement: 600 ",
+      "source": "https://remnant2.wiki.fextralife.com/Healing+Shot",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Heat Sink",
+      "img": "1692197435579.png",
+      "img_short": "1692197435579_short.png",
+      "description": "Forces open Plasma Cutter's heat vents dispersing all heat. While active, Plasma Cutter generates 50% less heat, and ramping damage cap is increased to 3x Damage. Overheats automatically when deactivated. Lasts 20s. Mod Power Requirement: 850 ",
+      "source": "https://remnant2.wiki.fextralife.com/Heat+Sink",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Helix",
+      "img": "1692197440682.png",
+      "img_short": "1692197440682_short.png",
+      "description": "Shoots a helix of missiles, dealing 120 damage. On contact, divides into 6 smaller rockets which seek additional targets, dealing 30 damage on contact. Mod Power Requirement: 850 ",
+      "source": "https://remnant2.wiki.fextralife.com/Helix",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Hot Shot",
+      "img": "1692197446430.png",
+      "img_short": "1692197446430_short.png",
+      "description": "Imbues ammunition with FIRE and increases Ranged damage by 15% for 20s. Shots also apply BURNING, dealing 200 FIRE Damage over 10 seconds. Mod Power Requirement: 1250 ",
+      "source": "https://remnant2.wiki.fextralife.com/Hot+Shot",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Krell Edge",
+      "img": "1692197451494.png",
+      "img_short": "1692197451494_short.png",
+      "description": "Charge to throw the Krell Axe which applies OVERLOAD on hit, dealing 50 SHOCK Damage every 5s for 10s. Shortly after throwing, another will appear in the wielders hand. Costs 25 Stamina Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Krell+Edge",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Lifeline",
+      "img": "1692197457205.png",
+      "img_short": "1692197457205_short.png",
+      "description": "After dealing 250 damage, the next charge attack causes the spirit of the RED DOE to stampede forward, dealing 160 damage to enemies and regenerating 10% Health to allies in its path. Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Lifeline",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Moonlight Barrage",
+      "img": "1692197462319.png",
+      "img_short": "1692197462319_short.png",
+      "description": "Empowers the Bow for 15s. Arrows apply Moonlight to enemies for 3s. Enemies struck by Crescent Moon while Moonlit release a Moon Essence which returns 1 arrow, heals 5% of Max Health, and grants 15% Fire and Reload Speed for 5s. Basic Shots automatically become Charged Shots. Manually Charged Shots fire two arrows.  Mod Power Requirement: 1,250 ",
+      "source": "https://remnant2.wiki.fextralife.com/Moonlight+Barrage",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Nano Swarm",
+      "img": "1692197467853.png",
+      "img_short": "1692197467853_short.png",
+      "description": "Unleash a swarm of Nanomachines that seek after enemies within 20 meters and repeatedly attack dealing 6 ACID damage per hit. Lasts 15 seconds Mod Power Requirement: 750 ",
+      "source": "https://remnant2.wiki.fextralife.com/Nano+Swarn",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Ouroboros",
+      "img": "1692197473941.png",
+      "img_short": "1692197473941_short.png",
+      "description": "Conjures 3 sword fragments that encircle the wielder for 30s. Performing a Melee Attacks lets loose a Fragment which taints the blood of targets, causing all attacks from Deceit to register as Weaspot hits for a short period of time. Charge Melee attack fires all remaining Fragments at once. Mod Power Requirement: 1,440 ",
+      "source": "https://remnant2.wiki.fextralife.com/Ouroboros",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Overflow",
+      "img": "1692197479167.png",
+      "img_short": "1692197479167_short.png",
+      "description": "Imbues ammunition with SHOCK and increases Fire Rate by 15% and Reload Speed by 15% for 20 seconds. Shots also apply OVERLOADED, dealing 35 SHOCK Damage every 5s for 15s. Mod Power Requirement: 1,250 ",
+      "source": "https://remnant2.wiki.fextralife.com/Overflow",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Prismatic Driver",
+      "img": "1692197485309.png",
+      "img_short": "1692197485309_short.png",
+      "description": "Fires a superheated beam which deals 25 Mod Damage per second. Sustaining the beam on a target causes an explosion which deals 150 Mod damage in a 3m AOE. Mod Power Requirement: 50 per Pulse. ",
+      "source": "https://remnant2.wiki.fextralife.com/Prismatic+Driver",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Root Blades",
+      "img": "1692197490788.png",
+      "img_short": "1692197490788_short.png",
+      "description": "Fires a volley of Root Blades in an arc which each deal 25 Damage and apply 200 BLEEDING damage over 10s Mod Power Requirement: 750 ",
+      "source": "https://remnant2.wiki.fextralife.com/Root+Blades",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Rootlash",
+      "img": "1692197496138.png",
+      "img_short": "1692197496138_short.png",
+      "description": "Launches a projectile which summons a Root Tentacle. Tentacles deal 30 damage and steal 1.5% of the hero's Max Health per hit. Lasts 20s. (Max 2) Mod Power Requirement: 450 ",
+      "source": "https://remnant2.wiki.fextralife.com/Rootlash",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Rotted Arrow",
+      "img": "1692197501140.png",
+      "img_short": "1692197501140_short.png",
+      "description": "Fires a rotten arrow that deals 20 damage and detonates for another 60 damage within 4m. A deadly gas cloud is left behind that deals 200 damage over 5s. Mod Power Requirement: 400 ",
+      "source": "https://remnant2.wiki.fextralife.com/Rotted+Arrow",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Scrap Shot",
+      "img": "1692197506616.png",
+      "img_short": "1692197506616_short.png",
+      "description": "Fires a caltrops grenade that explodes to cover an area of 6m. Caltrops deal 20 damage per second and SLOW to enemies that walk over them. Lasts 10s. Mod Power Requirement: 750 ",
+      "source": "https://remnant2.wiki.fextralife.com/Scrap+Shot",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Screamer",
+      "img": "1692197511898.png",
+      "img_short": "1692197511898_short.png",
+      "description": "Fire a high-powered rocket that deals up to 200 damage within 2.5m. Mod Power Requirement: 400 ",
+      "source": "https://remnant2.wiki.fextralife.com/Screamer",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Skewer",
+      "img": "1692197517110.png",
+      "img_short": "1692197517110_short.png",
+      "description": "Fires a Wretched Spear which embeds itself on contact. Spears deal 125 damage on hit, rapidly dividing inside the target until bursting, dealing 140 damage to all targets within 3m. Spears embedded in the environment remain in place for 10s. Mod Power Requirement: 850 ",
+      "source": "https://remnant2.wiki.fextralife.com/Skewer",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Song of Eafir",
+      "img": "1692197522391.png",
+      "img_short": "1692197522391_short.png",
+      "description": "Fires a shot infused with the binding power of the Song of Eafir. Staggers most ground enemies within 10m and deals 150 damage to Flying enemies within the same range.The song continues for 15s, afflicting targets within 15m with SLOW, and a 15% decrease to damage dealt. Mod Power Requirement: 1000 ",
+      "source": "https://remnant2.wiki.fextralife.com/Song+of+Eafir",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Soul Brand",
+      "img": "1692197528369.png",
+      "img_short": "1692197528369_short.png",
+      "description": "Applies a Soul Brand to all enemies within 25m which lasts 25s. Enemies killed while bearing the Soul Brand leave behind an Echo which lasts 10s before returning to the Nightmare Realm. Echoes are drawn to any survivor who walks within 3m, granting 10% of Max Health on contact. Mod Power Requirement: 850 ",
+      "source": "https://remnant2.wiki.fextralife.com/Soul+Brand",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Soulbinder",
+      "img": "1692197534209.png",
+      "img_short": "1692197534209_short.png",
+      "description": "Fires a projectile that attaches to the enemy dealing 40 damage. Enemies within 7m become bound to the primary target after impact and share 60% of damage dealt to them. Lasts 15s. Mod Power Requirement: 650 ",
+      "source": "https://remnant2.wiki.fextralife.com/Soulbinder",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Space Crabs",
+      "img": "1692197539940.png",
+      "img_short": "1692197539940_short.png",
+      "description": "Launch an alien egg that bursts on impact, releasing 5 Space Crabs. Crabs follow the caster, leaping towards enemies within 4m, and exploding, dealing 60 Damage each. Mod Power Requirement: 450 ",
+      "source": "https://remnant2.wiki.fextralife.com/Space+Crabs",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Starfall",
+      "img": "1692197545156.png",
+      "img_short": "1692197545156_short.png",
+      "description": "Fires a powerful arrow which deals 30 damage and opens a 7m portal that rains down star fragments. Each fragment deals 50 damage within 4m. Lasts 6s. Mod Power Requirement: 750 ",
+      "source": "https://remnant2.wiki.fextralife.com/Starfall",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Stasis Beam",
+      "img": "1692197550674.png",
+      "img_short": "1692197550674_short.png",
+      "description": "Fires a beam which deals 15 damage per second, and applies SLOW Debuff. After 3s of application to a target, SLOW becomes STASIS, freezing the target in place for 10s. Mod Power Requirement: 50 per Pulse. ",
+      "source": "https://remnant2.wiki.fextralife.com/Stasis+Beam",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Supernova",
+      "img": "1692197556499.png",
+      "img_short": "1692197556499_short.png",
+      "description": "Fires the compressed remains of a dying star. On contact or hit wit the primary fire, causes Supernova to explode for 150 FIRE Damage, and 350 BURNING Damage over 10s to all targets within 4m.Striking the Supernova with Aphelion's primary fire increases its explosion radius by 25% and damage by 50%, and spawns a massive shockwave that deals 300 FIRE damage and also applies the initial BURNING amount. Mod Power Requirement: 400 ",
+      "source": "https://remnant2.wiki.fextralife.com/Supernova",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Time Lapse",
+      "img": "1692197562335.png",
+      "img_short": "1692197562335_short.png",
+      "description": "Creates a 6m blast which freezes all standard enemies for 7s. Dealing damage to frozen enemies immediately breaks the Time Lapse effect, applying SLOW for the remaining duration. Mod Power Requirement: 1,000 ",
+      "source": "https://remnant2.wiki.fextralife.com/Time+Lapse",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Tremor",
+      "img": "1692197567564.png",
+      "img_short": "1692197567564_short.png",
+      "description": "Fires a projectile that cracks the ground and spawns shockwaves that deal 75 damage Within 9m for 6s. Shockwaves inflict 3x impact. Mod Power Requirement: 900 ",
+      "source": "https://remnant2.wiki.fextralife.com/Tremor",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Voltaic Rondure",
+      "img": "1692197573008.png",
+      "img_short": "1692197573008_short.png",
+      "description": "Launches a slow-moving orb that pulses every 0.5s, striking enemies within 3m for 20 SHOCK damage and applying OVERLOADED for 15s. The orb lasts 20s. The orb can be overcharged by striking it with additional damage. Mod Power Requirement: 850 ",
+      "source": "https://remnant2.wiki.fextralife.com/Voltaic+Rondure",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Whirlwind",
+      "img": "1692197578772.png",
+      "img_short": "1692197578772_short.png",
+      "description": "Neutral Backdash Charge creates a Whirlwind of slashes which strike all enemies within 8m for 75 damage. Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Whirlwind",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    },
+    {
+      "name": "Witchfire",
+      "img": "1692197584667.png",
+      "img_short": "1692197584667_short.png",
+      "description": "Fires a highly volatile projectile that explodes to leave a line of flaming terrain. Deals 55 FIRE Damage per second, and applies BURNING, dealing 200 damage over 10s. Lasts 5s. Mod Power Requirement: 750 ",
+      "source": "https://remnant2.wiki.fextralife.com/Witchfire",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Accelerator",
+      "img": "1692197590206.png",
+      "img_short": "1692197590206_short.png",
+      "description": "Charge Melee Attacks increase the speed of all Melee Attacks by 10% for 5s. Mod Power Requirement: N/A ",
+      "source": "https://remnant2.wiki.fextralife.com/Accelerator",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": false
+    },
+    {
+      "name": "Dying Breath",
+      "img": "1692200028194.png",
+      "img_short": "1692200028194_short.png",
+      "description": "When infused, Neural Backdash Charge Attack explodes in a 3m. AOE and leaves an ACID Cloud which last for 15s. Mod Power Requirement: ? ",
+      "source": "https://remnant2.wiki.fextralife.com/Dying+Breath",
+      "path": "weaponMods",
+      "type": null,
+      "exclusive": true
+    }
+  ],
+  "classes": []
 }

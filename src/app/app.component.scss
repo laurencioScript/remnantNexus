@@ -1,6 +1,6 @@
 $width: 280px;
 $height: 356px;
-$division: 1.25;
+$division: 1.5;
 $ligth-grey: #525252;
 $ligth-grey: #808080;
 $sizeArmorsAndJewelrys: 100px;
@@ -13,8 +13,9 @@ header{
   text-align: center;
   
   .logo{
-    width: 20%;
+    width: 10%;
   }
+
   h4{
     margin: 8px 8px 16px 8px;
     text-align: center;
@@ -22,29 +23,25 @@ header{
     font-size: small;
   }
 
-  margin-bottom: 4px;
 }
 
 .container{
-  
   height: 100%;
   position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
-
 }
 
 .flex-container {
-  border-bottom: 1px solid #808080;
-  border-top: 1px solid #808080;
+  border-bottom: 1px solid rgb(0,0,0,0.8);
+  border-top: 1px solid rgb(0,0,0,0.8);
   display: flex;
   flex-direction: row;
-  overflow: hidden;
   background: rgb(0,0,0,0.7);
   z-index: 1;
   width: 100%;
-  padding: 16px 0;
+  padding: 24px 0 40px 0;
   justify-content: center;
 }
 
@@ -96,13 +93,6 @@ mat-dialog-container {
     margin-right: 0px;
   }
 }
-
-
-// .item :hover{
-//   filter: drop-shadow(0px 4px 6px white);
-//   cursor: pointer;
-// }
-
 
 .carousel-inner div.item a img {
   max-height: 80%;
@@ -208,30 +198,6 @@ a {
   background-color: #e45454;
 }
 
-.imgShort img {
-  width: 180px;
-  height: auto;
-  border: 1.5px solid var(--ligth-grey);
-  border-radius: 8px;
-}
-
-.imgMedium img {
-  width: 180px;
-  height: auto;
-  border: 1.5px solid var(--ligth-grey);
-  border-radius: 16px;
-}
-
-.itemModal {
-  margin-right: 8px;
-  margin-bottom: 8px;
-}
-
-.itemModal:last-child {
-  margin-right: 0px;
-  margin-bottom: 0px;
-}
-
 .sec-buttons{
     margin: 16px 0;
 
@@ -243,7 +209,9 @@ a {
 }
 
 
+
 .item {
+  position: relative;
   cursor: pointer;
   background: #1a1a1a;
   border-radius: 15px;
@@ -255,6 +223,29 @@ a {
   padding: 8px;
   border: 2px solid #282828;
   border-radius: 15px;
+
+  .modAndMutator{
+    border: 1px solid #525252;
+    background: rgba(0, 0, 0, 0.8);
+    box-shadow: inset 0 0 10px black;
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    position: absolute;
+    img{
+      width: 40px;
+    }
+  }
+
+  .fixedLeft{
+    left: 8px;
+    bottom: -24px;
+  }
+  
+  .fixedRight{
+    right: 8px;
+    bottom: -24px;
+  }
 }
 
 .item:before {
