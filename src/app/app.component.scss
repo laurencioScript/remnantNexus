@@ -248,6 +248,11 @@ a {
   }
 }
 
+.disabled{
+  pointer-events: none; 
+  opacity: 0.8;
+}
+
 .item:before {
   position: absolute;
   content: "";

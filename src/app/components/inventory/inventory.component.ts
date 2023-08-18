@@ -18,7 +18,7 @@ export class InventoryComponent {
   constructor(
     public dialogRef: MatDialogRef<InventoryComponent>, 
     @Inject(MAT_DIALOG_DATA) public data: any) {
-    this.allItems = data.items;
+    this.allItems = data.items.sort((a, b) => a.name.localeCompare(b.name));;
     this.build = data.build;
     this.selected = data.selected;
     this.itemsFiltered();

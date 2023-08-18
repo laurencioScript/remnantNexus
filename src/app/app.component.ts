@@ -5,6 +5,7 @@ import html2canvas from 'html2canvas';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import * as dbImport  from './../assets/db.json';
 
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -31,7 +32,7 @@ export class AppComponent {
         longGun: this.db.longGun[0],
         modLongGun: null,
         mutatorLongGun: null,
-        handGun: this.db.handGun[0],
+        handGun: this.db.handGun.find(h => h.name == 'Silverback Model 500'),
         modHandGun: null,
         mutatorHandGun: null,
         amulet: this.db.amulet[0],
@@ -91,8 +92,33 @@ export class AppComponent {
             break;
           }
         }
+
+        this.attachmentMod(data)
       }
+
+      
     });
+  }
+
+  attachmentMod(data: string) {
+    let weaponType, modType;
+  
+    if (data === 'longGun') {
+      weaponType = this.build.longGun;
+      modType = 'modLongGun';
+    } else if (data === 'handGun') {
+      weaponType = this.build.handGun;
+      modType = 'modHandGun';
+    } else if (data === 'meleeWeapon') {
+      weaponType = this.build.meleWeapon;
+      modType = 'modMeleeWeapon';
+    }
+  
+    if (weaponType && weaponType.modExclusive) {
+      this.build[modType] = this.db.weaponMods.find(w => w.name === weaponType.modExclusive);
+    } else {
+      this.build[modType] = null;
+    }
   }
 
   async captureAndCopy() {

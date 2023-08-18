@@ -1012,555 +1012,709 @@
   "meleeWeapon": [
     {
       "name": "Blade of Adventure",
-      "img": "1691940127193.png",
-      "img_short": "1691940127193_short.png",
+      "img": "1692370421760.png",
+      "img_short": "1692370421760_short.png",
       "description": "A long, sharp blade hammered out of vehicle leaf springs. Well-rounded for most situations.",
-      "source": "https://remnant2.wiki.fextralife.com//Blade+of+Adventure"
+      "source": "https://remnant2.wiki.fextralife.com/Blade+of+Adventure",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Blade of Gul",
-      "img": "1691940132469.png",
-      "img_short": "1691940132469_short.png",
+      "img": "1692370426908.png",
+      "img_short": "1692370426908_short.png",
       "description": "A short, but thick sword, used by Gul Warriors. It's compact design makes for swift yet hard-hitting blows. An excellent close-range option.",
-      "source": "https://remnant2.wiki.fextralife.com//Blade+of+Gul"
+      "source": "https://remnant2.wiki.fextralife.com/Blade+of+Gul",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Bone Chopper",
-      "img": "1691940137842.png",
-      "img_short": "1691940137842_short.png",
+      "img": "1692370432314.png",
+      "img_short": "1692370432314_short.png",
       "description": "A razor-sharp hand axe. Excellent for separating flesh from bone. Charge for double attacks.",
-      "source": "https://remnant2.wiki.fextralife.com//Bone+Chopper"
+      "source": "https://remnant2.wiki.fextralife.com/Bone+Chopper",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Edge of the Forest",
-      "img": "1691940143222.png",
-      "img_short": "1691940143222_short.png",
+      "img": "1692370437375.png",
+      "img_short": "1692370437375_short.png",
       "description": "An elegant, yet light blade, designed to bring beauty to bloodshed. Unstoppable in the hands of a master swordsman.",
-      "source": "https://remnant2.wiki.fextralife.com//Edge+of+the+Forest"
+      "source": "https://remnant2.wiki.fextralife.com/Edge+of+the+Forest",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Iron Greatsword",
-      "img": "1691940148676.png",
-      "img_short": "1691940148676_short.png",
+      "img": "1692370442679.png",
+      "img_short": "1692370442679_short.png",
       "description": "A giant broadsword made from flattened railroad tracks. Dozens of ridges cut in the side for causing irreparable damage.",
-      "source": "https://remnant2.wiki.fextralife.com//Iron+Greatsword"
+      "source": "https://remnant2.wiki.fextralife.com/Iron+Greatsword",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Knuckle Dusters",
-      "img": "1691940153694.png",
-      "img_short": "1691940153694_short.png",
+      "img": "1692370448068.png",
+      "img_short": "1692370448068_short.png",
       "description": "Steel knuckles with rusty sawblade tips, designed to boost Unarmed damage.",
-      "source": "https://remnant2.wiki.fextralife.com//Knuckle+Dusters"
+      "source": "https://remnant2.wiki.fextralife.com/Knuckle+Dusters",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Labyrinth Staff",
-      "img": "1691940158948.png",
-      "img_short": "1691940158948_short.png",
-      "description": "10%",
-      "source": "https://remnant2.wiki.fextralife.com//Labyrinth+Staff"
+      "img": "1692370453394.png",
+      "img_short": "1692370453394_short.png",
+      "description": "Basic Strikes generate 10% additional Mod Power. Charge Attacks perform an AOE which strikes all enemies within 2m, dealing 75 Damage. AOE Damage generates 50% additional Mod Power.",
+      "source": "https://remnant2.wiki.fextralife.com/Labyrinth+Staff",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Ornate Blade",
-      "img": "1691940164015.png",
-      "img_short": "1691940164015_short.png",
+      "img": "1692370458715.png",
+      "img_short": "1692370458715_short.png",
       "description": "An intricately-forged elongated sword. Designed to keep stronger enemies at bay, while remaining light enough for agile maneuvers.",
-      "source": "https://remnant2.wiki.fextralife.com//Ornate+Blade"
+      "source": "https://remnant2.wiki.fextralife.com/Ornate+Blade",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Ornate Flail",
-      "img": "1691940225816.png",
-      "img_short": "1691940225816_short.png",
+      "img": "1692370463773.png",
+      "img_short": "1692370463773_short.png",
       "description": "An intricately-forged mace with uniquely designed airways. Allows smaller wielders to get the mace up to speed much quicker.",
-      "source": "https://remnant2.wiki.fextralife.com//Ornate+Flail"
+      "source": "https://remnant2.wiki.fextralife.com/Ornate+Flail",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Rebellion Spear",
-      "img": "1691940231165.png",
-      "img_short": "1691940231165_short.png",
+      "img": "1692370469715.png",
+      "img_short": "1692370469715_short.png",
       "description": "A spear perfect for staying at a distance. Has excellent range, great recovery, and focused direct damage for one on one combat.",
-      "source": "https://remnant2.wiki.fextralife.com//Rebellion+Spear"
+      "source": "https://remnant2.wiki.fextralife.com/Rebellion+Spear",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Royal Broadsword",
-      "img": "1691940295139.png",
-      "img_short": "1691940295139_short.png",
+      "img": "1692370474974.png",
+      "img_short": "1692370474974_short.png",
       "description": "Standard issue Greatsword for the Empress's Royal Guards. Razor-sharp edges, extremely heavy, yet perfectly balanced.",
-      "source": "https://remnant2.wiki.fextralife.com//Royal+Broadsword"
+      "source": "https://remnant2.wiki.fextralife.com/Royal+Broadsword",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Rusted Claws",
-      "img": "1691940300434.png",
-      "img_short": "1691940300434_short.png",
+      "img": "1692370479940.png",
+      "img_short": "1692370479940_short.png",
       "description": "A pair of old-canine training bracers converted into deadly claws. Used for slashing and ripping.",
-      "source": "https://remnant2.wiki.fextralife.com//Rusted+Claws"
+      "source": "https://remnant2.wiki.fextralife.com/Rusted+Claws",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Scrap Hammer",
-      "img": "1691940305725.png",
-      "img_short": "1691940305725_short.png",
+      "img": "1692370485194.png",
+      "img_short": "1692370485194_short.png",
       "description": "A large, heavy warhammer cobbled together from engine components. It is a slow- but-devastating weapon meant to destroy anything it hits.",
-      "source": "https://remnant2.wiki.fextralife.com//Scrap+Hammer"
+      "source": "https://remnant2.wiki.fextralife.com/Scrap+Hammer",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Scrap Hatchet",
-      "img": "1691940311026.png",
-      "img_short": "1691940311026_short.png",
+      "img": "1692370490856.png",
+      "img_short": "1692370490856_short.png",
       "description": "A common chopping tool that has been repurposed for combat. Rapidly cycles attacks from right to left. Charge attacks strike twice.",
-      "source": "https://remnant2.wiki.fextralife.com//Scrap+Hatchet"
+      "source": "https://remnant2.wiki.fextralife.com/Scrap+Hatchet",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Scrap Staff",
-      "img": "1691940316397.png",
-      "img_short": "1691940316397_short.png",
+      "img": "1692370496703.png",
+      "img_short": "1692370496703_short.png",
       "description": "A staff made from old plumbing parts used for controlling wide swaths in front of the wielder.",
-      "source": "https://remnant2.wiki.fextralife.com//Scrap+Staff"
+      "source": "https://remnant2.wiki.fextralife.com/Scrap+Staff",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Steel Flail",
-      "img": "1691940360673.png",
-      "img_short": "1691940360673_short.png",
+      "img": "1692370501855.png",
+      "img_short": "1692370501855_short.png",
       "description": "An unorthodox weapon meant to convert momentum into destruction. Some attacks can continuously chain overhead swings.",
-      "source": "https://remnant2.wiki.fextralife.com//Steel+Flail"
+      "source": "https://remnant2.wiki.fextralife.com/Steel+Flail",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Steel Katana",
-      "img": "1691940366007.png",
-      "img_short": "1691940366007_short.png",
+      "img": "1692370507155.png",
+      "img_short": "1692370507155_short.png",
       "description": "An old piece of steel with serrations cut into one side. Pipe handle provides limited grip.",
-      "source": "https://remnant2.wiki.fextralife.com//Steel+Katana"
+      "source": "https://remnant2.wiki.fextralife.com/Steel+Katana",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Steel Spear",
-      "img": "1691940371355.png",
-      "img_short": "1691940371355_short.png",
+      "img": "1692370512712.png",
+      "img_short": "1692370512712_short.png",
       "description": "A spear perfect for staying at range with quick, focused attacks. High, single-target damage.",
-      "source": "https://remnant2.wiki.fextralife.com//Steel+Spear"
+      "source": "https://remnant2.wiki.fextralife.com/Steel+Spear",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Steel Sword",
-      "img": "1691940376601.png",
-      "img_short": "1691940376601_short.png",
+      "img": "1692370517800.png",
+      "img_short": "1692370517800_short.png",
       "description": "A long, sharp blade hammered out of vehicle leaf springs. Well-rounded for most situations.",
-      "source": "https://remnant2.wiki.fextralife.com//Steel+Sword"
+      "source": "https://remnant2.wiki.fextralife.com/Steel+Sword",
+      "path": "meleeWeapon",
+      "modExclusive": null
+    },
+    {
+      "name": "Gas Giant",
+      "img": "1692370522975.png",
+      "img_short": "1692370522975_short.png",
+      "description": "Dealing damage unleashes the dormant Toxic Gas within the head. When infused, Basic Attacks apply CORRODED for 5s.",
+      "source": "https://remnant2.wiki.fextralife.com/Tal'Ratha+Hammer",
+      "path": "meleeWeapon",
+      "modExclusive": "Dying Breath"
     },
     {
       "name": "Vice Grips",
-      "img": "1691940531863.png",
-      "img_short": "1691940531863_short.png",
+      "img": "1692370528272.png",
+      "img_short": "1692370528272_short.png",
       "description": "A N'Erudian tool converted into a ruthless ripping device. High raw damage.",
-      "source": "https://remnant2.wiki.fextralife.com//Vice+Grips"
+      "source": "https://remnant2.wiki.fextralife.com/Vice+Grips",
+      "path": "meleeWeapon",
+      "modExclusive": null
     },
     {
       "name": "Atom Smasher",
-      "img": "1691940587869.png",
-      "img_short": "1691940587869_short.png",
+      "img": "1692370533601.png",
+      "img_short": "1692370533601_short.png",
       "description": "A powerful crushing device that harnesses rocket technology to increase smashing force.",
-      "source": "https://remnant2.wiki.fextralife.com//Atom+Smasher"
+      "source": "https://remnant2.wiki.fextralife.com/Atom+Smasher",
+      "path": "meleeWeapon",
+      "modExclusive": "Accelerator"
     },
     {
       "name": "Assassin's Dagger",
-      "img": "1691940635790.png",
-      "img_short": "1691940635790_short.png",
+      "img": "1692370538867.png",
+      "img_short": "1692370538867_short.png",
       "description": "Lightweight. Silent. Deadly. It's rumored that the blade is meant to bestow a slow, agonizing death.",
-      "source": "https://remnant2.wiki.fextralife.com//Assassin's+Dagger"
+      "source": "https://remnant2.wiki.fextralife.com/Assassin's+Dagger",
+      "path": "meleeWeapon",
+      "modExclusive": "Bloodthirst"
     },
     {
       "name": "Atom Splitter",
-      "img": "1691940641163.png",
-      "img_short": "1691940641163_short.png",
+      "img": "1692370544152.png",
+      "img_short": "1692370544152_short.png",
       "description": "A giant tool for splitting heavy rocks.",
-      "source": "https://remnant2.wiki.fextralife.com//Atom+Splitter"
+      "source": "https://remnant2.wiki.fextralife.com/Atom+Splitter",
+      "path": "meleeWeapon",
+      "modExclusive": "Fission Strike"
     },
     {
       "name": "Dreamcatcher",
-      "img": "1691940646616.png",
-      "img_short": "1691940646616_short.png",
+      "img": "1692370549334.png",
+      "img_short": "1692370549334_short.png",
       "description": "There is an ethereal lightness to this weapon, as though it were made of paper or breath.Though it strikes its foes forcibly enough.",
-      "source": "https://remnant2.wiki.fextralife.com//Dreamcatcher"
+      "source": "https://remnant2.wiki.fextralife.com/Dreamcatcher",
+      "path": "meleeWeapon",
+      "modExclusive": "Dreamwave"
     },
     {
       "name": "Feral Judgement",
-      "img": "1691940651801.png",
-      "img_short": "1691940651801_short.png",
+      "img": "1692370554606.png",
+      "img_short": "1692370554606_short.png",
       "description": "A pair of gauntlets with sharp crystal blades that strike with vicious speed and velocity.",
-      "source": "https://remnant2.wiki.fextralife.com//Feral+Judgement"
+      "source": "https://remnant2.wiki.fextralife.com/Feral+Judgement",
+      "path": "meleeWeapon",
+      "modExclusive": "Death Sentence"
     },
     {
       "name": "Gas Giant",
-      "img": "1691940715990.png",
-      "img_short": "1691940715990_short.png",
+      "img": "1692370559630.png",
+      "img_short": "1692370559630_short.png",
       "description": "Dealing damage unleashes the dormant Toxic Gas within the head. When infused, Basic Attacks apply CORRODED for 5s.",
-      "source": "https://remnant2.wiki.fextralife.com//Gas+Giant"
-    },
-    {
-      "name": "Hero's Sword",
-      "img": "1691940811956.png",
-      "img_short": "1691940811956_short.png",
-      "description": "An ancient, quick, and versatile blade suited for many situations. Charge attacks cast a projectile for dealing melee damage at range.",
-      "source": "https://remnant2.wiki.fextralife.com//Hero's+Sword"
-    },
-    {
-      "name": "Huntress Spear",
-      "img": "1691940817408.png",
-      "img_short": "1691940817408_short.png",
-      "description": "The spear is oddly...quiet. Even when you slide your hand across its haft or drop it upon the ground, it makes an unthinkably small amount of noise.",
-      "source": "https://remnant2.wiki.fextralife.com//Huntress+Spear"
-    },
-    {
-      "name": "Krell Axe",
-      "img": "1691940822641.png",
-      "img_short": "1691940822641_short.png",
-      "description": "Shock",
-      "source": "https://remnant2.wiki.fextralife.com//Krell+Axe"
-    },
-    {
-      "name": "Nightshade",
-      "img": "1691940828026.png",
-      "img_short": "1691940828026_short.png",
-      "description": "Fast striking claws with a high Critical Hit Chance.Neutral Dodge grants the power  of Lifesteal.",
-      "source": "https://remnant2.wiki.fextralife.com//Nightshade"
-    },
-    {
-      "name": "Red Doe Staff",
-      "img": "1691940888990.png",
-      "img_short": "1691940888990_short.png",
-      "description": "A magical stave rumored to contain a healing spirit within. Strikes with wide swings.",
-      "source": "https://remnant2.wiki.fextralife.com//Red+Doe+Staff"
-    },
-    {
-      "name": "Spectral Blade",
-      "img": "1691940894217.png",
-      "img_short": "1691940894217_short.png",
-      "description": "A super-heated laser sword with an infinitely sharp edge. Perfect for cutting... anything.",
-      "source": "https://remnant2.wiki.fextralife.com//Spectral+Blade"
-    },
-    {
-      "name": "Stonebreaker",
-      "img": "1691940899353.png",
-      "img_short": "1691940899353_short.png",
-      "description": "A massive Greatsword which contains the harnessed magic of a corrupted Guardian. Can summon small shockwaves.",
-      "source": "https://remnant2.wiki.fextralife.com//Stonebreaker"
-    },
-    {
-      "name": "Gas Giant",
-      "img": "1691940441259.png",
-      "img_short": "1691940441259_short.png",
-      "description": "CORRODED",
-      "source": "https://remnant2.wiki.fextralife.com//Tal'Ratha+Hammer"
+      "source": "https://remnant2.wiki.fextralife.com/Gas+Giant",
+      "path": "meleeWeapon",
+      "modExclusive": "Dying Breath"
     },
     {
       "name": "Godsplitter",
-      "img": "1691940721343.png",
-      "img_short": "1691940721343_short.png",
+      "img": "1692370565183.png",
+      "img_short": "1692370565183_short.png",
       "description": "An expertly balanced blade that is the produc of advanced Fae metallurgy.",
-      "source": "https://remnant2.wiki.fextralife.com//Godsplitter"
+      "source": "https://remnant2.wiki.fextralife.com/Godsplitter",
+      "path": "meleeWeapon",
+      "modExclusive": "Fracture"
+    },
+    {
+      "name": "Hero's Sword",
+      "img": "1692370570289.png",
+      "img_short": "1692370570289_short.png",
+      "description": "An ancient, quick, and versatile blade suited for many situations. Charge attacks cast a projectile for dealing melee damage at range.",
+      "source": "https://remnant2.wiki.fextralife.com/Hero's+Sword",
+      "path": "meleeWeapon",
+      "modExclusive": "Energy Wave"
+    },
+    {
+      "name": "Huntress Spear",
+      "img": "1692370575829.png",
+      "img_short": "1692370575829_short.png",
+      "description": "The spear is oddly...quiet. Even when you slide your hand across its haft or drop it upon the ground, it makes an unthinkably small amount of noise.",
+      "source": "https://remnant2.wiki.fextralife.com/Huntress+Spear",
+      "path": "meleeWeapon",
+      "modExclusive": "Athibar"
+    },
+    {
+      "name": "Krell Axe",
+      "img": "1692370580923.png",
+      "img_short": "1692370580923_short.png",
+      "description": "Infused with Krell Shock magic, can be thrown if the wielder has stamina. Axe will magically reappear in-hand. Charge to throw.",
+      "source": "https://remnant2.wiki.fextralife.com/Krell+Axe",
+      "path": "meleeWeapon",
+      "modExclusive": "Krell Edge"
+    },
+    {
+      "name": "Nightshade",
+      "img": "1692370586174.png",
+      "img_short": "1692370586174_short.png",
+      "description": "Fast striking claws with a high Critical Hit Chance.Neutral Dodge grants the power  of Lifesteal.",
+      "source": "https://remnant2.wiki.fextralife.com/Nightshade",
+      "path": "meleeWeapon",
+      "modExclusive": "Beyond The Veil"
+    },
+    {
+      "name": "Red Doe Staff",
+      "img": "1692370591589.png",
+      "img_short": "1692370591589_short.png",
+      "description": "A magical stave rumored to contain a healing spirit within. Strikes with wide swings.",
+      "source": "https://remnant2.wiki.fextralife.com/Red+Doe+Staff",
+      "path": "meleeWeapon",
+      "modExclusive": "Lifeline"
+    },
+    {
+      "name": "Spectral Blade",
+      "img": "1692370597370.png",
+      "img_short": "1692370597370_short.png",
+      "description": "A super-heated laser sword with an infinitely sharp edge. Perfect for cutting... anything.",
+      "source": "https://remnant2.wiki.fextralife.com/Spectral+Blade",
+      "path": "meleeWeapon",
+      "modExclusive": "Whirlwind"
+    },
+    {
+      "name": "Stonebreaker",
+      "img": "1692370602643.png",
+      "img_short": "1692370602643_short.png",
+      "description": "A massive Greatsword which contains the harnessed magic of a corrupted Guardian. Can summon small shockwaves.",
+      "source": "https://remnant2.wiki.fextralife.com/Stonebreaker",
+      "path": "meleeWeapon",
+      "modExclusive": "Faultline"
     },
     {
       "name": "Smolder",
-      "img": "1692200437687.png",
-      "img_short": "1692200437687_short.png",
+      "img": "1692371181080.png",
+      "img_short": "1692371181080_short.png",
       "description": "Ascorched blade imbued with FIRE.",
       "source": "https://remnant2.wiki.fextralife.com/Smolder",
-      "path": "meleeWeapon"
+      "path": "meleeWeapon",
+      "modExclusive": "Blaze"
     },
     {
       "name": "World's Edge",
-      "img": "1692200443479.png",
-      "img_short": "1692200443479_short.png",
+      "img": "1692371186202.png",
+      "img_short": "1692371186202_short.png",
       "description": "A glowing Greatsword forged from shards of a shattered Worldstone. Chargeattacks cast waves.",
       "source": "https://remnant2.wiki.fextralife.com/World's+Edge",
-      "path": "meleeWeapon"
+      "path": "meleeWeapon",
+      "modExclusive": "Horizon Strike"
     }
   ],
   "longGun": [
     {
       "name": "AS-10 Bulldog",
-      "img": "1691940908427.png",
-      "img_short": "1691940908427_short.png",
+      "img": "1692370609308.png",
+      "img_short": "1692370609308_short.png",
       "description": "A brutal drum-fed fully-automatic 10 gauge shotgun designed for close-quarters combat.",
-      "source": "https://remnant2.wiki.fextralife.com//AS-10+Bulldog"
+      "source": "https://remnant2.wiki.fextralife.com/AS-10+Bulldog",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Blackmaw AR-47",
-      "img": "1691940948278.png",
-      "img_short": "1691940948278_short.png",
+      "img": "1692370614655.png",
+      "img_short": "1692370614655_short.png",
       "description": "A fully automatic rifle with a medium capacity. Highly effective with controlled bursts.",
-      "source": "https://remnant2.wiki.fextralife.com//Blackmaw+AR-47"
+      "source": "https://remnant2.wiki.fextralife.com/Blackmaw+AR-47",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Chicago Typewriter",
-      "img": "1691940953596.png",
-      "img_short": "1691940953596_short.png",
+      "img": "1692370619969.png",
+      "img_short": "1692370619969_short.png",
       "description": "A classic Tommy Gun with large ammo capacity and a slow reload. Poor initial accuracy which improves while holding down the trigger.",
-      "source": "https://remnant2.wiki.fextralife.com//Chicago+Typewriter"
+      "source": "https://remnant2.wiki.fextralife.com/Chicago+Typewriter",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Coach Gun",
-      "img": "1691940958895.png",
-      "img_short": "1691940958895_short.png",
+      "img": "1692370625832.png",
+      "img_short": "1692370625832_short.png",
       "description": "A double-barrel over/under shotgun modified to fire powerful slugs. High damage with a decent fire rate, but very low magazine capacity.",
-      "source": "https://remnant2.wiki.fextralife.com//Coach+Gun"
+      "source": "https://remnant2.wiki.fextralife.com/Coach+Gun",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Crossbow",
-      "img": "1691940964662.png",
-      "img_short": "1691940964662_short.png",
+      "img": "1692370630852.png",
+      "img_short": "1692370630852_short.png",
       "description": "An accurate and deadly single-shot crossbow with a low sound profile.",
-      "source": "https://remnant2.wiki.fextralife.com//Crossbow"
+      "source": "https://remnant2.wiki.fextralife.com/Crossbow",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Ford's Scattergun",
-      "img": "1691941021269.png",
-      "img_short": "1691941021269_short.png",
+      "img": "1692370636131.png",
+      "img_short": "1692370636131_short.png",
       "description": "An incredibly powerful 12 gauge shotgun with a wide spread. High damage, slow reload.",
-      "source": "https://remnant2.wiki.fextralife.com//Ford's+Scattergun"
+      "source": "https://remnant2.wiki.fextralife.com/Ford's+Scattergun",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Huntmaster M1",
-      "img": "1691941026707.png",
-      "img_short": "1691941026707_short.png",
+      "img": "1692370641796.png",
+      "img_short": "1692370641796_short.png",
       "description": "A powerful single-shot sniper rifle with excellent range and pinpoint accuracy. Comes with a 3x scope. Tap SCOPE to toggle.",
-      "source": "https://remnant2.wiki.fextralife.com//Huntmaster+M1"
+      "source": "https://remnant2.wiki.fextralife.com/Huntmaster+M1",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Pulse Rifle",
-      "img": "1691941031932.png",
-      "img_short": "1691941031932_short.png",
+      "img": "1692370647187.png",
+      "img_short": "1692370647187_short.png",
       "description": "An extremely accurate, high-tech pulse rifle which shoots quick three-round bursts.",
-      "source": "https://remnant2.wiki.fextralife.com//Pulse+Rifle"
+      "source": "https://remnant2.wiki.fextralife.com/Pulse+Rifle",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Royal Hunting Bow",
-      "img": "1691941037740.png",
-      "img_short": "1691941037740_short.png",
+      "img": "1692370652737.png",
+      "img_short": "1692370652737_short.png",
       "description": "The Postulant grants these to those who can defeat him. None know why. Some suspect that the game is mere preamble—that perhaps the true game is what its players do next.",
-      "source": "https://remnant2.wiki.fextralife.com//Royal+Hunting+Bow"
+      "source": "https://remnant2.wiki.fextralife.com/Royal+Hunting+Bow",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Rusty Lever Action",
-      "img": "1691941077003.png",
-      "img_short": "1691941077003_short.png",
+      "img": "1692370658940.png",
+      "img_short": "1692370658940_short.png",
       "description": " A well-worn lever-action rifle.",
-      "source": "https://remnant2.wiki.fextralife.com//Rusty+Lever+Action"
+      "source": "https://remnant2.wiki.fextralife.com/Rusty+Lever+Action",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Widowmaker",
-      "img": "1691941082436.png",
-      "img_short": "1691941082436_short.png",
+      "img": "1692370664332.png",
+      "img_short": "1692370664332_short.png",
       "description": "A powerful single-shot sniper rifle with excellent range and pinpoint accuracy. Comes with a 3x scope. Tap SCOPE to toggle.",
-      "source": "https://remnant2.wiki.fextralife.com//Widowmaker"
+      "source": "https://remnant2.wiki.fextralife.com/Widowmaker",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Wrangler 1860",
-      "img": "1691941087840.png",
-      "img_short": "1691941087840_short.png",
+      "img": "1692370669475.png",
+      "img_short": "1692370669475_short.png",
       "description": "A well-rounded lever-action rifle effective at most ranges, hampered only by a slow reload.",
-      "source": "https://remnant2.wiki.fextralife.com//Wrangler+1860"
+      "source": "https://remnant2.wiki.fextralife.com/Wrangler+1860",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "XMG57 Bonesaw",
-      "img": "1691941093123.png",
-      "img_short": "1691941093123_short.png",
+      "img": "1692370674830.png",
+      "img_short": "1692370674830_short.png",
       "description": "An experimental infantry support weapon used for prolonged suppressive fire. High capacity, long reload, and prone to overheating. Becomes more accurate while holding down the trigger.",
-      "source": "https://remnant2.wiki.fextralife.com//XMG57+Bonesaw"
+      "source": "https://remnant2.wiki.fextralife.com/XMG57+Bonesaw",
+      "path": "longGun",
+      "modExclusive": null
     },
     {
       "name": "Alpha-Omega",
-      "img": "1691941098464.png",
-      "img_short": "1691941098464_short.png",
-      "description": "0.1s",
-      "source": "https://remnant2.wiki.fextralife.com//Alpha-Omega"
+      "img": "1692370680190.png",
+      "img_short": "1692370680190_short.png",
+      "description": "After charging, fires an accurate high-damage rail which penetrates any target. Each successful hit reduces the charge time by 0.1s and increases damage by 10% for 1.5s. Stacks 5x.",
+      "source": "https://remnant2.wiki.fextralife.com/Alpha-Omega",
+      "path": "longGun",
+      "modExclusive": "Beta Ray"
     },
     {
       "name": "Aphelion",
-      "img": "1691941103895.png",
-      "img_short": "1691941103895_short.png",
+      "img": "1692370686119.png",
+      "img_short": "1692370686119_short.png",
       "description": "Fires a hypercharged wide-arcing line that passes through targets.",
-      "source": "https://remnant2.wiki.fextralife.com//Aphelion"
+      "source": "https://remnant2.wiki.fextralife.com/Aphelion",
+      "path": "longGun",
+      "modExclusive": "Supernova"
     },
     {
       "name": "Crescent Moon",
-      "img": "1691941171404.png",
-      "img_short": "1691941171404_short.png",
+      "img": "1692370691873.png",
+      "img_short": "1692370691873_short.png",
       "description": " ",
-      "source": "https://remnant2.wiki.fextralife.com//Crescent+Moon"
+      "source": "https://remnant2.wiki.fextralife.com/Crescent+Moon",
+      "path": "longGun",
+      "modExclusive": "Moonlight Barrage"
     },
     {
       "name": "Deceit",
-      "img": "1691941176866.png",
-      "img_short": "1691941176866_short.png",
+      "img": "1692370697829.png",
+      "img_short": "1692370697829_short.png",
       "description": "A pinpoint accurate split-barreled rifle that fires two penetrating rails. High base damage, but cannot score Weakspot hits. Charge to fire",
-      "source": "https://remnant2.wiki.fextralife.com//Deceit"
+      "source": "https://remnant2.wiki.fextralife.com/Deceit",
+      "path": "longGun",
+      "modExclusive": "Ouroboros"
     },
     {
       "name": "Merciless",
-      "img": "1691941182332.png",
-      "img_short": "1691941182332_short.png",
-      "description": "250",
-      "source": "https://remnant2.wiki.fextralife.com//Merciless"
+      "img": "1692370703284.png",
+      "img_short": "1692370703284_short.png",
+      "description": "Fires tooth-like flechettes. When weapon reticle is fully compressed, flechettes apply 250 BLEEDING Damage over 10s.",
+      "source": "https://remnant2.wiki.fextralife.com/Merciless",
+      "path": "longGun",
+      "modExclusive": "Bloodline"
     },
     {
       "name": "Nightfall",
-      "img": "1691941249739.png",
-      "img_short": "1691941249739_short.png",
+      "img": "1692370708889.png",
+      "img_short": "1692370708889_short.png",
       "description": "A device forged of pure evil. Fires hardened bone shards at bonus stagger. Semi-automatic with a medium kick.",
-      "source": "https://remnant2.wiki.fextralife.com//Nightfall"
+      "source": "https://remnant2.wiki.fextralife.com/Nightfall",
+      "path": "longGun",
+      "modExclusive": "Dreadwalker"
     },
     {
       "name": "Plasma Cutter",
-      "img": "1691941255233.png",
-      "img_short": "1691941255233_short.png",
+      "img": "1692370713958.png",
+      "img_short": "1692370713958_short.png",
       "description": "An energy-based cutting tool that increases damage when focused on a target. Can overheat.",
-      "source": "https://remnant2.wiki.fextralife.com//Plasma+Cutter"
+      "source": "https://remnant2.wiki.fextralife.com/Plasma+Cutter",
+      "path": "longGun",
+      "modExclusive": "Heat Sink"
     },
     {
       "name": "Sagittarius",
-      "img": "1691941260417.png",
-      "img_short": "1691941260417_short.png",
+      "img": "1692370719195.png",
+      "img_short": "1692370719195_short.png",
       "description": "A high-powered Bow which deals bonus damage to Weakspots. Can be charged for increased effect. Perfect release after Charge for maximum damage",
-      "source": "https://remnant2.wiki.fextralife.com//Sagittarius"
+      "source": "https://remnant2.wiki.fextralife.com/Sagittarius",
+      "path": "longGun",
+      "modExclusive": "Starfall"
     },
     {
       "name": "Twisted Arbalest",
-      "img": "1691941266168.png",
-      "img_short": "1691941266168_short.png",
-      "description": "5",
-      "source": "https://remnant2.wiki.fextralife.com//Twisted+Arbalest"
+      "img": "1692370725199.png",
+      "img_short": "1692370725199_short.png",
+      "description": "A strange device which fires a bouncing Energy Disc that can hit up to 5 enemies in close proximity. Damage is reduced with each bounce.",
+      "source": "https://remnant2.wiki.fextralife.com/Twisted+Arbalest",
+      "path": "longGun",
+      "modExclusive": "Guardian's Call"
     }
   ],
   "handGun": [
     {
       "name": "Cube Gun",
-      "img": "1691941272598.png",
-      "img_short": "1691941272598_short.png",
+      "img": "1692370732090.png",
+      "img_short": "1692370732090_short.png",
       "description": "Projectiles return on hit or after reaching max range. Reloading retrieves shot projectiles. Max 5 fired projectiles. Infinite Ammo. Can overheat.",
-      "source": "https://remnant2.wiki.fextralife.com//Cube+Gun"
+      "source": "https://remnant2.wiki.fextralife.com/Cube+Gun",
+      "path": "handGun",
+      "modExclusive": "Cube Shield"
     },
     {
       "name": "Enigma",
-      "img": "1691941278043.png",
-      "img_short": "1691941278043_short.png",
-      "description": "7.5m",
-      "source": "https://remnant2.wiki.fextralife.com//Enigma"
+      "img": "1692370737120.png",
+      "img_short": "1692370737120_short.png",
+      "description": "Fires an electrical stream thatjumps to nearby targets within 7.5m, dealing 30% reduced damage perjump. Applies OVERLOADED, dealing 30 SHOCK damage every 5 seconds for 5.2s.",
+      "source": "https://remnant2.wiki.fextralife.com/Enigma",
+      "path": "handGun",
+      "modExclusive": "Chaos Driver"
     },
     {
       "name": "Hellfire",
-      "img": "1691941283828.png",
-      "img_short": "1691941283828_short.png",
-      "description": "BURNING",
-      "source": "https://remnant2.wiki.fextralife.com//Hellfire"
+      "img": "1692370742918.png",
+      "img_short": "1692370742918_short.png",
+      "description": "Spews flames that apply BURNING which deals 300 FIRE damage over 10 seconds.",
+      "source": "https://remnant2.wiki.fextralife.com/Hellfire",
+      "path": "handGun",
+      "modExclusive": "Explosive Shot"
     },
     {
       "name": "Meridian",
-      "img": "1691941337585.png",
-      "img_short": "1691941337585_short.png",
-      "description": "4m",
-      "source": "https://remnant2.wiki.fextralife.com//Meridian"
+      "img": "1692370748388.png",
+      "img_short": "1692370748388_short.png",
+      "description": "Fires volatile grenades that explode on direct contact with enemies and deal AOE damage within 4m. Dormant grenades eventually explode and can also be shot to detonate early.",
+      "source": "https://remnant2.wiki.fextralife.com/Meridian",
+      "path": "handGun",
+      "modExclusive": "Screamer"
     },
     {
       "name": "Nebula",
-      "img": "1691941393044.png",
-      "img_short": "1691941393044_short.png",
-      "description": "ACID",
-      "source": "https://remnant2.wiki.fextralife.com//Nebula"
+      "img": "1692370753743.png",
+      "img_short": "1692370753743_short.png",
+      "description": "Fires a stream of superhot ACID gas which applies the CORRODED effect, dealing 300 CORROSIVE Damage over 15s. Killing targets CORRODED by Nebula spawns a gas cloud which applies its on-hit effect. Gas clouds lasts 2s and can be refreshed.",
+      "source": "https://remnant2.wiki.fextralife.com/Nebula",
+      "path": "handGun",
+      "modExclusive": "Nano Swarm"
     },
     {
       "name": "Rune Pistol",
-      "img": "1691941398202.png",
-      "img_short": "1691941398202_short.png",
+      "img": "1692370758763.png",
+      "img_short": "1692370758763_short.png",
       "description": "A pistol infused with mysterious Fae magic. Rapidly fires 3-round bursts of energy. Trigger can be held to continuously fire.",
-      "source": "https://remnant2.wiki.fextralife.com//Rune+Pistol"
+      "source": "https://remnant2.wiki.fextralife.com/Rune+Pistol",
+      "path": "handGun",
+      "modExclusive": "Soul Brand"
     },
     {
       "name": "Sorrow",
-      "img": "1691941439884.png",
-      "img_short": "1691941439884_short.png",
+      "img": "1692370763822.png",
+      "img_short": "1692370763822_short.png",
       "description": "The last vestiges of a fallen sister, this mystical crossbow pistol has the ability to recall its bolts to heal the wielder.",
-      "source": "https://remnant2.wiki.fextralife.com//Sorrow"
+      "source": "https://remnant2.wiki.fextralife.com/Sorrow",
+      "path": "handGun",
+      "modExclusive": "Eulogy"
     },
     {
       "name": "Star Shot",
-      "img": "1691941445513.png",
-      "img_short": "1691941445513_short.png",
+      "img": "1692370769277.png",
+      "img_short": "1692370769277_short.png",
       "description": "Fires a fast moving projectile which explodes on contact. Explosion has no damage falloff.",
-      "source": "https://remnant2.wiki.fextralife.com//Star+Shot"
+      "source": "https://remnant2.wiki.fextralife.com/Star+Shot",
+      "path": "handGun",
+      "modExclusive": "Big Bang"
     },
     {
       "name": "Bolt Driver",
-      "img": "1691941489545.png",
-      "img_short": "1691941489545_short.png",
+      "img": "1692370774971.png",
+      "img_short": "1692370774971_short.png",
       "description": "An ingenius Gul rifle designed to harness energy from Pan crystals. Charge to fire a 3- shot burst.",
-      "source": "https://remnant2.wiki.fextralife.com//Bolt+Driver"
+      "source": "https://remnant2.wiki.fextralife.com/Bolt+Driver",
+      "path": "handGun",
+      "modExclusive": null
     },
     {
       "name": "Double Barrel",
-      "img": "1691941494660.png",
-      "img_short": "1691941494660_short.png",
+      "img": "1692370780117.png",
+      "img_short": "1692370780117_short.png",
       "description": " ",
-      "source": "https://remnant2.wiki.fextralife.com//Double+Barrel"
+      "source": "https://remnant2.wiki.fextralife.com/Double+Barrel",
+      "path": "handGun",
+      "modExclusive": null
     },
     {
       "name": "MP60-R",
-      "img": "1691941499884.png",
-      "img_short": "1691941499884_short.png",
+      "img": "1692370785578.png",
+      "img_short": "1692370785578_short.png",
       "description": "A small-caliber submachine gun best suited for close range skirmishes.",
-      "source": "https://remnant2.wiki.fextralife.com//MP60-R"
+      "source": "https://remnant2.wiki.fextralife.com/MP60-R",
+      "path": "handGun",
+      "modExclusive": null
     },
     {
       "name": "Repeater Pistol",
-      "img": "1691941568787.png",
-      "img_short": "1691941568787_short.png",
+      "img": "1692370790847.png",
+      "img_short": "1692370790847_short.png",
       "description": "An accurate semi-automatic pistol that can rapidly fire small-caliber bullets.",
-      "source": "https://remnant2.wiki.fextralife.com//Repeater+Pistol"
+      "source": "https://remnant2.wiki.fextralife.com/Repeater+Pistol",
+      "path": "handGun",
+      "modExclusive": null
     },
     {
       "name": "Rupture Cannon",
-      "img": "1691941574140.png",
-      "img_short": "1691941574140_short.png",
+      "img": "1692370796089.png",
+      "img_short": "1692370796089_short.png",
       "description": "A mid-range Pistol Shotgun with a brisk fire rate and medium recoil Slower reload.",
-      "source": "https://remnant2.wiki.fextralife.com//Rupture+Canon"
-    },
-    {
-      "name": "Silverback Model 500",
-      "img": "1691941670076.png",
-      "img_short": "1691941670076_short.png",
-      "description": "A powerful hand cannon witha low capacity cylinder. High damage and a heavy kick.",
-      "source": "https://remnant2.wiki.fextralife.com//Silverback+Model+500"
-    },
-    {
-      "name": "Sureshot",
-      "img": "1691941675477.png",
-      "img_short": "1691941675477_short.png",
-      "description": "A high-caliber single-shot hunting pistol that inflicts heavy damage at mid to long range.",
-      "source": "https://remnant2.wiki.fextralife.com//Sureshot"
-    },
-    {
-      "name": "Tech 22",
-      "img": "1691941680744.png",
-      "img_short": "1691941680744_short.png",
-      "description": "A suppressed small-caliber automatic pistol with medium magazine capacity and a high fire rate.",
-      "source": "https://remnant2.wiki.fextralife.com//Tech+22"
-    },
-    {
-      "name": "Western Classic",
-      "img": "1691941685859.png",
-      "img_short": "1691941685859_short.png",
-      "description": "A classic six-shooter. Tough. Dependable.",
-      "source": "https://remnant2.wiki.fextralife.com//Western+Classic"
-    },
-    {
-      "name": "Rusty Repeater",
-      "img": "1691941690989.png",
-      "img_short": "1691941690989_short.png",
-      "description": "An old antique pistol.",
-      "source": "https://remnant2.wiki.fextralife.com//Rusty+Repeater"
+      "source": "https://remnant2.wiki.fextralife.com/Rupture+Canon",
+      "path": "handGun",
+      "modExclusive": null
     },
     {
       "name": "Service Pistol",
-      "img": "1691941579439.png",
-      "img_short": "1691941579439_short.png",
+      "img": "1692370801429.png",
+      "img_short": "1692370801429_short.png",
       "description": "Astandard issue military spec sidearm known for its reliability and accuracy.",
-      "source": "https://remnant2.wiki.fextralife.com//Service+Pistol"
+      "source": "https://remnant2.wiki.fextralife.com/Service+Pistol",
+      "path": "handGun",
+      "modExclusive": null
+    },
+    {
+      "name": "Silverback Model 500",
+      "img": "1692370807268.png",
+      "img_short": "1692370807268_short.png",
+      "description": "A powerful hand cannon witha low capacity cylinder. High damage and a heavy kick.",
+      "source": "https://remnant2.wiki.fextralife.com/Silverback+Model+500",
+      "path": "handGun",
+      "modExclusive": null
+    },
+    {
+      "name": "Sureshot",
+      "img": "1692370812576.png",
+      "img_short": "1692370812576_short.png",
+      "description": "A high-caliber single-shot hunting pistol that inflicts heavy damage at mid to long range.",
+      "source": "https://remnant2.wiki.fextralife.com/Sureshot",
+      "path": "handGun",
+      "modExclusive": null
+    },
+    {
+      "name": "Tech 22",
+      "img": "1692370818092.png",
+      "img_short": "1692370818092_short.png",
+      "description": "A suppressed small-caliber automatic pistol with medium magazine capacity and a high fire rate.",
+      "source": "https://remnant2.wiki.fextralife.com/Tech+22",
+      "path": "handGun",
+      "modExclusive": null
+    },
+    {
+      "name": "Western Classic",
+      "img": "1692370823351.png",
+      "img_short": "1692370823351_short.png",
+      "description": "A classic six-shooter. Tough. Dependable.",
+      "source": "https://remnant2.wiki.fextralife.com/Western+Classic",
+      "path": "handGun",
+      "modExclusive": null
+    },
+    {
+      "name": "Rusty Repeater",
+      "img": "1692370828452.png",
+      "img_short": "1692370828452_short.png",
+      "description": "An old antique pistol.",
+      "source": "https://remnant2.wiki.fextralife.com/Rusty+Repeater",
+      "path": "handGun",
+      "modExclusive": null
     }
   ],
   "amulet": [
@@ -4104,7 +4258,7 @@
       "source": "https://remnant2.wiki.fextralife.com/Fission+Strike",
       "path": "weaponMods",
       "type": null,
-      "exclusive": false
+      "exclusive": true
     },
     {
       "name": "Fracture",
@@ -4244,7 +4398,7 @@
       "source": "https://remnant2.wiki.fextralife.com/Root+Blades",
       "path": "weaponMods",
       "type": null,
-      "exclusive": false
+      "exclusive": true
     },
     {
       "name": "Rootlash",
@@ -4424,7 +4578,7 @@
       "source": "https://remnant2.wiki.fextralife.com/Accelerator",
       "path": "weaponMods",
       "type": null,
-      "exclusive": false
+      "exclusive": true
     },
     {
       "name": "Dying Breath",

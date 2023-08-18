@@ -1,8 +1,8 @@
 @import "./../../../variables.scss";
 
 .item{    
-    width: 200px;
-    height: 300px;
+    width: 80%;
+    // height: 300px;
     cursor: pointer;
     border: 5px solid transparent;
 }
@@ -15,7 +15,7 @@
 #inventory{
     // padding: 8px;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Colunas de tamanho mínimo de 200px */
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
     gap: 8px; 
     place-content: space-between;
     overflow-x: hidden;
