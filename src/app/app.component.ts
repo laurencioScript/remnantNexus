@@ -25,6 +25,8 @@ export class AppComponent {
     if(this.db){
       
       this.build = {
+        classes: [this.db.classes[0], this.db.classes[1]],
+        skills: [this.db.skills[0], this.db.skills[1]],
         rings: [this.db.rings[0], this.db.rings[1], this.db.rings[2], this.db.rings[3]],
         meleWeapon: this.db.meleeWeapon[0],
         modMeleeWeapon: null,
@@ -37,16 +39,20 @@ export class AppComponent {
         mutatorHandGun: null,
         amulet: this.db.amulet[0],
         relic: this.db.relic[0],
+        relicFrags: [this.db.relicFragments[0],this.db.relicFragments[1],this.db.relicFragments[2]],
         headArmor: this.db.headArmor[0],
         glove: this.db.glove[0],
         bodyArmor: this.db.bodyArmor[0],
         legArmor: this.db.legArmor[0]
       }
+
+      this.attachmentSkill(this.db.classes[0]);
+      this.attachmentSkill(this.db.classes[1]);
     }
     
   }
 
- filterSpecificItems(items, type){
+ filterSpecificItems({items, type, selected}){
   
   if(type == "modLongGun" || type == "modHandGun"){
     return items.weaponMods.filter(i => !i.exclusive)
@@ -60,6 +66,11 @@ export class AppComponent {
     return items.mutators.filter(i => i.type == "Melee")
   }
 
+  if(type == "skills"){
+    const skill = items.skills.find(s => s.img == selected.img)
+    return items.skills.filter(i => i.type == skill.type)
+  }
+
   return items[type]
  }
 
@@ -69,7 +80,7 @@ export class AppComponent {
       event.stopPropagation()
     }
 
-    const items = this.filterSpecificItems(this.db, data);
+    const items = this.filterSpecificItems({items: this.db, type: data, selected});
 
     const dialogRef = this.dialog.open(InventoryComponent, {
       width: '80%',
@@ -80,24 +91,40 @@ export class AppComponent {
   
     dialogRef.afterClosed().subscribe(value => {
       if (value) {
+        let updated = false;
         for (const key in this.build) {
           if (Array.isArray(this.build[key])) {
-            this.build[key] = this.build[key].map(k => (k.img === selected?.img) ? value : k);
-          } else if (this.build[key].img === selected?.img) {
+            this.build[key] = this.build[key].map(k => {
+              if(k.img === selected?.img) {
+                updated = true;
+                return value
+              }
+              else {
+                return k;
+              }
+            });
+          } else if (this.build[key]?.img === selected?.img) {
             this.build[key] = value;
-            break;
+            updated  = true;
           }
-          else{
-            this.build[data] = value;
-            break;
-          }
+        }
+        
+
+        if(!updated){
+          this.build[data] = value;
         }
 
         this.attachmentMod(data)
+        this.attachmentSkill(value)
       }
 
       
     });
+  }
+
+  attachmentSkill(value: any){
+    const i = this.build.classes.findIndex(c => c.img == value.img)
+    this.build.skills[i] = this.db.skills.find(s => s.type == value.name)
   }
 
   attachmentMod(data: string) {

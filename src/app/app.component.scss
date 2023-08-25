@@ -1,6 +1,6 @@
 $width: 280px;
 $height: 356px;
-$division: 1.5;
+$division: 1.7;
 $ligth-grey: #525252;
 $ligth-grey: #808080;
 $sizeArmorsAndJewelrys: 100px;
@@ -70,6 +70,11 @@ mat-dialog-container {
 }
 
 .armorsAndJewelrys div .item img {
+  width: calc($sizeArmorsAndJewelrys / $division);
+  height: calc($sizeArmorsAndJewelrys / $division);
+}
+
+.armorsAndJewelrys div .classes img {
   width: calc($sizeArmorsAndJewelrys / $division);
   height: calc($sizeArmorsAndJewelrys / $division);
 }
@@ -208,7 +213,33 @@ a {
   
 }
 
+.classes {
+  position: relative;
+  cursor: pointer;
+  background: #1a1a1a;
+  border-radius: 48px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 8px;
+  margin-bottom: 14px;
+  border: 2px solid #282828;
+}
 
+.skill{
+  border-radius: 48px;
+  border: 2px solid #282828;
+  left: -32px;
+  top: 30px;
+  position: absolute;
+  img{
+    height: 48px !important;
+    width: 48px !important;
+    border-radius: 48px;
+  }
+}
 
 .item {
   position: relative;
@@ -237,6 +268,20 @@ a {
     }
   }
 
+  .relicFrag{
+    display: none;
+    border: 1px solid #525252;
+    background: rgba(0, 0, 0, 0.8);
+    box-shadow: inset 0 0 10px black;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    position: absolute;
+    img{
+      width: 40px !important;
+    }
+  }
+
   .fixedLeft{
     left: 8px;
     bottom: -24px;
@@ -246,6 +291,23 @@ a {
     right: 8px;
     bottom: -24px;
   }
+
+  .fixedTop{
+    left: -52px;
+    top: -24px;
+  }
+
+  .fixedMid{
+    left: -52px;
+    top: 24px;
+  }
+
+  .fixedBottom{
+    left: -52px;
+    bottom: -32px;
+  }
+
+  
 }
 
 .disabled{

@@ -10,6 +10,13 @@
       <div class="armorsAndJewelrys">
         <div class="armor">
 
+          <div class="classes" (click)="openDialog('classes', build.classes[0])">
+            <img [src]=" 'assets/imgs/items/' + build.classes[0].img_short" id="headArmorIMG" />
+            <div class="skill"  [ngClass]="{'disabled': build.longGun.modExclusive}" (click)="openDialog('skills', build.skills[0], $event)">
+              <img *ngIf="build.skills[0]" [src]=" 'assets/imgs/items/' + build.skills[0].img_short" />
+            </div>
+          </div>
+
           <div class="item" (click)="openDialog('headArmor', build.headArmor)">
             <img [src]=" 'assets/imgs/items/' + build.headArmor.img_short" id="headArmorIMG" />
           </div>
@@ -35,10 +42,26 @@
 
           <div class="item" (click)="openDialog('relic', build.relic)">
             <img [src]=" 'assets/imgs/items/' + build.relic.img_short" id="relicIMG" />
+            <div class="relicFrag fixedTop"  [ngClass]="{'disabled': build.longGun.modExclusive}" (click)="openDialog('relicFragments', build.relicFrags[0], $event)">
+              <img *ngIf="build.relicFrags[0]" [src]=" 'assets/imgs/items/' + build.relicFrags[0].img_short" />
+            </div>
+            <div class="relicFrag fixedMid"  [ngClass]="{'disabled': build.longGun.modExclusive}" (click)="openDialog('relicFragments', build.relicFrags[1], $event)">
+              <img *ngIf="build.relicFrags[1]" [src]=" 'assets/imgs/items/' + build.relicFrags[1].img_short" />
+            </div>
+            <div class="relicFrag fixedBottom"  [ngClass]="{'disabled': build.longGun.modExclusive}" (click)="openDialog('relicFragments', build.relicFrags[2], $event)">
+              <img *ngIf="build.relicFrags[2]" [src]=" 'assets/imgs/items/' + build.relicFrags[2].img_short" />
+            </div>
           </div>
 
         </div>
         <div class="jewelry">
+
+          <div class="classes" (click)="openDialog('classes', build.classes[1])">
+            <img [src]=" 'assets/imgs/items/' + build.classes[1].img_short" id="headArmorIMG" />
+            <div class="skill"  [ngClass]="{'disabled': build.longGun.modExclusive}" (click)="openDialog('skills', build.skills[1], $event)">
+              <img *ngIf="build.skills[1]" [src]=" 'assets/imgs/items/' + build.skills[1].img_short" />
+            </div>
+          </div>
 
           <div class="item" (click)="openDialog('amulet', build.amulet)">
             <img id="amuletIMG" [src]=" 'assets/imgs/items/' + build.amulet.img_short" />
