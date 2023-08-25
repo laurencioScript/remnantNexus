@@ -17,9 +17,9 @@ const itemCategories = [
   // ["traits", "Traits"],
   // ["relicFragments", "Relic+Fragments"],
   // ["skills", "Skills"],
-  // ["mutators", "Mutators"],
+  ["mutators", "Mutators"],
   // ["weaponMods", "Weapon+Mods"],
-  ["classes", "Classes"],
+  // ["classes", "Classes"],
 ];
 
 async function loadItemCategory() {
@@ -72,8 +72,8 @@ async function loadItemCategory() {
   }
 }
 
-// loadItemCategory()
-loadIError()
+loadItemCategory()
+// loadIError()
 // loadByURLS()
 
 async function loadIError() {
