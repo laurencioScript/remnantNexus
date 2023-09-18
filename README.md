@@ -1,27 +1,40 @@
-# Remnant2build
+# Remnant Nexus
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
+![GitHub last commit](https://img.shields.io/github/last-commit/laurencioScript/remnantNexus)
 
-## Development server
+![GitHub license](https://img.shields.io/github/license/laurencioScript/remnantNexus)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Visão Geral
 
-## Code scaffolding
+O Remnant Nexus é um projeto criado para simplificar a criação e o compartilhamento de builds no jogo Remnant 2. Em jogos complexos como esse, criar e gerenciar builds pode ser um desafio devido à variedade de equipamentos disponíveis. Este projeto tem como objetivo tornar esse processo mais simples, permitindo que os jogadores visualizem e compartilhem facilmente suas builds.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Invetario 1](https://media.discordapp.net/attachments/868247587910717461/1153405174103146526/20230918150526_1.jpg?width=775&height=436)
 
-## Build
+![Invetario 2](https://media.discordapp.net/attachments/868247587910717461/1153405174807793695/20230918150542_1.jpg?width=775&height=436)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Funcionalidades Principais
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- **Web Scraper**: O projeto utiliza o Puppeteer para extrair informações relevantes e imagens da wiki do jogo, garantindo que os dados estejam sempre atualizados.
 
-## Running end-to-end tests
+- **Construtor de Builds**: Uma interface intuitiva permite que os jogadores montem suas builds com facilidade. Uma função de pesquisa por texto simplifica a busca por itens específicos.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- **Captura de Imagem**: Os jogadores podem tirar capturas de tela de suas builds com o clique de um botão. A imagem é automaticamente copiada para a área de transferência ou pode ser baixada no navegador.
 
-## Further help
+## Tecnologias Utilizadas
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- **Angular**: A interface do projeto foi desenvolvida usando o framework Angular.
+- **Puppeteer**: Utilizado para a coleta de dados da wiki do jogo.
+
+## Como Usar
+
+1. Clone o repositório para o seu ambiente local.
+2. Execute `npm install` para instalar as dependências.
+3. Execute `ng serve` para iniciar o servidor de desenvolvimento.
+4. Acesse o projeto em `http://localhost:4200` no seu navegador.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests) para melhorar este projeto.
+
+![End](https://media.discordapp.net/attachments/868247587910717461/1153405175076225126/20230918150809_1.jpg?width=775&height=436)
