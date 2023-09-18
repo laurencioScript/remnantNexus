@@ -37,4 +37,6 @@ O Remnant Nexus é um projeto criado para simplificar a criação e o compartilh
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests) para melhorar este projeto.
 
+[Visite o Remnant Nexus](https://laurencioscript.github.io/remnantNexus/)
+
 ![End](https://media.discordapp.net/attachments/868247587910717461/1153405175076225126/20230918150809_1.jpg?width=775&height=436)
