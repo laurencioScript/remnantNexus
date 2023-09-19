@@ -79,7 +79,7 @@ export class AppComponent {
     if(event){
       event.stopPropagation()
     }
-
+    console.log('>>> openDialog', {data, selected});
     const items = this.filterSpecificItems({items: this.db, type: data, selected});
 
     const dialogRef = this.dialog.open(InventoryComponent, {
@@ -90,28 +90,33 @@ export class AppComponent {
     });
   
     dialogRef.afterClosed().subscribe(value => {
+      console.log('>>> value', value);
+      console.log('>>> data', data);
       if (value) {
         let updated = false;
-        for (const key in this.build) {
-          if (Array.isArray(this.build[key])) {
-            this.build[key] = this.build[key].map(k => {
-              if(k.img === selected?.img) {
-                updated = true;
-                return value
-              }
-              else {
-                return k;
-              }
-            });
-          } else if (this.build[key]?.img === selected?.img) {
-            this.build[key] = value;
-            updated  = true;
-          }
-        }
-        
 
-        if(!updated){
+        
+        if(this.build.hasOwnProperty(data)){
           this.build[data] = value;
+        }
+        else{
+          for (const key in this.build) {
+            console.log('>>> key', key);
+            if (Array.isArray(this.build[key])) {
+              this.build[key] = this.build[key].map(k => {
+                if(k.img === selected?.img) {
+                  updated = true;
+                  return value
+                }
+                else {
+                  return k;
+                }
+              });
+            } else if (this.build[key]?.img === selected?.img) {
+              this.build[key] = value;
+              updated  = true;
+            }
+          }
         }
 
         this.attachmentMod(data)
@@ -128,6 +133,7 @@ export class AppComponent {
   }
 
   attachmentMod(data: string) {
+    console.log('>>> data', data);
     let weaponType, modType;
   
     if (data === 'longGun') {
