@@ -1,7 +1,8 @@
 # Remnant Nexus
 
-[Read this page in English](https://github.com/laurencioScript/remnantNexus/blob/master/README.md)
-[Leia esta página em português](https://github.com/laurencioScript/remnantNexus/blob/master/README-pt.md)
+- [Read this page in English](https://github.com/laurencioScript/remnantNexus/blob/master/README.md) 
+
+- [Leia esta página em português](https://github.com/laurencioScript/remnantNexus/blob/master/README-pt.md)
 
 ## Visão Geral
 
