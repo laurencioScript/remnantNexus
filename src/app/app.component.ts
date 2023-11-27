@@ -143,7 +143,7 @@ export class AppComponent {
   }
 
   async captureAndCopy() {
-    const captureDiv = document.querySelector('.flex-container') as HTMLDivElement;
+    const captureDiv = document.querySelector('#build-container') as HTMLDivElement;
     
     try {
       const canvas = await html2canvas(captureDiv);
@@ -168,7 +168,7 @@ export class AppComponent {
   }
 
   async captureAndDownload() {
-    const captureDiv = document.querySelector('.flex-container') as HTMLDivElement;
+    const captureDiv = document.querySelector('#build-container') as HTMLDivElement;
   
     try {
       const canvas = await html2canvas(captureDiv);

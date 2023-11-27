@@ -6,43 +6,88 @@ $ligth-grey: #808080;
 $sizeArmorsAndJewelrys: 100px;
 $sizeWeapons: 200px;
 
-.container{
+.container {
   height: 100%;
-  position: relative;
+  // position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-header{
-  width: 100%;
-  text-align: center;
-  
-  .logo{
-    width: 10%;
-  }
+header {
+  // width: 100%;
+  padding: 0 8%;
 
-  h4{
-    margin: 8px 8px 16px 8px;
-    text-align: center;
-    font-weight: 600;
-    font-size: small;
+  .logo {
+    width: 180px;
   }
-
 }
 
+.section-intro {
+  position: relative;
+  height: 500px;
+  width: 98%;
+  margin: 8px;
 
+  .image-overlay {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .opacity-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(
+      0,
+      0,
+      0,
+      0.5
+    ); /* Cor de fundo com opacidade ajustável */
+  }
+
+  .text-container {
+    position: absolute;
+    top: 50%;
+    left: 160px;
+    transform: translateY(-50%);
+    color: #fff;
+  }
+
+  h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 1.2em;
+    margin: 0;
+    width: 50%;
+  }
+}
 
 .flex-container {
   display: flex;
-  flex-direction: row;
-  // background: rgb(0,0,0,0.7);
+  flex-direction: column;
+  align-items: center;
   z-index: 1;
-  width: 100%;
-  padding: 24px 0 40px 0;
-  justify-content: center;
-}
+  padding: 48px 0 80px 0px;
 
+  h1 {
+    text-align: center;
+    margin-bottom: 32px;
+  }
+}
 
 mat-dialog-container {
   background-color: greenyellow !important;
@@ -120,8 +165,6 @@ mat-dialog-container {
   height: 377.14px;
   margin: 0 8px;
 }
-
-
 
 .jewelrys {
   display: flex;
@@ -201,14 +244,13 @@ a {
   background-color: #e45454;
 }
 
-.sec-buttons{
-    margin: 16px 0;
-
-    button:first-child{
-      margin-right: 16px;
-    }
-
-  
+.sec-buttons {
+  margin: 30px 0 0 0;
+  display: flex;
+  justify-content: center;
+  button:first-child {
+    margin-right: 16px;
+  }
 }
 
 .classes {
@@ -226,13 +268,13 @@ a {
   border: 2px solid #282828;
 }
 
-.skill{
+.skill {
   border-radius: 48px;
   border: 2px solid #282828;
   left: -32px;
   top: 30px;
   position: absolute;
-  img{
+  img {
     height: 48px !important;
     width: 48px !important;
     border-radius: 48px;
@@ -252,8 +294,10 @@ a {
   padding: 8px;
   border: 2px solid #282828;
   border-radius: 15px;
+  border: 1px solid #525252;
+  background: rgba(0, 0, 0, 0.8);
 
-  .modAndMutator{
+  .modAndMutator {
     border: 1px solid #525252;
     background: rgba(0, 0, 0, 0.8);
     box-shadow: inset 0 0 10px black;
@@ -261,12 +305,12 @@ a {
     height: 40px;
     border-radius: 8px;
     position: absolute;
-    img{
+    img {
       width: 40px;
     }
   }
 
-  .relicFrag{
+  .relicFrag {
     display: none;
     border: 1px solid #525252;
     background: rgba(0, 0, 0, 0.8);
@@ -275,63 +319,43 @@ a {
     height: 40px;
     border-radius: 4px;
     position: absolute;
-    img{
+    img {
       width: 40px !important;
     }
   }
 
-  .fixedLeft{
+  .fixedLeft {
     left: 8px;
     bottom: -24px;
   }
-  
-  .fixedRight{
+
+  .fixedRight {
     right: 8px;
     bottom: -24px;
   }
 
-  .fixedTop{
+  .fixedTop {
     left: -52px;
     top: -24px;
   }
 
-  .fixedMid{
+  .fixedMid {
     left: -52px;
     top: 24px;
   }
 
-  .fixedBottom{
+  .fixedBottom {
     left: -52px;
     bottom: -32px;
   }
-
-  
 }
 
-.disabled{
-  pointer-events: none; 
+.disabled {
+  pointer-events: none;
   opacity: 0.8;
 }
 
-.item:before {
-  position: absolute;
-  content: "";
-  top: -0.25em;
-  left: -0.25em;
-  background: linear-gradient(51deg, #808080, #404040, #808080, #404040);
-  z-index: -1;
-  width: calc(100% + 0.5em);
-  height: calc(100% + 0.5em);
-  border-radius: 15px;
-  animation: gradient 5s ease infinite;
-  background-size: 350% 350% !important;
-  box-shadow: 0 8px 12px #808080;
-  transition: 0.5s ease-in-out;
-}
 
-.item:hover:before {
-  animation: gradient 5s ease infinite;
-}
 
 @keyframes gradient {
   0% {
@@ -347,5 +371,35 @@ a {
   100% {
     background-position: 0% 50%;
     box-shadow: 0px 0px 20px #525252;
+  }
+}
+
+.flex-container {
+  p {
+    font-size: 1.8em;
+    margin: 0;
+    margin-bottom: 40px;
+  }
+}
+
+.section-disqus {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  width: 98%;
+  padding: 32px 0;
+  background-color: #292929;
+  border-radius: 15px;
+
+  div {
+    width: 50%;
+  }
+
+  p {
+    font-size: 1.2em;
+    margin: 0;
+    margin-bottom: 40px;
+    width: 40%;
+    font-style: italic;
   }
 }
