@@ -28,7 +28,7 @@ export class AppComponent {
         classes: [this.db.classes[0], this.db.classes[1]],
         skills: [this.db.skills[0], this.db.skills[1]],
         rings: [this.db.rings[0], this.db.rings[1], this.db.rings[2], this.db.rings[3]],
-        meleWeapon: this.db.meleeWeapon[0],
+        meleeWeapon: this.db.meleeWeapon[0],
         modMeleeWeapon: null,
         mutatorMeleeWeapon: null,
         longGun: this.db.longGun[0],
@@ -93,7 +93,9 @@ export class AppComponent {
       if(!value){
         return
       }
-
+      console.log('>>> value', value);
+      console.log('>>> data', data);
+      console.log('>>> this.build', this.build);
       if(this.build.hasOwnProperty(data)){
         if(Array.isArray(this.build[data])){
             this.build[data] = this.build[data].map(k => {
@@ -130,7 +132,7 @@ export class AppComponent {
       weaponType = this.build.handGun;
       modType = 'modHandGun';
     } else if (data === 'meleeWeapon') {
-      weaponType = this.build.meleWeapon;
+      weaponType = this.build.meleeWeapon;
       modType = 'modMeleeWeapon';
     }
     else{
