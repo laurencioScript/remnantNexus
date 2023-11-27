@@ -25,6 +25,7 @@ export class InventoryComponent {
   }
 
   selectItem(item){
+    console.log('>>> item', item);
     this.dialogRef.close(item);
   }
 

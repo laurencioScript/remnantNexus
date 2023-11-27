@@ -79,7 +79,7 @@ export class AppComponent {
     if(event){
       event.stopPropagation()
     }
-    console.log('>>> openDialog', {data, selected});
+
     const items = this.filterSpecificItems({items: this.db, type: data, selected});
 
     const dialogRef = this.dialog.open(InventoryComponent, {
@@ -90,40 +90,28 @@ export class AppComponent {
     });
   
     dialogRef.afterClosed().subscribe(value => {
-      console.log('>>> value', value);
-      console.log('>>> data', data);
-      if (value) {
-        let updated = false;
-
-        
-        if(this.build.hasOwnProperty(data)){
-          this.build[data] = value;
-        }
-        else{
-          for (const key in this.build) {
-            console.log('>>> key', key);
-            if (Array.isArray(this.build[key])) {
-              this.build[key] = this.build[key].map(k => {
-                if(k.img === selected?.img) {
-                  updated = true;
-                  return value
-                }
-                else {
-                  return k;
-                }
-              });
-            } else if (this.build[key]?.img === selected?.img) {
-              this.build[key] = value;
-              updated  = true;
-            }
-          }
-        }
-
-        this.attachmentMod(data)
-        this.attachmentSkill(value)
+      if(!value){
+        return
       }
 
-      
+      if(this.build.hasOwnProperty(data)){
+        if(Array.isArray(this.build[data])){
+            this.build[data] = this.build[data].map(k => {
+              if(k.img === selected?.img) {
+                return value
+              }
+              else {
+                return k;
+              }
+            });
+        }
+        else{
+          this.build[data] = value;
+        }
+
+      }
+    
+      this.fixModExclusive(data)
     });
   }
 
@@ -132,8 +120,7 @@ export class AppComponent {
     this.build.skills[i] = this.db.skills.find(s => s.type == value.name)
   }
 
-  attachmentMod(data: string) {
-    console.log('>>> data', data);
+  fixModExclusive(data: string) {
     let weaponType, modType;
   
     if (data === 'longGun') {
@@ -146,12 +133,13 @@ export class AppComponent {
       weaponType = this.build.meleWeapon;
       modType = 'modMeleeWeapon';
     }
-  
-    if (weaponType && weaponType.modExclusive) {
-      this.build[modType] = this.db.weaponMods.find(w => w.name === weaponType.modExclusive);
-    } else {
-      this.build[modType] = null;
+    else{
+      return
     }
+  
+    const isWeaponHasFixedMod = weaponType && weaponType.modExclusive;
+
+    this.build[modType] = isWeaponHasFixedMod ?  this.db.weaponMods.find(w => w.name === weaponType.modExclusive) : null;
   }
 
   async captureAndCopy() {
