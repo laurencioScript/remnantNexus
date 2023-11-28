@@ -83,7 +83,7 @@ export class AppComponent {
     const items = this.filterSpecificItems({items: this.db, type: data, selected});
 
     const dialogRef = this.dialog.open(InventoryComponent, {
-      width: '80%',
+      width: '100%',
       height:'80%',
       autoFocus: false,
       data: { items , build: this.build, selected},

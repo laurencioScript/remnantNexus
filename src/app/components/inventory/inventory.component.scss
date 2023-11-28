@@ -8,18 +8,36 @@
 }
 
 .form-search{
-    width: 40%;
-    margin-top: 16px;
+    width: 100%;
+    margin-top: 32px;
+    @media screen and (min-width: 600px) {
+        width: 40%;
+        margin-top: 16px;
+    }
+    
+    @media screen and (min-width: 1024px) {
+        width: 40%;
+        margin-top: 16px;
+    }
 }
 
 #inventory{
     // padding: 8px;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
     gap: 8px; 
     place-content: space-between;
     overflow-x: hidden;
-    height: 80%;
+    height: 78%;
+    padding: 8px;
+
+    @media screen and (min-width: 600px) {
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    }
+    
+    @media screen and (min-width: 1024px) {
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    }
 }
 
 
