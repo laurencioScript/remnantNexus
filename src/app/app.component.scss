@@ -46,7 +46,7 @@ header {
   .text-container {
     position: absolute;
     top: 50%;
-    left: 160px;
+    left: 8%;
     transform: translateY(-50%);
     color: #fff;
     opacity: 0;
@@ -65,14 +65,30 @@ header {
   }
 
   h1 {
-    font-size: 2em;
+    font-size: 1.5em;
     margin-bottom: 10px;
+
+    @media screen and (min-width: 600px) {
+      font-size: 2em;
+    }
+  
+    @media screen and (min-width: 1024px) {
+      font-size: 2em;
+    }
   }
 
   p {
-    font-size: 1.2em;
+    font-size: 1.0em;
     margin: 0;
     width: 50%;
+
+    @media screen and (min-width: 600px) {
+      font-size: 1.2em;
+    }
+  
+    @media screen and (min-width: 1024px) {
+      font-size: 1.2em;
+    }
   }
 }
 
@@ -85,9 +101,19 @@ header {
   width: fit-content;
 
   p {
-    font-size: 1.8em;
+    font-size: 1.2em;
     margin: 0;
     margin-bottom: 40px;
+    width: 80%;
+    text-align: center;
+
+    @media screen and (min-width: 600px) {
+      font-size: 1.8em;
+    }
+  
+    @media screen and (min-width: 1024px) {
+      font-size: 1.8em;
+    }
   }
 }
 
@@ -96,6 +122,14 @@ header {
   flex-direction: column;
   width: fit-content;
   padding: 40px;
+  align-items: center;
+  @media screen and (min-width: 600px) {
+    padding: 40px;
+  }
+
+  @media screen and (min-width: 1024px) {
+    padding: 40px;
+  }
 }
 
 mat-dialog-container {
@@ -108,6 +142,10 @@ mat-dialog-container {
   width: 100%;
   justify-content: space-between;
   margin-bottom: 8px;
+  
+  
+
+  
   div {
     display: flex;
     flex-direction: column;
@@ -140,7 +178,17 @@ mat-dialog-container {
   display: flex;
   flex-direction: row;
   .item {
-    margin-right: 14px;
+    margin-right: 6px;
+
+    @media screen and (min-width: 600px) {
+      margin-right: 14px;
+    }
+  
+    @media screen and (min-width: 1024px) {
+      margin-right: 14px;
+    }
+  
+
     img {
       width: calc($sizeWeapons / $division);
       height: auto;
@@ -289,6 +337,12 @@ a {
   }
 }
 
+
+.skill-right{
+  left: 53px;
+  top: 30px;
+}
+
 .item {
   position: relative;
   cursor: pointer;
@@ -369,19 +423,39 @@ a {
   place-items: center;
   width: 98%;
   padding: 32px 0;
-  // background-color: #292929;
   background-color: #1c1c1c;
   border-radius: 15px;
 
   div {
-    width: 50%;
+    width: 80%;
+    max-width: 90%;
+
+    @media screen and (min-width: 600px) {
+      width: 70%;
+    }
+  
+    @media screen and (min-width: 1024px) {
+      width: 50%;
+    }
   }
 
   p {
-    font-size: 1.2em;
+    font-size: 1.3em;
     margin: 0;
     margin-bottom: 40px;
     width: 40%;
     font-style: italic;
+    width: 80%;
+    text-align: center;
+
+    @media screen and (min-width: 600px) {
+      font-size: 1.2em;
+      width: 50%;
+    }
+  
+    @media screen and (min-width: 1024px) {
+      font-size: 1.2em;
+      width: 50%;
+    }
   }
 }

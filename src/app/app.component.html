@@ -27,7 +27,7 @@
 
           <div class="classes" (click)="openDialog('classes', build.classes[0])">
             <img [src]=" 'assets/imgs/items/' + build.classes[0].img_short" id="headArmorIMG" />
-            <div class="skill" [ngClass]="{'disabled': build.longGun.modExclusive}"
+            <div class="skill skill-right" [ngClass]="{'disabled': build.longGun.modExclusive}"
               (click)="openDialog('skills', build.skills[0], $event)">
               <img *ngIf="build.skills[0]" [src]=" 'assets/imgs/items/' + build.skills[0].img_short" />
             </div>
